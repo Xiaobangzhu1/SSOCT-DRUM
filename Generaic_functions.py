@@ -85,8 +85,13 @@ def GenStageWave_ramp(distance, AlineTriggers, DISTANCE, STEPS):
     steps = (distance/DISTANCE*STEPS)
     # how many Aline triggers per motor step
     clocks_per_motor_step = np.int16(AlineTriggers/steps)
+    # print('clocks_per_motor_step:', AlineTriggers/steps)
+    # print('AlineTriggers:',AlineTriggers)
+    # print('steps:',steps)
     if clocks_per_motor_step < 2:
-        clocks_per_motor_step = 2
+        print('too few Alines per stage step, try increasing X steps or Aline repeat')
+        return
+        # clocks_per_motor_step = 2
     # print('clocks per motor step: ',clocks_per_motor_step)
     # generate stage movement that ramps up and down speed so that motor won't miss signal at beginning and end
     # ramping up: the interval between two steps should be 100 clocks at the beginning, then gradually decrease.vice versa for ramping down
@@ -177,8 +182,9 @@ def GenAODO(mode='RptBline', XStepSize = 1, XSteps = 1000, AVG = 1, obj = 'OptoS
         else:
             stagewave = GenStageWave_ramp(YSteps * YStepSize/1000, (XSteps*AVG + 2 * preclocks + postclocks)* YSteps * BVG, DISTANCE, STEPS)
         # append preclocks and postclocks
+        # print('distance per Cscan: ',np.sum(stagewave)/STEPS*DISTANCE*1000,'um')
         stagewave = CSCAN_AXIS*stagewave
-        # print('distance per Cscan: ',np.sum(stagewaveform)/STEPS*DISTANCE*1000/pow(2,CSCAN_AXIS),'um')
+        
         
         status = 'waveform updated'
         return np.uint32(stagewave), CscanAO, status

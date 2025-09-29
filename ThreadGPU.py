@@ -117,12 +117,19 @@ class GPUThread(QThread):
         if not (SIM or self.SIM):
             self.data_CPU = np.float32(self.Memory[memoryLoc].copy())
             Alines =self.data_CPU.shape[0]*self.data_CPU.shape[1]//samples
+            # print(self.data_CPU.shape, Alines)
             self.data_CPU=self.data_CPU.reshape([Alines, samples])
+            NAlines = self.ui.Xsteps.value()*self.ui.AlineAVG.value()+self.ui.PreClock.value()*2+self.ui.PostClock.value()
+            Blines = Alines//NAlines
             # subtract background and remove first 100 samples
             if self.Digitizer == 'ART':
-                self.data_CPU = self.data_CPU[:,self.ui.DelaySamples.value():self.ui.PostSamples_2.value()-self.ui.TrimSamples.value()]#-self.background
-                samples = self.ui.PostSamples_2.value() - self.ui.DelaySamples.value()-self.ui.TrimSamples.value()
-            self.data_CPU = self.data_CPU - np.mean(self.data_CPU, 0)
+                self.data_CPU = self.data_CPU[:,self.ui.DelaySamples.value()-1:self.ui.TrimSamples.value()]#-self.background
+                samples = self.ui.TrimSamples.value() - self.ui.DelaySamples.value()+1
+            self.data_CPU=self.data_CPU.reshape([Blines,NAlines, samples])
+            background = np.mean(self.data_CPU, 1).reshape([Blines,1, samples])
+            # background = np.ones([Blines,1, samples])*2048
+            
+            self.data_CPU = self.data_CPU - np.tile(background, (1,NAlines,1))
             fftAxis = 1
             # # zero-padding data before FFT
             # if data_CPU.shape[1] != self.length_FFT:
@@ -141,7 +148,7 @@ class GPUThread(QThread):
             indice1 = cupy.array(self.indice[0,:])
             indice2 = cupy.array(self.indice[1,:])
             yp_gpu = cupy.zeros(self.data_CPU.shape, dtype = cupy.float32)
-            dispersion = cupy.array(self.dispersion)
+            dispersion = cupy.array(self.dispersion*np.hanning(1200))
             # print('data to gpu takes ', round(time.time()-t1,3))
             # print(self.data_CPU[0:3])
             # interpolation
@@ -204,8 +211,8 @@ class GPUThread(QThread):
             self.data_CPU=self.data_CPU.reshape([Alines, samples])
             # subtract background and remove first 100 samples
             if self.Digitizer == 'ART':
-                self.data_CPU = self.data_CPU[:,self.ui.DelaySamples.value():self.ui.PostSamples_2.value()-self.ui.TrimSamples.value()]-self.background
-                samples = self.ui.PostSamples_2.value() - self.ui.DelaySamples.value()-self.ui.TrimSamples.value()
+                self.data_CPU = self.data_CPU[:,self.ui.DelaySamples.value()-1:self.ui.TrimSamples.value()]-self.background
+                samples = self.ui.TrimSamples.value() - self.ui.DelaySamples.value() +1
             fftAxis = 1
             # # zero-padding data before FFT
             # if data_CPU.shape[1] != self.length_FFT:
@@ -246,7 +253,7 @@ class GPUThread(QThread):
         if self.Digitizer == 'Alazar':
             samples = self.ui.PreSamples.value()+self.ui.PostSamples.value()
         elif self.Digitizer == 'ART':
-            samples = self.ui.PostSamples_2.value() - self.ui.DelaySamples.value()-self.ui.TrimSamples.value()
+            samples = self.ui.TrimSamples.value() - self.ui.DelaySamples.value() +1
         # print('GPU dispersion samples: ',samples)
             
         # self.window = np.float32(np.hanning(samples))
@@ -254,15 +261,19 @@ class GPUThread(QThread):
         dispersion_path = self.ui.InD_DIR.text()
         # print(dispersion_path+'/dspPhase.bin')
         if os.path.isfile(dispersion_path+'/dspPhase.bin'):
-            self.intpX  = np.float32(np.fromfile(dispersion_path+'/intpX.bin', dtype=np.float32))
-            self.intpXp  = np.float32(np.fromfile(dispersion_path+'/intpXp.bin', dtype=np.float32))
-            self.indice = np.uint16(np.fromfile(dispersion_path+'/intpIndice.bin', dtype=np.uint16)).reshape([2,samples])
-            self.dispersion = np.float32(np.fromfile(dispersion_path+'/dspPhase.bin', dtype=np.float32)).reshape([1, samples])
-            self.dispersion = np.complex64(np.exp(-1j*self.dispersion))
-            self.ui.statusbar.showMessage("load disperison compensation success...")
-            # self.ui.PrintOut.append("load disperison compensation success...")
-            self.log.write("load disperison compensation success...")
-            print("load disperison compensation success...")
+            try:
+                self.intpX  = np.float32(np.fromfile(dispersion_path+'/intpX.bin', dtype=np.float32))
+                self.intpXp  = np.float32(np.fromfile(dispersion_path+'/intpXp.bin', dtype=np.float32))
+                self.indice = np.uint16(np.fromfile(dispersion_path+'/intpIndice.bin', dtype=np.uint16)).reshape([2,samples])
+                self.dispersion = np.float32(np.fromfile(dispersion_path+'/dspPhase.bin', dtype=np.float32)).reshape([1, samples])
+                self.dispersion = np.complex64(np.exp(-1j*self.dispersion))
+                # self.dispersion = np.complex64(np.ones(samples)).reshape([1,samples])
+                self.ui.statusbar.showMessage("load disperison compensation success...")
+                # self.ui.PrintOut.append("load disperison compensation success...")
+                self.log.write("load disperison compensation success...")
+                print("load disperison compensation success...")
+            except:
+                print("load disperison compensation failed...")
         else:
             
             self.intpX  = np.float32(np.linspace(0,1,samples))
@@ -282,7 +293,7 @@ class GPUThread(QThread):
         if self.Digitizer == 'Alazar':
             samples = self.ui.PreSamples.value()+self.ui.PostSamples.value()
         elif self.Digitizer == 'ART':
-            samples = self.ui.PostSamples_2.value()-self.ui.DelaySamples.value()-self.ui.TrimSamples.value()
+            samples = self.ui.TrimSamples.value()-self.ui.DelaySamples.value() +1
         while self.length_FFT < samples:
             self.length_FFT *=2
 

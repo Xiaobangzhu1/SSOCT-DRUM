@@ -153,8 +153,8 @@ class DnSThread(QThread):
         # reshape data to [Ypixels*Xpixels, Zpixels]
         data = data.reshape([Yrpt*Xpixels,Zpixels])
         if raw and self.Digitizer == 'ART':
-            Zpixels = self.ui.PostSamples_2.value()-self.ui.DelaySamples.value()-self.ui.TrimSamples.value()
-            data = data[:,self.ui.DelaySamples.value():self.ui.PostSamples_2.value()-self.ui.TrimSamples.value()]
+            Zpixels = self.ui.TrimSamples.value()-self.ui.DelaySamples.value()+1
+            data = data[:,self.ui.DelaySamples.value()-1:self.ui.TrimSamples.value()]
 
         Ascan = np.float32(np.mean(data,0))
         self.Aline = data
@@ -185,6 +185,9 @@ class DnSThread(QThread):
         Yrpt = self.ui.BlineAVG.value()
         # reshape data
         data = data.reshape([Yrpt,Xpixels,Zpixels])
+        if raw and self.Digitizer == 'ART':
+            Zpixels = self.ui.TrimSamples.value()-self.ui.DelaySamples.value()+1
+            data = data[:,:,self.ui.DelaySamples.value()-1:self.ui.TrimSamples.value()]
         # trim fly-back pixels
         if self.Digitizer == 'ART':    
             data = data[:,self.ui.PreClock.value():self.ui.Xsteps.value()*self.ui.AlineAVG.value()+self.ui.PreClock.value(),:]
@@ -225,6 +228,9 @@ class DnSThread(QThread):
         Zpixels, Xpixels, Ypixels = self.get_FOV_size(raw)
         # reshape data
         data = data.reshape([Ypixels, Xpixels, Zpixels])
+        if raw and self.Digitizer == 'ART':
+            Zpixels = self.ui.TrimSamples.value()-self.ui.DelaySamples.value()+1
+            data = data[:,:,self.ui.DelaySamples.value()-1:self.ui.TrimSamples.value()]
         # trim fly-back pixels
         if self.Digitizer == 'ART':    
             data = data[:,self.ui.PreClock.value():self.ui.Xsteps.value()*self.ui.AlineAVG.value()+self.ui.PreClock.value(),:]
@@ -277,13 +283,16 @@ class DnSThread(QThread):
 
         ###############
         self.surf = np.zeros([ surfX*(Ypixels//scale),surfY*(Xpixels//scale)],dtype = np.float32)
+        # self.surfback = np.zeros([ surfX*(Ypixels//scale),surfY*(Xpixels//scale)],dtype = np.float32)
 
         pixmap = ImagePlot(self.surf, self.ui.Surfmin.value(), self.ui.Surfmax.value())
         # clear content on the waveformLabel
         self.ui.SampleMosaic.clear()
         # update iamge on the waveformLabel
         self.ui.SampleMosaic.setPixmap(pixmap)
-        
+        self.cscan_sum = np.zeros([self.ui.Ysteps.value()*self.ui.BlineAVG.value() , \
+                                   self.ui.Xsteps.value()*self.ui.AlineAVG.value() , \
+                                                     self.ui.DepthRange.value()])
         # load surface profile for high res imaging
         if os.path.isfile(self.ui.Surf_DIR.text()):
             self.surfCurve = np.uint16(np.fromfile(self.ui.Surf_DIR.text(), dtype=np.uint16))
@@ -325,7 +334,21 @@ class DnSThread(QThread):
             print(message)
             self.log.write(message)
 
-            
+    def Focusing(self, cscan):
+         print(cscan.shape)
+
+         bscan = cscan.mean(0)
+
+         ascan = bscan.mean(0)
+         print(ascan.shape)
+         surfHeight = findchangept(ascan,1)
+
+         ##########################################################
+         self.ui.SurfHeight.setValue(surfHeight)
+         message = 'tile surf is:'+str(surfHeight)
+         print(message)
+         self.log.write(message)
+ 
     def Process_Mosaic(self, data, raw = False, args = []):
         Zpixels, Xpixels, Ypixels = self.get_FOV_size(raw)
         # reshape data
@@ -350,6 +373,8 @@ class DnSThread(QThread):
         surfX = args[1][0]
         surfY = np.int32(args[1][1]/args[1][0])
         fileY = args[0][1]-1
+        # fileY_back = args[0][1]-1
+        # fileX_back = args[0][0]
         if np.mod(fileY,2) == 0:
             fileX = args[0][0]
         else:
@@ -366,6 +391,7 @@ class DnSThread(QThread):
                         data_flatten[:,xx,0:data.shape[2]-self.surfCurve[xx]] = data[:,xx,self.surfCurve[xx]:]
             else:
                 data_flatten = data
+            self.cscan_sum = self.cscan_sum + data_flatten
             if time.time()-start0 > 2:
                 print('flatten surface take', round(time.time()-start0,3))
             
@@ -443,6 +469,8 @@ class DnSThread(QThread):
             self.ui.XYplane.clear()
             # update iamge on the waveformLabel
             self.ui.XYplane.setPixmap(pixmap)
+            # update tile mean on UI
+            self.ui.tileMean.setValue(np.mean(AIP))
             ###################### ############
             # # plot 3D visulaization
             if self.use_maya:
@@ -452,6 +480,8 @@ class DnSThread(QThread):
             scale = self.ui.scale.value()
             self.surf[Ypixels//scale*fileX:Ypixels//scale*(fileX+1),\
                       Xpixels//scale*(fileY):Xpixels//scale*(fileY+1)] = AIP[::scale,::scale]
+            # self.surfback[Ypixels//scale*fileX_back:Ypixels//scale*(fileX_back+1),\
+            #           Xpixels//scale*(fileY_back):Xpixels//scale*(fileY_back+1)] = AIP[::scale,::scale]
         else:
             #######################################
             # for raw data, no display is available
@@ -478,6 +508,8 @@ class DnSThread(QThread):
         pixmap = ImagePlot(self.surf, self.ui.Surfmin.value(), self.ui.Surfmax.value())
         self.ui.SampleMosaic.clear()
         self.ui.SampleMosaic.setPixmap(pixmap)
+        self.AIPQueue.put(self.surf)
+        self.Focusing(self.cscan_sum)
         
 
         
@@ -501,7 +533,9 @@ class DnSThread(QThread):
                     else:
                         m=self.ui.XYmin.value()
                         M=self.ui.XYmax.value()
-                    pixmap = LinePlot(data, [], m, M)
+                    # print(data.shape)
+                    aline = np.float32(np.mean(data,0))
+                    pixmap = LinePlot(aline, [], m, M)
                     # clear content on the waveformLabel
                     self.ui.XZplane.clear()
                     # update iamge on the waveformLabel

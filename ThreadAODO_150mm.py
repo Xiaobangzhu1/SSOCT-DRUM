@@ -11,10 +11,17 @@ SIM = False
 ###########################################
 from PyQt5.QtCore import  QThread
 
+# try:
+#     import nidaqmx as ni
+#     from nidaqmx.constants import AcquisitionType as Atype
+#     from nidaqmx.constants import Edge
+# except:
+#     SIM = True
 try:
-    import nidaqmx as ni
-    from nidaqmx.constants import AcquisitionType as Atype
-    from nidaqmx.constants import Edge
+    import artdaq as ni
+    from artdaq.constants import AcquisitionType as Atype
+    from artdaq.constants import Edge
+    from artdaq.constants import (LineGrouping)
 except:
     SIM = True
     
@@ -28,25 +35,25 @@ import numpy as np
 global XDISABLE
 XDISABLE = pow(2,0) # port 2 line 0
 global YDISABLE
-YDISABLE = pow(2,2) # port 2 line 2
+YDISABLE = pow(2,0) # port 2 line 2
 global ZDISABLE
-ZDISABLE = pow(2,4) # port 2 line 4
+ZDISABLE = pow(2,0) # port 2 line 4
 
 
 # stage forwared backward digital value
 global XFORWARD
 XFORWARD = pow(2,1) # port 2 line 1
 global YFORWARD
-YFORWARD = pow(2,3) # port 2 line 3
+YFORWARD = pow(2,2) # port 2 line 3
 global ZFORWARD
-ZFORWARD = 0 # port 2 line 5, but reverse
+ZFORWARD = pow(2,3) # port 2 line 5
 
 global XBACKWARD
 XBACKWARD = 0
 global YBACKWARD
 YBACKWARD = 0
 global ZBACKWARD
-ZBACKWARD = pow(2,5) # port 2 line 5
+ZBACKWARD = 0 # port 2 line 5, but reverse
 # backward = 0
 # stage channel digital value
 global XCH
@@ -136,6 +143,7 @@ class AODOThread(QThread):
     def Init_all_termial(self):
         # Galvo terminal
         self.GalvoAO = self.ui.AODOboard.toPlainText()+'/'+self.ui.GalvoAO.currentText()
+        # print(self.GalvoAO)
         # laser
         if self.ui.Laser.currentText() == 'Axsun100k':
             self.Aline_frq = 100000
@@ -152,7 +160,7 @@ class AODOThread(QThread):
         # Galvo&Stage trigger termial
         self.AODOTrig = '/'+self.ui.AODOboard.toPlainText()+'/'+self.ui.AODOTrig.currentText()
         # vibratome enable terminal
-        self.VibEnable = '/'+self.ui.AODOboard.toPlainText()+'/'+self.ui.VibEnable.currentText()
+        self.VibEnable = self.ui.AODOboard.toPlainText()+'/'+self.ui.VibEnable.currentText()
 
         self.ui.Xcurrent.setValue(self.ui.XPosition.value())
         self.ui.Ycurrent.setValue(self.ui.YPosition.value())
@@ -178,7 +186,7 @@ class AODOThread(QThread):
     def ConfigTask(self, direction = 1):
         if not (SIM or self.SIM): # if not running simulation mode
             # Generate waveform
-            DOwaveform,AOwaveform,status = GenAODO(mode=self.ui.ACQMode.currentText(), \
+            self.DOwaveform,self.AOwaveform,status = GenAODO(mode=self.ui.ACQMode.currentText(), \
                                                      XStepSize = self.ui.XStepSize.value(), \
                                                      XSteps = self.ui.Xsteps.value(), \
                                                      AVG = self.ui.AlineAVG.value(), \
@@ -203,11 +211,10 @@ class AODOThread(QThread):
             self.AOtask.timing.cfg_samp_clk_timing(rate=self.Aline_frq, \
                                                    source=self.ClockTerm, \
                                                    active_edge= Edge.RISING,\
-                                                   sample_mode=mode,samps_per_chan=len(AOwaveform))
+                                                   sample_mode=mode,samps_per_chan=len(self.AOwaveform))
             # Config start mode
             self.AOtask.triggers.start_trigger.cfg_dig_edge_start_trig(self.AODOTrig)
-            # write waveform and start
-            self.AOtask.write(AOwaveform, auto_start = False)
+
             # self.AOtask.start()
             
             #################################################################################
@@ -229,12 +236,12 @@ class AODOThread(QThread):
                 self.DOtask.timing.cfg_samp_clk_timing(rate=self.Aline_frq, \
                                                        source=self.ClockTerm, \
                                                        active_edge= Edge.RISING,\
-                                                       sample_mode=mode,samps_per_chan=len(DOwaveform))
+                                                       sample_mode=mode,samps_per_chan=len(self.DOwaveform))
                
 
                 self.DOtask.triggers.start_trigger.cfg_dig_edge_start_trig(self.AODOTrig)
                 
-                self.DOtask.write(DOwaveform, auto_start = False)
+                
                 # self.DOtask.start()
                 # print(DOwaveform.shape)
                 # steps = np.sum(DOwaveform)/25000.0*2/pow(2,1)
@@ -246,8 +253,11 @@ class AODOThread(QThread):
         
     def StartTask(self):
         if not (SIM or self.SIM):
+            # write waveform and start
+            self.AOtask.write(self.AOwaveform, auto_start = False)
             self.AOtask.start()
             if self.ui.ACQMode.currentText() in ['SingleCscan','Mosaic','Mosaic+Cut']:
+                self.DOtask.write(self.DOwaveform, auto_start = False)
                 self.DOtask.start()
         self.StagebackQueue.put(0)
             
@@ -284,8 +294,10 @@ class AODOThread(QThread):
     def startVibratome(self):
         if not (SIM or self.SIM):
             settingtask = ni.Task('vibratome')
-            settingtask.do_channels.add_do_chan(lines=self.VibEnable)
-            settingtask.write(True, auto_start = True)
+            # print(self.VibEnable)
+            settingtask.do_channels.add_do_chan(lines=self.VibEnable,
+            line_grouping=LineGrouping.CHAN_PER_LINE)
+            settingtask.write(1, auto_start = True)
             settingtask.wait_until_done(timeout = 1)
             settingtask.stop()
             settingtask.close()
@@ -294,8 +306,9 @@ class AODOThread(QThread):
     def stopVibratome(self):
         if not (SIM or self.SIM):
             settingtask = ni.Task('vibratome')
-            settingtask.do_channels.add_do_chan(lines=self.VibEnable)
-            settingtask.write(False, auto_start = True)
+            settingtask.do_channels.add_do_chan(lines=self.VibEnable,
+            line_grouping=LineGrouping.CHAN_PER_LINE)
+            settingtask.write(0, auto_start = True)
             settingtask.wait_until_done(timeout = 1)
             settingtask.stop()
             settingtask.close()
@@ -314,7 +327,7 @@ class AODOThread(QThread):
                 
     def centergalvo(self):
         if not (SIM or self.SIM):
-            with ni.Task('AO task') as AOtask:
+            with ni.Task('AOtask') as AOtask:
                 AOtask.ao_channels.add_ao_voltage_chan(physical_channel=self.GalvoAO, \
                                                       min_val=- 10.0, max_val=10.0, \
                                                       units=ni.constants.VoltageUnits.VOLTS)
@@ -447,7 +460,7 @@ class AODOThread(QThread):
             self.log.write(message)
             return 0
         if not (SIM or self.SIM):
-            with ni.Task('Move task') as DOtask, ni.Task('stageEnable') as stageEnabletask:
+            with ni.Task('Movetask') as DOtask, ni.Task('stageEnable') as stageEnabletask:
                 # configure stage direction and enable
                 stageEnabletask.do_channels.add_do_chan(lines=self.StageDnE)
                 stageEnabletask.write(direction + enable, auto_start = True)

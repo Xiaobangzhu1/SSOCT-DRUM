@@ -232,6 +232,7 @@ class MainWindow(QMainWindow):
         self.ui.Zmax.valueChanged.connect(self.setStageMinMax)
         
         self.ui.LoadSurface.clicked.connect(self.chooseSurfaceFile)
+        self.ui.LoadTileFlag.clicked.connect(self.chooseTileFlagFile)
         # self.ui.LoadDarkField.clicked.connect(self.chooseDarkFieldFile)
         # self.ui.LoadFlatField.clicked.connect(self.chooseFlatFieldFile)
 
@@ -245,6 +246,17 @@ class MainWindow(QMainWindow):
            print("\n use default")
            return
         self.ui.Surf_DIR.setText(fileName_choose)
+        
+    def chooseTileFlagFile(self):
+        fileName_choose, filetype = QFileDialog.getOpenFileName(self,  
+                                   "select surface file",  
+                                   os.getcwd(), # 起始路径 
+                                   "All Files (*);;Text Files (*.txt)")   # 设置文件扩展名过滤,用双分号间隔
+
+        if fileName_choose == "":
+           print("\n use default")
+           return
+        self.ui.Tile_DIR.setText(fileName_choose)
         
     def chooseDarkFieldFile(self):
         fileName_choose, filetype = QFileDialog.getOpenFileName(self,  

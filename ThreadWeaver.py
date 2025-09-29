@@ -56,13 +56,16 @@ class WeaverThread(QThread):
                     if not os.path.exists(self.ui.DIR.toPlainText()+'/fitting'):
                         os.mkdir(self.ui.DIR.toPlainText()+'/fitting')
                     # do fast pre-scan to identify tissue area
-                    interrupt, status= self.PreMosaic()
-                    if interrupt == 'Stop' :
-                        status = "action aborted by user..."
-                    elif interrupt == 'Error':
-                        pass
+                    if self.ui.PreMosaic.isChecked():
+                        interrupt, status = self.PreMosaic()#self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0)
                     else:
-                        interrupt, status = self.Mosaic()
+                        interrupt = self.LoadTileFlag()
+                        
+                    if interrupt == 'Stop':
+                        return 'user stopped acquisition...'
+                    elif interrupt == 'Error':
+                        return status
+                    interrupt, status = self.Mosaic()
                     # self.ui.PrintOut.append(status)
                     self.log.write(status)
 
@@ -332,6 +335,9 @@ class WeaverThread(QThread):
         Ystep = self.ui.YStepSize.value()*self.ui.Ysteps.value()
         CscansPerStripe = np.int16((self.ui.YStop.value()-self.ui.YStart.value())*1000/Ystep)
         self.totalTiles = CscansPerStripe * total_stripes
+        
+        # self.tile_flag = np.ones((len(self.Mosaic_pattern),CscansPerStripe),dtype = np.uint8)
+        
         # save the PreMosaic tile identification to disk
         an_action = DnSAction('WriteAgar', data = self.tile_flag, args = [ CscansPerStripe, total_stripes])
         self.DnSQueue.put(an_action)
@@ -445,8 +451,8 @@ class WeaverThread(QThread):
                     cscans +=1
                     self.ui.statusbar.showMessage('Imaging '+str(stripes)+'th strip, '+str(cscans)+'th Cscan ')
                     # display sample surface. This will display last tile, not the current tile, because FFT is not done yet for the current tile
-                    an_action = DnSAction('display_mosaic') 
-                    self.DnSQueue.put(an_action)
+                    # an_action = DnSAction('display_mosaic') 
+                    # self.DnSQueue.put(an_action)
                     
                     self.StagebackQueue.get() # wait for stage movement 
                     
@@ -481,10 +487,75 @@ class WeaverThread(QThread):
         except:
             return interrupt
         return interrupt
+      
+    def Re_evaluate_mask(self):
+        # evaluate the previous mosaic figure, remove empty tiles, and extend tissue boundary
+        self.AIPsurf = np.flip(np.rot90(self.AIPQueue.get()),0)
+        plt.figure()
+        plt.subplot(1,2,1)
+        plt.imshow(self.AIPsurf,vmin=0,vmax=1)
+        # segment tissue area using threshold
+        mask = np.uint8(self.AIPsurf>self.ui.AgarValue.value())
+        plt.subplot(1,2,2)
+        plt.imshow(mask)
+        plt.show()
+        
+        # for snake-scanning of mosaic area, flip odd rows of tile_flag to make it zig-zag scan
+        [xx,yy] = np.shape(self.tile_flag)
+        self.tile_flag_rearange = self.tile_flag.copy()
+        for ii in range(xx):
+            tmp = self.tile_flag_rearange[ii,:]
+            if np.mod(ii,2) == 0:
+                self.tile_flag_rearange[ii,:] = tmp
+            else:
+                self.tile_flag_rearange[ii,:] = tmp[::-1]
+        
+        # get tile downsampled size
+        xxlength = self.ui.Xsteps.value()//self.ui.scale.value()
+        yylength = self.ui.Ysteps.value()//self.ui.scale.value()
+        # total tissue tiles in the last mosaic
+        Agartiles_pre = np.sum(np.float32(self.tile_flag))
+        # remove empty tiles
+        for ii in range(xx):
+            for jj in range(yy):
+                maskij = mask[ii*xxlength:(ii+1)*xxlength, jj*yylength:(jj+1)*yylength]
+                if np.sum(maskij)<xxlength*yylength//100:
+                    self.tile_flag_rearange[ii,jj]=0
+                    
+        # add boundary tiles
+        for ii in range(1,xx-1):
+            for jj in range(1,yy-1):
+                maskij = mask[ii*xxlength:(ii+1)*xxlength, jj*yylength:(jj+1)*yylength]
+                
+                if np.sum(maskij[0:xxlength//4,:])>10:
+                    self.tile_flag_rearange[ii-1,jj]=1
+                if np.sum(maskij[-xxlength//4:,:])>10:
+                    self.tile_flag_rearange[ii+1,jj]=1
+                if np.sum(maskij[:,0:yylength//4])>10:
+                    self.tile_flag_rearange[ii,jj-1]=1
+                if np.sum(maskij[:,-yylength//4:])>10:
+                    self.tile_flag_rearange[ii,jj+1]=1
+        plt.figure()
+        plt.imshow(self.tile_flag_rearange)
+        plt.show()
+        for ii in range(xx):
+            tmp = self.tile_flag_rearange[ii,:]
+            if np.mod(ii,2) == 0:
+                self.tile_flag[ii,:] = tmp
+            else:
+                self.tile_flag[ii,:] = tmp[::-1]
+        
+        # pause if large decrease of tiles
+        # print(Agartiles_pre, np.sum(self.tile_flag), np.float32(Agartiles_pre) - np.float32(np.sum(self.tile_flag)))
+        if np.float32(Agartiles_pre) - np.sum(np.float32(self.tile_flag))>30:
+            print('large loss of tiles detected, manual check if light is blocked...')
+            self.ui.PauseButton.setChecked(True)
+            self.ui.PauseButton.setText('Resume')
+            self.PauseQueue.put('Pause')
         
     def PreMosaic(self):
         ######################### setting accellarated scan configs
-        Yds = 30 # Y dimension scan speed accellaration scale for fast pre-scan
+        Yds = 20 # Y dimension scan speed accellaration scale for fast pre-scan
         while self.ui.Ysteps.value()%Yds:
             Yds -= 1
         message = '\n Y dimension scan speed accellaration scale for fast pre-scan is'+str(Yds)+'\n'
@@ -501,8 +572,8 @@ class WeaverThread(QThread):
         Ysteps = self.ui.Ysteps.value()
         XStepSize = self.ui.XStepSize.value()
         YStepSize = self.ui.YStepSize.value()
-        AlineAVG = self.ui.AlineAVG.value()
-        BlineAVG = self.ui.BlineAVG.value()
+        # AlineAVG = self.ui.AlineAVG.value()
+        # BlineAVG = self.ui.BlineAVG.value()
         save = self.ui.Save.isChecked()
         FFTDevice = self.ui.FFTDevice.currentText()
         scale = self.ui.scale.value()
@@ -513,8 +584,8 @@ class WeaverThread(QThread):
         self.ui.Ysteps.setValue(Ysteps//Yds)
         self.ui.XStepSize.setValue(XStepSize)
         self.ui.YStepSize.setValue(YStepSize*Yds)
-        self.ui.AlineAVG.setValue(1)
-        self.ui.BlineAVG.setValue(1)
+        # self.ui.AlineAVG.setValue(1)
+        # self.ui.BlineAVG.setValue(1)
         self.ui.Save.setChecked(False)
         self.ui.FFTDevice.setCurrentText('GPU')
         ############## adjust mosaic display scale
@@ -557,8 +628,8 @@ class WeaverThread(QThread):
             self.ui.Ysteps.setValue(Ysteps)
             self.ui.XStepSize.setValue(XStepSize)
             self.ui.YStepSize.setValue(YStepSize)
-            self.ui.AlineAVG.setValue(AlineAVG)
-            self.ui.BlineAVG.setValue(BlineAVG)
+            # self.ui.AlineAVG.setValue(AlineAVG)
+            # self.ui.BlineAVG.setValue(BlineAVG)
             self.ui.Save.setChecked(save)
             self.ui.FFTDevice.setCurrentText(FFTDevice)
             self.ui.scale.setValue(scale)
@@ -653,11 +724,11 @@ class WeaverThread(QThread):
                 cscans +=1
                 self.ui.statusbar.showMessage('finished '+str(stripes)+'th strip, '+str(cscans)+'th Cscan ')
                 
-                ######################################## check if Pause button is clicked
+                ######################################## check if Pauseause button is clicked
                 interrupt = self.check_interrupt()
                 
-            an_action = DnSAction('display_mosaic') # data in Memory[memoryLoc]
-            self.DnSQueue.put(an_action)
+            # an_action = DnSAction('display_mosaic') # data in Memory[memoryLoc]
+            # self.DnSQueue.put(an_action)
             # print('finished this cycle for presurf')
             an_action = AODOAction('CloseTask')
             self.AODOQueue.put(an_action)
@@ -677,8 +748,8 @@ class WeaverThread(QThread):
         self.ui.Ysteps.setValue(Ysteps)
         self.ui.XStepSize.setValue(XStepSize)
         self.ui.YStepSize.setValue(YStepSize)
-        self.ui.AlineAVG.setValue(AlineAVG)
-        self.ui.BlineAVG.setValue(BlineAVG)
+        # self.ui.AlineAVG.setValue(AlineAVG)
+        # self.ui.BlineAVG.setValue(BlineAVG)
         self.ui.Save.setChecked(save)
         self.ui.FFTDevice.setCurrentText(FFTDevice)
         self.ui.scale.setValue(scale)
@@ -698,7 +769,7 @@ class WeaverThread(QThread):
         # value = value.reshape([self.ui.Ysteps.value()*self.ui.BlineAVG.value(),\
         #                        self.ui.Xsteps.value()*self.ui.AlineAVG.value()//self.Yds,self.Yds]).mean(-1)
         self.ui.tileMean.setValue(np.mean(value))
-        if np.sum(value > self.ui.AgarValue.value())>value.shape[1]*value.shape[0]*0.05: 
+        if np.sum(value > self.ui.AgarValue.value())>value.shape[1]*value.shape[0]*0.01: 
             self.tile_flag[stripes - 1][cscans] = 1
             self.ui.TissueRadio.setChecked(True)
             self.tmp_cscan = self.tmp_cscan + cscan/100.0
@@ -734,8 +805,8 @@ class WeaverThread(QThread):
         message = 'tile surf is:'+str(surfHeight)
         print(message)
         self.log.write(message)
-        delta_z = (self.ui.SurfHeight.value()-self.ui.SurfSet.value())*ZPIXELSIZE/1000.0
-        self.ui.ZIncrease.setValue(delta_z)
+        # delta_z = (self.ui.SurfHeight.value()-self.ui.SurfSet.value())*ZPIXELSIZE/1000.0
+        # self.ui.ZIncrease.setValue(delta_z)
         
     def SurfSlice(self):
         # determine if one image per cut
@@ -787,27 +858,12 @@ class WeaverThread(QThread):
             message = '\nCUT HEIGHT:'+str(self.ui.SliceZStart.value()+ii*self.ui.SliceZDepth.value()/1000.0)+'\n'
             print(message)
             self.log.write(message)
-            # remeasure background
-            # if self.ui.auto_background.isChecked():
-            #     self.get_background()
-                # time.sleep(1)
             ##################################################
             interrupt = self.check_interrupt()
             if interrupt == 'Stop':
                 message = 'user stopped acquisition...'
                 return message
-            ########################################################
-            # # move to defined zero
-            # self.ui.ZPosition.setValue(self.ui.definedZero.value())
-            # an_action = AODOAction('Zmove2')
-            # self.AODOQueue.put(an_action)
-            # self.StagebackQueue.get()
-            # ##################################################
-            # interrupt = self.check_interrupt()
-            # if interrupt == 'Stop':
-            #     message = 'user stopped acquisition...'
-            #     return message
-            ########################################################
+            
             # move to X Y Z
             self.ui.XPosition.setValue(self.ui.XStart.value())
             self.ui.YPosition.setValue(self.ui.YStart.value())
@@ -828,62 +884,47 @@ class WeaverThread(QThread):
             if interrupt == 'Stop':
                 message = 'user stopped acquisition...'
                 return message
-            ########################################################
-            # self.ui.ZPosition.setValue(self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0)
-            # an_action = AODOAction('Zmove2')
-            # self.AODOQueue.put(an_action)
-            # self.StagebackQueue.get()
-            # message = '\nIMAGE HEIGHT:'+str(self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0)+'\n'
-            # print(message)
-            # self.log.write(message)
-            # ##################################################
-            # interrupt = self.check_interrupt()
-            # if interrupt == 'Stop':
-            #     message = 'user stopped acquisition...'
-            #     return message
-            ########################################################
-            # do surf
-            if ii%self.ui.backReget.value() == 0:
-                interrupt, status = self.PreMosaic()#self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0)
+           
+            # get initial tissue locations
+            if ii == 0:
+                if self.ui.PreMosaic.isChecked():
+                    interrupt, status = self.PreMosaic()#self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0)
+                else:
+                    interrupt = self.LoadTileFlag()
+                    
                 if interrupt == 'Stop':
-                    return 'PreMosaic stopped by user...'
+                    return 'user stopped acquisition...'
                 elif interrupt == 'Error':
                     return status
-                # if np.abs(self.ui.ZIncrease.value()) > 0.1:
-                #     message= 'PreMosaic autofocus error...' + str(self.ui.ZIncrease.value())
-                #     print(message)
-                #     self.log.write(message)
-                #     return message
-                # # if focus adjustment is larger than 40 micron, redo PreMosaic
-                # elif np.abs(self.ui.ZIncrease.value()) > 0.04:
-                #     message= 'PreMosaic focus adjust ...' + str(self.ui.ZIncrease.value())
-                #     print(message)
-                #     self.log.write(message)
-
-                #     delta_z = self.ui.ZIncrease.value()
-                #     interrupt = self.PreMosaic(self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0 + delta_z)
-                #     if interrupt == 'Stop':
-                #         return 'PreMosaic stopped by user...'
-                #     if np.abs(self.ui.ZIncrease.value()) > 0.1:
-                #         message= 'PreMosaic autofocus error...' + str(self.ui.ZIncrease.value())
-                #         print(message)
-                #         self.log.write(message)
-                #         return message
-                # else:
-                #     delta_z = 0
-            # else:
-            #     delta_z = 0
+            # Mosaic
             interrupt, status = self.Mosaic()#self.ui.XStartHeight.value()+ii*self.ui.ImageZDepth.value()/1000.0 + delta_z)
             if interrupt == 'Stop':
                 return 'user stopped acquisition...'
             elif interrupt == 'Error':
                 return status
+            self.Re_evaluate_mask()
         # LAST CUT 
         message = self.SingleCut(self.ui.SliceZStart.value()+(ii+1)*self.ui.SliceZDepth.value()/1000.0)
         if message != 'Slice success':
             return message
         return 'Mosaic+Cut successful...'
     
+    def LoadTileFlag(self):
+        filepath = self.ui.Tile_DIR.text()
+        if os.path.isfile(filepath):
+            import re
+            filename = os.path.basename(filepath)
+            numbs = re.findall(r'\d+',filename)
+            # print(numbs)
+            xx = np.uint8(numbs[1])
+            yy = np.uint8(numbs[2])
+            self.tile_flag = np.fromfile(self.ui.Tile_DIR.text(), dtype=np.uint8).reshape([xx,yy])
+            return None
+        else:
+            print('tile flag file not found')
+            return 'Error'
+        # print(self.tile_flag.shape)
+            
     def MultiCutPerImage(self):
         # cut first time
         message = self.SingleCut(self.ui.SliceZStart.value())
@@ -1665,6 +1706,7 @@ class WeaverThread(QThread):
         plt.figure()
         plt.imshow(Bline)
         plt.title('Bline for finding surface')
+        plt.show()
         for xx in range(Xpixels):
             surfCurve[xx] = findchangept(Bline[xx,:],1)
         
@@ -1673,7 +1715,9 @@ class WeaverThread(QThread):
         plt.figure()
         plt.plot(surfCurve)
         plt.title('surface')
+        plt.show()
         plt.figure()
+        
 
         filePath = self.ui.DIR.toPlainText()
         filePath = filePath + "/" + 'surfCurve.bin'

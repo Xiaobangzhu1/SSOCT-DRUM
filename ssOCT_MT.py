@@ -73,6 +73,8 @@ DbackQueue = Queue(maxsize = 0)
 # Queue for pausing or stopping a task
 PauseQueue = Queue(maxsize = 0)  
 
+AIPQueue = Queue(maxsize = 0)  
+
         
 # wrap digitzer thread with global queues and Memory and ui and log function
 if Digitizer == 'Alazar':
@@ -93,7 +95,7 @@ if Digitizer == 'Alazar':
             
 elif Digitizer == 'ART':
     # ART8912 outputs 12bit data range
-    AMPLIFICATION = 16*5
+    AMPLIFICATION = 1*5
     from ThreadART8912_finiteTrigger import ART8912_finiteTrigger as ART8912
     class Digitizer_2(ART8912):
         def __init__(self, ui, log):
@@ -126,6 +128,7 @@ class WeaverThread_2(WeaverThread):
         self.DQueue = DQueue
         self.GPU2weaverQueue = GPU2weaverQueue
         self.log = log
+        self.AIPQueue = AIPQueue
 
 # wrap GPU thread with Queues and Memory
 from ThreadGPU import GPUThread
@@ -154,6 +157,7 @@ class AODOThread_2(AODOThread):
         self.StagebackQueue = StagebackQueue
         self.log = log
         self.SIM = SIM
+        
 
 # wrap Display and save thread with queues   
 from ThreadDnS import DnSThread
@@ -165,6 +169,7 @@ class DnSThread_2(DnSThread):
         self.Digitizer = Digitizer
         self.log = log
         self.use_maya = use_maya
+        self.AIPQueue = AIPQueue
         
 
 # wrap MainWindow object with queues and threads   
