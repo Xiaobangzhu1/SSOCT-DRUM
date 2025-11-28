@@ -1,6 +1,0 @@
-Stage position updated...
-load disperison compensation success...
-X moving: -4.0mm target pos: 131.0
-X :131.0 Y :46.8 Z :13.2
-X moving: -4.0mm target pos: 127.0
-X :127.0 Y :46.8 Z :13.2

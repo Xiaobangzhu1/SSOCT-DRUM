@@ -1,3 +1,0 @@
-load disperison compensation success...
-Y moving: 1.0mm target pos: 24.0
-X :52.0 Y :24.0 Z :1.0
