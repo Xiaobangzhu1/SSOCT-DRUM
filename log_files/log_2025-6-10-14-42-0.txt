@@ -1,0 +1,35 @@
+Stage position updated...
+load disperison compensation success...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+X moving: -2.4mm target pos: 82.6
+X :82.6 Y :25.0 Z :11.0
+Y moving: 1.0mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+cscan X :82.6 Y :23.2 Z :11.0
+X moving: 1.9mm target pos: 84.5
+X :84.5 Y :23.2 Z :11.0
+cscan X :84.5 Y :26.0 Z :11.0
+X moving: 1.9mm target pos: 86.4
+X :86.4 Y :26.0 Z :11.0
+cscan X :86.4 Y :23.2 Z :11.0
+tile surf is:39
+
+slice 1 zmax scale is 4
+
+X moving: -3.8mm target pos: 82.6
+X :82.6 Y :23.2 Z :11.0
+Y moving: 2.8mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.645s
+cscan X :82.6 Y :25.6 Z :11.0
+
+ an FFT action took 2.73 s
+

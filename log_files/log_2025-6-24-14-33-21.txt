@@ -1,0 +1,976 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :20.0 Y :45.0 Z :0.5
+191 data received by weaver
+190 Blines displayed
+
+RptBline successfully finished...
+191 FFT actions taken place
+
+ slicing and imaging depth same, one image per cut...
+Y moving: -13.0mm target pos: 32.0
+X :20.0 Y :32.0 Z :0.5
+X moving: 113.0mm target pos: 133.0
+X :133.0 Y :32.0 Z :0.5
+Z moving: 10.5mm target pos: 11.0
+X :133.0 Y :32.0 Z :11.0
+Y moving: -18.0mm target pos: 14.0
+X :133.0 Y :14.0 Z :11.0
+
+CUT HEIGHT:11.0
+
+X moving: -113.0mm target pos: 20.0
+X :20.0 Y :14.0 Z :11.0
+Y moving: 10.0mm target pos: 24.0
+X :20.0 Y :24.0 Z :11.0
+
+slice 1 zmax scale is 5
+
+X moving: -0.9mm target pos: 19.1
+X :19.1 Y :24.0 Z :11.0
+Y moving: 2.0mm target pos: 26.0
+X :19.1 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.1 Y :25.8 Z :11.0
+
+ an FFT action took 1.12 s
+
+user stopped acquisition...
+user stopped acquisition...
+X moving: 113.9mm target pos: 133.0
+X :133.0 Y :25.8 Z :11.0
+ slicing and imaging depth same, one image per cut...
+Y moving: 6.2mm target pos: 32.0
+X :133.0 Y :32.0 Z :11.0
+X moving: -3.0mm target pos: 130.0
+X :130.0 Y :32.0 Z :11.0
+Z move2 action aborted
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :11.0
+
+CUT HEIGHT:11.0
+
+X moving: -110.0mm target pos: 20.0
+X :20.0 Y :14.0 Z :11.0
+Y moving: 10.0mm target pos: 24.0
+X :20.0 Y :24.0 Z :11.0
+
+slice 2 zmax scale is 5
+
+X moving: -0.9mm target pos: 19.1
+X :19.1 Y :24.0 Z :11.0
+Y moving: 2.0mm target pos: 26.0
+X :19.1 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.1 Y :25.8 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 1.196 s
+
+cscan X :19.1 Y :25.6 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 1.177 s
+
+cscan X :19.1 Y :25.4 Z :11.0
+time to fetch data: 1.583s
+Y move2 action aborted
+cscan X :19.1 Y :25.2 Z :11.0
+time to fetch data: 1.561s
+Y move2 action aborted
+cscan X :19.1 Y :25.0 Z :11.0
+time to fetch data: 1.745s
+Y move2 action aborted
+cscan X :19.1 Y :24.8 Z :11.0
+time to fetch data: 1.774s
+Y move2 action aborted
+
+ an FFT action took 1.113 s
+
+cscan X :19.1 Y :24.6 Z :11.0
+time to fetch data: 1.493s
+Y move2 action aborted
+cscan X :19.1 Y :24.4 Z :11.0
+time to fetch data: 1.6s
+user stopped acquisition...
+user stopped acquisition...
+Z moving: -10.0mm target pos: 1.0
+X :19.1 Y :24.4 Z :1.0
+Y moving: 1.0mm target pos: 25.4
+X :19.1 Y :25.4 Z :1.0
+Y moving: 19.6mm target pos: 45.0
+X :19.1 Y :45.0 Z :1.0
+Y moving: -13.0mm target pos: 32.0
+X :19.1 Y :32.0 Z :1.0
+X moving: 110.9mm target pos: 130.0
+X :130.0 Y :32.0 Z :1.0
+Z moving: 10.0mm target pos: 11.0
+X :130.0 Y :32.0 Z :11.0
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :11.0
+Slice success
+Z moving: -1.0mm target pos: 10.0
+X :130.0 Y :14.0 Z :10.0
+Stage position updated...
+Z moving: 1.0mm target pos: 1.0
+X :130.0 Y :14.0 Z :1.0
+Y moving: -1.0mm target pos: 13.0
+X :130.0 Y :13.0 Z :1.0
+Y moving: 1.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :1.0
+Stage position updated...
+Y moving: -1.0mm target pos: 31.0
+X :130.0 Y :31.0 Z :1.0
+Y moving: -1.0mm target pos: 30.0
+X :130.0 Y :30.0 Z :1.0
+Y moving: -1.0mm target pos: 29.0
+X :130.0 Y :29.0 Z :1.0
+Y moving: -1.0mm target pos: 28.0
+X :130.0 Y :28.0 Z :1.0
+Stage position updated...
+Y move2 action aborted
+X move2 action aborted
+Z move2 action aborted
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :1.0
+Slice success
+Y moving: -5.0mm target pos: 9.0
+X :130.0 Y :9.0 Z :1.0
+Y moving: 5.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :1.0
+Y moving: 5.0mm target pos: 19.0
+X :130.0 Y :19.0 Z :1.0
+Y moving: 5.0mm target pos: 24.0
+X :130.0 Y :24.0 Z :1.0
+Y moving: 5.0mm target pos: 29.0
+X :130.0 Y :29.0 Z :1.0
+Y moving: 5.0mm target pos: 34.0
+X :130.0 Y :34.0 Z :1.0
+Y moving: -2.0mm target pos: 32.0
+X :130.0 Y :32.0 Z :1.0
+X move2 action aborted
+Z moving: 1.0mm target pos: 2.0
+X :130.0 Y :32.0 Z :2.0
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :2.0
+Slice success
+Y moving: 18.0mm target pos: 32.0
+X :130.0 Y :32.0 Z :2.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 2.5
+X :130.0 Y :32.0 Z :2.5
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :2.5
+Slice success
+X moving: -5.0mm target pos: 125.0
+X :125.0 Y :14.0 Z :2.5
+X moving: -5.0mm target pos: 120.0
+X :120.0 Y :14.0 Z :2.5
+X moving: -5.0mm target pos: 115.0
+X :115.0 Y :14.0 Z :2.5
+X moving: -5.0mm target pos: 110.0
+X :110.0 Y :14.0 Z :2.5
+X moving: -5.0mm target pos: 105.0
+X :105.0 Y :14.0 Z :2.5
+X moving: -5.0mm target pos: 100.0
+X :100.0 Y :14.0 Z :2.5
+Y moving: 5.0mm target pos: 19.0
+X :100.0 Y :19.0 Z :2.5
+Y moving: 5.0mm target pos: 24.0
+X :100.0 Y :24.0 Z :2.5
+Y moving: 5.0mm target pos: 29.0
+X :100.0 Y :29.0 Z :2.5
+Y moving: 5.0mm target pos: 34.0
+X :100.0 Y :34.0 Z :2.5
+Y moving: 5.0mm target pos: 39.0
+X :100.0 Y :39.0 Z :2.5
+Y moving: -7.0mm target pos: 32.0
+X :100.0 Y :32.0 Z :2.5
+X moving: 30.0mm target pos: 130.0
+X :130.0 Y :32.0 Z :2.5
+Z moving: 0.5mm target pos: 3.0
+X :130.0 Y :32.0 Z :3.0
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :3.0
+Slice success
+Y moving: 18.0mm target pos: 32.0
+X :130.0 Y :32.0 Z :3.0
+X move2 action aborted
+Z moving: 0.2mm target pos: 3.2
+X :130.0 Y :32.0 Z :3.2
+Y moving: -18.0mm target pos: 14.0
+X :130.0 Y :14.0 Z :3.2
+Slice success
+X moving: -5.0mm target pos: 125.0
+X :125.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 120.0
+X :120.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 115.0
+X :115.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 110.0
+X :110.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 105.0
+X :105.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 100.0
+X :100.0 Y :14.0 Z :3.2
+X moving: -70.0mm target pos: 30.0
+X :30.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 25.0
+X :25.0 Y :14.0 Z :3.2
+X moving: -5.0mm target pos: 20.0
+X :20.0 Y :14.0 Z :3.2
+X moving: 2.0mm target pos: 22.0
+X :22.0 Y :14.0 Z :3.2
+X moving: 2.0mm target pos: 24.0
+X :24.0 Y :14.0 Z :3.2
+X moving: -1.0mm target pos: 23.0
+X :23.0 Y :14.0 Z :3.2
+X moving: -1.0mm target pos: 22.0
+X :22.0 Y :14.0 Z :3.2
+X moving: 1.0mm target pos: 23.0
+X :23.0 Y :14.0 Z :3.2
+Y moving: -1.0mm target pos: 13.0
+X :23.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 22.0
+X :22.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 23.0
+X :23.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 24.0
+X :24.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 25.0
+X :25.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 26.0
+X :26.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 25.0
+X :25.0 Y :13.0 Z :3.2
+cscan X :25.0 Y :13.0 Z :3.2
+2669 data received by weaver
+RptBline successfully finished...
+2669 Blines displayed
+
+2678 FFT actions taken place
+
+cscan X :25.0 Y :13.0 Z :3.2
+91 data received by weaver
+RptBline successfully finished...
+91 Blines displayed
+
+91 FFT actions taken place
+
+X moving: 1.0mm target pos: 26.0
+X :26.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 27.0
+X :27.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 28.0
+X :28.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 29.0
+X :29.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 30.0
+X :30.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 31.0
+X :31.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 32.0
+X :32.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 33.0
+X :33.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 32.0
+X :32.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 31.0
+X :31.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 30.0
+X :30.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 29.0
+X :29.0 Y :13.0 Z :3.2
+X moving: -3.0mm target pos: 26.0
+X :26.0 Y :13.0 Z :3.2
+X moving: -3.0mm target pos: 23.0
+X :23.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 22.0
+X :22.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 21.0
+X :21.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 20.0
+X :20.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 19.0
+X :19.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 18.0
+X :18.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 17.0
+X :17.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 18.0
+X :18.0 Y :13.0 Z :3.2
+X moving: -1.0mm target pos: 17.0
+X :17.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 18.0
+X :18.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 19.0
+X :19.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 20.0
+X :20.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 21.0
+X :21.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 22.0
+X :22.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 23.0
+X :23.0 Y :13.0 Z :3.2
+X moving: 1.0mm target pos: 24.0
+X :24.0 Y :13.0 Z :3.2
+Y moving: 1.0mm target pos: 14.0
+X :24.0 Y :14.0 Z :3.2
+Y moving: 1.0mm target pos: 15.0
+X :24.0 Y :15.0 Z :3.2
+Y moving: 1.0mm target pos: 16.0
+X :24.0 Y :16.0 Z :3.2
+Y moving: 1.0mm target pos: 17.0
+X :24.0 Y :17.0 Z :3.2
+Y moving: 1.0mm target pos: 18.0
+X :24.0 Y :18.0 Z :3.2
+Y moving: 1.0mm target pos: 19.0
+X :24.0 Y :19.0 Z :3.2
+Y moving: 1.0mm target pos: 20.0
+X :24.0 Y :20.0 Z :3.2
+Y moving: 1.0mm target pos: 21.0
+X :24.0 Y :21.0 Z :3.2
+Y moving: 1.0mm target pos: 22.0
+X :24.0 Y :22.0 Z :3.2
+Y moving: 1.0mm target pos: 23.0
+X :24.0 Y :23.0 Z :3.2
+Y moving: -1.0mm target pos: 22.0
+X :24.0 Y :22.0 Z :3.2
+Y moving: -1.0mm target pos: 21.0
+X :24.0 Y :21.0 Z :3.2
+Y moving: -1.0mm target pos: 20.0
+X :24.0 Y :20.0 Z :3.2
+Y moving: -1.0mm target pos: 19.0
+X :24.0 Y :19.0 Z :3.2
+Y moving: -1.0mm target pos: 18.0
+X :24.0 Y :18.0 Z :3.2
+Y moving: -1.0mm target pos: 17.0
+X :24.0 Y :17.0 Z :3.2
+Y moving: -1.0mm target pos: 16.0
+X :24.0 Y :16.0 Z :3.2
+Y moving: -1.0mm target pos: 15.0
+X :24.0 Y :15.0 Z :3.2
+Y moving: -1.0mm target pos: 14.0
+X :24.0 Y :14.0 Z :3.2
+Y moving: -1.0mm target pos: 13.0
+X :24.0 Y :13.0 Z :3.2
+Y moving: -1.0mm target pos: 12.0
+X :24.0 Y :12.0 Z :3.2
+Y moving: -1.0mm target pos: 11.0
+X :24.0 Y :11.0 Z :3.2
+Y moving: -1.0mm target pos: 10.0
+X :24.0 Y :10.0 Z :3.2
+Y moving: -1.0mm target pos: 9.0
+X :24.0 Y :9.0 Z :3.2
+Y moving: -1.0mm target pos: 8.0
+X :24.0 Y :8.0 Z :3.2
+Y moving: -1.0mm target pos: 7.0
+X :24.0 Y :7.0 Z :3.2
+Y moving: -1.0mm target pos: 6.0
+X :24.0 Y :6.0 Z :3.2
+Y moving: 1.0mm target pos: 7.0
+X :24.0 Y :7.0 Z :3.2
+cscan X :24.0 Y :7.0 Z :3.2
+1318 data received by weaver
+RptBline successfully finished...
+1318 Blines displayed
+
+1318 FFT actions taken place
+
+
+slice 3 zmax scale is 5
+
+X moving: -4.2mm target pos: 19.8
+X :19.8 Y :7.0 Z :3.2
+Y moving: 13.0mm target pos: 20.0
+X :19.8 Y :20.0 Z :3.2
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :19.8 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.078 s
+
+cscan X :19.8 Y :19.6 Z :3.2
+time to fetch data: 1.44s
+Y move2 action aborted
+cscan X :19.8 Y :19.4 Z :3.2
+time to fetch data: 1.357s
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :19.8 Y :19.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :19.8 Y :19.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :19.8 Y :18.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :19.8 Y :18.6 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.12 s
+
+cscan X :19.8 Y :18.4 Z :3.2
+time to fetch data: 1.438s
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :18.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :19.8 Y :18.0 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :17.8 Z :3.2
+time to fetch data: 1.38s
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :19.8 Y :17.6 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :17.4 Z :3.2
+time to fetch data: 1.377s
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :17.2 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.101 s
+
+cscan X :19.8 Y :17.0 Z :3.2
+time to fetch data: 1.4s
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :16.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :19.8 Y :16.6 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :16.4 Z :3.2
+time to fetch data: 1.352s
+Y move2 action aborted
+cscan X :19.8 Y :16.2 Z :3.2
+time to fetch data: 1.371s
+Y move2 action aborted
+
+ an FFT action took 1.096 s
+
+cscan X :19.8 Y :16.0 Z :3.2
+time to fetch data: 1.426s
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :15.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :19.8 Y :15.6 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :15.4 Z :3.2
+time to fetch data: 1.355s
+Y move2 action aborted
+cscan X :19.8 Y :15.2 Z :3.2
+time to fetch data: 1.364s
+Y move2 action aborted
+cscan X :19.8 Y :15.0 Z :3.2
+time to fetch data: 1.378s
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :19.8 Y :14.8 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.095 s
+
+cscan X :19.8 Y :14.6 Z :3.2
+time to fetch data: 1.451s
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :14.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :14.2 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :14.0 Z :3.2
+time to fetch data: 1.354s
+Y move2 action aborted
+time to fetch data: 1.353s
+cscan X :19.8 Y :13.8 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :13.6 Z :3.2
+time to fetch data: 1.391s
+Y move2 action aborted
+cscan X :19.8 Y :13.4 Z :3.2
+time to fetch data: 1.385s
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :19.8 Y :13.2 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :13.0 Z :3.2
+time to fetch data: 1.388s
+Y move2 action aborted
+cscan X :19.8 Y :12.8 Z :3.2
+time to fetch data: 1.382s
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :19.8 Y :12.6 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :12.4 Z :3.2
+time to fetch data: 1.361s
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :19.8 Y :12.2 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :12.0 Z :3.2
+time to fetch data: 1.355s
+Y move2 action aborted
+cscan X :19.8 Y :11.8 Z :3.2
+time to fetch data: 1.353s
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :19.8 Y :11.6 Z :3.2
+Y move2 action aborted
+cscan X :19.8 Y :11.4 Z :3.2
+time to fetch data: 1.377s
+Y move2 action aborted
+cscan X :19.8 Y :11.2 Z :3.2
+time to fetch data: 1.365s
+Y move2 action aborted
+cscan X :19.8 Y :11.0 Z :3.2
+time to fetch data: 1.348s
+Y move2 action aborted
+cscan X :19.8 Y :10.8 Z :3.2
+time to fetch data: 1.358s
+Y move2 action aborted
+cscan X :19.8 Y :10.6 Z :3.2
+time to fetch data: 1.356s
+Y move2 action aborted
+
+ an FFT action took 1.104 s
+
+cscan X :19.8 Y :10.4 Z :3.2
+time to fetch data: 1.454s
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :19.8 Y :10.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :19.8 Y :10.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :19.8 Y :9.8 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.064 s
+
+cscan X :19.8 Y :9.6 Z :3.2
+time to fetch data: 1.473s
+Y move2 action aborted
+cscan X :19.8 Y :9.4 Z :3.2
+time to fetch data: 1.363s
+Y move2 action aborted
+cscan X :19.8 Y :9.2 Z :3.2
+time to fetch data: 1.389s
+Y move2 action aborted
+cscan X :19.8 Y :9.0 Z :3.2
+time to fetch data: 1.43s
+X moving: 1.9mm target pos: 21.7
+X :21.7 Y :9.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :21.7 Y :9.2 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.093 s
+
+cscan X :21.7 Y :9.4 Z :3.2
+time to fetch data: 1.463s
+Y move2 action aborted
+cscan X :21.7 Y :9.6 Z :3.2
+time to fetch data: 1.441s
+Y move2 action aborted
+
+ an FFT action took 1.032 s
+
+cscan X :21.7 Y :9.8 Z :3.2
+time to fetch data: 1.436s
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :21.7 Y :10.0 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :10.2 Z :3.2
+time to fetch data: 1.388s
+Y move2 action aborted
+cscan X :21.7 Y :10.4 Z :3.2
+time to fetch data: 1.372s
+Y move2 action aborted
+cscan X :21.7 Y :10.6 Z :3.2
+time to fetch data: 1.386s
+Y move2 action aborted
+cscan X :21.7 Y :10.8 Z :3.2
+time to fetch data: 1.368s
+Y move2 action aborted
+cscan X :21.7 Y :11.0 Z :3.2
+time to fetch data: 1.436s
+Y move2 action aborted
+cscan X :21.7 Y :11.2 Z :3.2
+time to fetch data: 1.395s
+Y move2 action aborted
+cscan X :21.7 Y :11.4 Z :3.2
+time to fetch data: 1.407s
+Y move2 action aborted
+cscan X :21.7 Y :11.6 Z :3.2
+time to fetch data: 1.411s
+Y move2 action aborted
+time to fetch data: 1.353s
+cscan X :21.7 Y :11.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :21.7 Y :12.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :21.7 Y :12.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :21.7 Y :12.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :21.7 Y :12.6 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :12.8 Z :3.2
+time to fetch data: 1.387s
+Y move2 action aborted
+
+ an FFT action took 1.059 s
+
+cscan X :21.7 Y :13.0 Z :3.2
+time to fetch data: 1.48s
+Y move2 action aborted
+cscan X :21.7 Y :13.2 Z :3.2
+time to fetch data: 1.419s
+Y move2 action aborted
+cscan X :21.7 Y :13.4 Z :3.2
+time to fetch data: 1.356s
+Y move2 action aborted
+cscan X :21.7 Y :13.6 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :13.8 Z :3.2
+time to fetch data: 1.368s
+Y move2 action aborted
+cscan X :21.7 Y :14.0 Z :3.2
+time to fetch data: 1.405s
+Y move2 action aborted
+cscan X :21.7 Y :14.2 Z :3.2
+time to fetch data: 1.394s
+Y move2 action aborted
+time to fetch data: 1.381s
+cscan X :21.7 Y :14.4 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.138 s
+
+time to fetch data: 1.407s
+
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :21.7 Y :14.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.363s
+cscan X :21.7 Y :15.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :21.7 Y :15.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :21.7 Y :15.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :21.7 Y :15.6 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :21.7 Y :15.8 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :16.0 Z :3.2
+time to fetch data: 1.381s
+Y move2 action aborted
+
+ an FFT action took 1.137 s
+
+cscan X :21.7 Y :16.2 Z :3.2
+time to fetch data: 1.388s
+Y move2 action aborted
+cscan X :21.7 Y :16.4 Z :3.2
+time to fetch data: 1.379s
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :21.7 Y :16.6 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :21.7 Y :16.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :21.7 Y :17.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :21.7 Y :17.2 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :17.4 Z :3.2
+time to fetch data: 1.378s
+Y move2 action aborted
+cscan X :21.7 Y :17.6 Z :3.2
+time to fetch data: 1.356s
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :21.7 Y :17.8 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :18.0 Z :3.2
+time to fetch data: 1.36s
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :21.7 Y :18.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :21.7 Y :18.4 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :18.6 Z :3.2
+time to fetch data: 1.361s
+Y move2 action aborted
+cscan X :21.7 Y :18.8 Z :3.2
+time to fetch data: 1.4s
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :21.7 Y :19.0 Z :3.2
+Y move2 action aborted
+cscan X :21.7 Y :19.2 Z :3.2
+time to fetch data: 1.383s
+Y move2 action aborted
+time to fetch data: 1.353s
+cscan X :21.7 Y :19.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :21.7 Y :19.6 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.125 s
+
+cscan X :21.7 Y :19.8 Z :3.2
+time to fetch data: 1.414s
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :21.7 Y :20.0 Z :3.2
+X moving: 1.9mm target pos: 23.6
+X :23.6 Y :20.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :23.6 Y :19.8 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.015 s
+
+cscan X :23.6 Y :19.6 Z :3.2
+time to fetch data: 1.443s
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :23.6 Y :19.4 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :19.2 Z :3.2
+time to fetch data: 1.399s
+Y move2 action aborted
+cscan X :23.6 Y :19.0 Z :3.2
+time to fetch data: 1.368s
+Y move2 action aborted
+time to fetch data: 1.353s
+cscan X :23.6 Y :18.8 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :18.6 Z :3.2
+time to fetch data: 1.375s
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :23.6 Y :18.4 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :18.2 Z :3.2
+time to fetch data: 1.355s
+Y move2 action aborted
+time to fetch data: 1.353s
+cscan X :23.6 Y :18.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :23.6 Y :17.8 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.121 s
+
+cscan X :23.6 Y :17.6 Z :3.2
+time to fetch data: 1.42s
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :23.6 Y :17.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :17.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :23.6 Y :17.0 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.068 s
+
+cscan X :23.6 Y :16.8 Z :3.2
+time to fetch data: 1.465s
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :16.6 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :16.4 Z :3.2
+time to fetch data: 1.384s
+Y move2 action aborted
+time to fetch data: 1.382s
+
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :23.6 Y :16.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :23.6 Y :15.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.352s
+cscan X :23.6 Y :15.6 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :23.6 Y :15.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :23.6 Y :15.2 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :15.0 Z :3.2
+time to fetch data: 1.36s
+Y move2 action aborted
+
+ an FFT action took 1.123 s
+
+cscan X :23.6 Y :14.8 Z :3.2
+time to fetch data: 1.395s
+Y move2 action aborted
+cscan X :23.6 Y :14.6 Z :3.2
+time to fetch data: 1.389s
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :23.6 Y :14.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :14.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :23.6 Y :14.0 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.08 s
+
+time to fetch data: 1.36s
+cscan X :23.6 Y :13.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :23.6 Y :13.6 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :23.6 Y :13.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.346s
+cscan X :23.6 Y :13.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :13.0 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.093 s
+
+cscan X :23.6 Y :12.8 Z :3.2
+time to fetch data: 1.377s
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :23.6 Y :12.6 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :23.6 Y :12.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :12.2 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :23.6 Y :12.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :11.8 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :23.6 Y :11.6 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :23.6 Y :11.4 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :11.2 Z :3.2
+time to fetch data: 1.38s
+Y move2 action aborted
+
+ an FFT action took 1.096 s
+
+cscan X :23.6 Y :11.0 Z :3.2
+time to fetch data: 1.454s
+Y move2 action aborted
+time to fetch data: 1.348s
+cscan X :23.6 Y :10.8 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :10.6 Z :3.2
+time to fetch data: 1.385s
+Y move2 action aborted
+cscan X :23.6 Y :10.4 Z :3.2
+time to fetch data: 1.363s
+Y move2 action aborted
+cscan X :23.6 Y :10.2 Z :3.2
+time to fetch data: 1.395s
+Y move2 action aborted
+cscan X :23.6 Y :10.0 Z :3.2
+time to fetch data: 1.388s
+Y move2 action aborted
+cscan X :23.6 Y :9.8 Z :3.2
+time to fetch data: 1.398s
+Y move2 action aborted
+cscan X :23.6 Y :9.6 Z :3.2
+time to fetch data: 1.465s
+Y move2 action aborted
+time to fetch data: 1.349s
+cscan X :23.6 Y :9.4 Z :3.2
+Y move2 action aborted
+cscan X :23.6 Y :9.2 Z :3.2
+time to fetch data: 1.364s
+Y move2 action aborted
+cscan X :23.6 Y :9.0 Z :3.2
+time to fetch data: 1.359s
+X moving: 1.9mm target pos: 25.5
+X :25.5 Y :9.0 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.35s
+cscan X :25.5 Y :9.2 Z :3.2
+Y move2 action aborted
+
+ an FFT action took 1.049 s
+
+cscan X :25.5 Y :9.4 Z :3.2
+Y move2 action aborted
+time to fetch data: 1.351s
+cscan X :25.5 Y :9.6 Z :3.2
+Y move2 action aborted
+cscan X :25.5 Y :9.8 Z :3.2
+time to fetch data: 1.35s
+Y move2 action aborted
+
+ an FFT action took 1.066 s
+
+time to fetch data: 1.456s
+
+Y move2 action aborted
+cscan X :25.5 Y :10.2 Z :3.2
+time to fetch data: 1.376s
+Mosaic successfully finished...

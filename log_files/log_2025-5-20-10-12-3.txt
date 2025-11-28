@@ -1,0 +1,221 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :119.5 Y :16.0 Z :2.4
+SingleBline successfully finished...
+cscan X :119.5 Y :16.0 Z :2.4
+390 data received by weaver
+RptBline successfully finished...
+390 Blines displayed
+
+391 FFT actions taken place
+
+cscan X :119.5 Y :16.0 Z :2.4
+5078 data received by weaver
+RptBline successfully finished...
+5078 Blines displayed
+
+5078 FFT actions taken place
+
+cscan X :119.5 Y :16.0 Z :2.4
+37 data received by weaver
+RptBline successfully finished...
+37 Blines displayed
+
+37 FFT actions taken place
+
+X moving: -3.5mm target pos: 116.0
+X :116.0 Y :16.0 Z :2.4
+X moving: -3.5mm target pos: 112.5
+X :112.5 Y :16.0 Z :2.4
+X moving: 1.0mm target pos: 113.5
+X :113.5 Y :16.0 Z :2.4
+X moving: 1.0mm target pos: 114.5
+X :114.5 Y :16.0 Z :2.4
+X moving: 1.0mm target pos: 115.5
+X :115.5 Y :16.0 Z :2.4
+X moving: 1.0mm target pos: 116.5
+X :116.5 Y :16.0 Z :2.4
+X moving: 1.0mm target pos: 117.5
+X :117.5 Y :16.0 Z :2.4
+Y moving: -0.5mm target pos: 15.5
+X :117.5 Y :15.5 Z :2.4
+Y moving: -0.5mm target pos: 15.0
+X :117.5 Y :15.0 Z :2.4
+X moving: -1.0mm target pos: 116.5
+X :116.5 Y :15.0 Z :2.4
+Y moving: -0.5mm target pos: 14.5
+X :116.5 Y :14.5 Z :2.4
+X moving: -1.0mm target pos: 115.5
+X :115.5 Y :14.5 Z :2.4
+Y moving: 0.5mm target pos: 15.0
+X :115.5 Y :15.0 Z :2.4
+Y moving: 0.5mm target pos: 15.5
+X :115.5 Y :15.5 Z :2.4
+Y moving: -0.5mm target pos: 15.0
+X :115.5 Y :15.0 Z :2.4
+Y moving: -0.5mm target pos: 14.5
+X :115.5 Y :14.5 Z :2.4
+Y moving: -0.5mm target pos: 14.0
+X :115.5 Y :14.0 Z :2.4
+Y moving: -0.5mm target pos: 13.5
+X :115.5 Y :13.5 Z :2.4
+Y moving: 0.5mm target pos: 14.0
+X :115.5 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 116.0
+X :116.0 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 116.5
+X :116.5 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 117.0
+X :117.0 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 117.5
+X :117.5 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 118.0
+X :118.0 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 118.5
+X :118.5 Y :14.0 Z :2.4
+X moving: 0.5mm target pos: 119.0
+X :119.0 Y :14.0 Z :2.4
+Y moving: -0.5mm target pos: 13.5
+X :119.0 Y :13.5 Z :2.4
+Y moving: 0.5mm target pos: 14.0
+X :119.0 Y :14.0 Z :2.4
+Y moving: 0.5mm target pos: 14.5
+X :119.0 Y :14.5 Z :2.4
+Y moving: 0.5mm target pos: 15.0
+X :119.0 Y :15.0 Z :2.4
+Y moving: 0.5mm target pos: 15.5
+X :119.0 Y :15.5 Z :2.4
+X moving: 0.5mm target pos: 119.5
+X :119.5 Y :15.5 Z :2.4
+X moving: 0.5mm target pos: 120.0
+X :120.0 Y :15.5 Z :2.4
+X moving: 0.5mm target pos: 120.5
+X :120.5 Y :15.5 Z :2.4
+Y moving: -0.5mm target pos: 15.0
+X :120.5 Y :15.0 Z :2.4
+Y moving: 0.5mm target pos: 15.5
+X :120.5 Y :15.5 Z :2.4
+Y moving: 0.5mm target pos: 16.0
+X :120.5 Y :16.0 Z :2.4
+X moving: 0.5mm target pos: 121.0
+X :121.0 Y :16.0 Z :2.4
+X moving: 0.5mm target pos: 121.5
+X :121.5 Y :16.0 Z :2.4
+Y moving: 0.5mm target pos: 16.5
+X :121.5 Y :16.5 Z :2.4
+Y moving: 0.5mm target pos: 17.0
+X :121.5 Y :17.0 Z :2.4
+Y moving: 0.5mm target pos: 17.5
+X :121.5 Y :17.5 Z :2.4
+Y moving: 0.5mm target pos: 18.0
+X :121.5 Y :18.0 Z :2.4
+Y moving: -0.5mm target pos: 17.5
+X :121.5 Y :17.5 Z :2.4
+Y moving: -0.5mm target pos: 17.0
+X :121.5 Y :17.0 Z :2.4
+Y moving: -0.5mm target pos: 16.5
+X :121.5 Y :16.5 Z :2.4
+Y moving: -0.5mm target pos: 16.0
+X :121.5 Y :16.0 Z :2.4
+Y moving: -0.5mm target pos: 15.5
+X :121.5 Y :15.5 Z :2.4
+Y moving: -0.5mm target pos: 15.0
+X :121.5 Y :15.0 Z :2.4
+X moving: -3.5mm target pos: 118.0
+X :118.0 Y :15.0 Z :2.4
+Y moving: 0.5mm target pos: 15.5
+X :118.0 Y :15.5 Z :2.4
+Y moving: 0.5mm target pos: 16.0
+X :118.0 Y :16.0 Z :2.4
+Y moving: 0.5mm target pos: 16.5
+X :118.0 Y :16.5 Z :2.4
+Y moving: 0.5mm target pos: 17.0
+X :118.0 Y :17.0 Z :2.4
+X moving: -0.5mm target pos: 117.5
+X :117.5 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 118.0
+X :118.0 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 118.5
+X :118.5 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 119.0
+X :119.0 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 119.5
+X :119.5 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 120.0
+X :120.0 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 120.5
+X :120.5 Y :17.0 Z :2.4
+X moving: 0.5mm target pos: 121.0
+X :121.0 Y :17.0 Z :2.4
+X moving: -0.5mm target pos: 120.5
+X :120.5 Y :17.0 Z :2.4
+Y moving: 0.5mm target pos: 17.5
+X :120.5 Y :17.5 Z :2.4
+Y moving: 0.5mm target pos: 18.0
+X :120.5 Y :18.0 Z :2.4
+X moving: 0.5mm target pos: 121.0
+X :121.0 Y :18.0 Z :2.4
+X moving: 0.5mm target pos: 121.5
+X :121.5 Y :18.0 Z :2.4
+X moving: -0.5mm target pos: 121.0
+X :121.0 Y :18.0 Z :2.4
+X moving: -0.5mm target pos: 120.5
+X :120.5 Y :18.0 Z :2.4
+Y moving: -0.5mm target pos: 17.5
+X :120.5 Y :17.5 Z :2.4
+Y moving: -0.5mm target pos: 17.0
+X :120.5 Y :17.0 Z :2.4
+Y moving: -0.5mm target pos: 16.5
+X :120.5 Y :16.5 Z :2.4
+Y moving: -0.5mm target pos: 16.0
+X :120.5 Y :16.0 Z :2.4
+Y moving: -0.5mm target pos: 15.5
+X :120.5 Y :15.5 Z :2.4
+Y moving: -0.5mm target pos: 15.0
+X :120.5 Y :15.0 Z :2.4
+Y moving: -0.5mm target pos: 14.5
+X :120.5 Y :14.5 Z :2.4
+X moving: 0.5mm target pos: 121.0
+X :121.0 Y :14.5 Z :2.4
+X moving: -0.5mm target pos: 120.5
+X :120.5 Y :14.5 Z :2.4
+X moving: -0.5mm target pos: 120.0
+X :120.0 Y :14.5 Z :2.4
+X moving: -0.5mm target pos: 119.5
+X :119.5 Y :14.5 Z :2.4
+X moving: -0.5mm target pos: 119.0
+X :119.0 Y :14.5 Z :2.4
+X moving: -0.5mm target pos: 118.5
+X :118.5 Y :14.5 Z :2.4
+X moving: -0.5mm target pos: 118.0
+X :118.0 Y :14.5 Z :2.4
+Y moving: -0.5mm target pos: 14.0
+X :118.0 Y :14.0 Z :2.4
+Y moving: -0.5mm target pos: 13.5
+X :118.0 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 117.5
+X :117.5 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 117.0
+X :117.0 Y :13.5 Z :2.4
+X moving: 0.5mm target pos: 117.5
+X :117.5 Y :13.5 Z :2.4
+X moving: 0.5mm target pos: 118.0
+X :118.0 Y :13.5 Z :2.4
+X moving: 0.5mm target pos: 118.5
+X :118.5 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 118.0
+X :118.0 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 117.5
+X :117.5 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 117.0
+X :117.0 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 116.5
+X :116.5 Y :13.5 Z :2.4
+X moving: -0.5mm target pos: 116.0
+X :116.0 Y :13.5 Z :2.4
+
+An error occurred, skip the AODO action
+
+
+An error occurred, skip the AODO action
+

@@ -1,0 +1,7 @@
+Stage position updated...
+load disperison compensation success...
+X moving: 4.5mm target pos: 122.25
+X :122.25 Y :18.0 Z :13.8
+
+An error occurred, skip the AODO action
+

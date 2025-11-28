@@ -1,0 +1,156 @@
+Stage position updated...
+load disperison compensation success...
+Y moving: -1.0mm target pos: 25.1
+X :85.6 Y :25.1 Z :2.0
+Y moving: -1.0mm target pos: 24.1
+X :85.6 Y :24.1 Z :2.0
+Y moving: -1.0mm target pos: 23.1
+X :85.6 Y :23.1 Z :2.0
+Y moving: -1.0mm target pos: 22.1
+X :85.6 Y :22.1 Z :2.0
+Y moving: -1.0mm target pos: 21.1
+X :85.6 Y :21.1 Z :2.0
+Y moving: -1.0mm target pos: 20.1
+X :85.6 Y :20.1 Z :2.0
+Stage position updated...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+X move2 action aborted
+Y moving: 1.5mm target pos: 26.5
+X :85.6 Y :26.5 Z :2.0
+X move2 action aborted
+cscan X :85.6 Y :19.7 Z :2.0
+X moving: 1.9mm target pos: 87.5
+X :87.5 Y :19.7 Z :2.0
+cscan X :87.5 Y :26.5 Z :2.0
+X moving: 1.9mm target pos: 89.4
+X :89.4 Y :26.5 Z :2.0
+cscan X :89.4 Y :19.7 Z :2.0
+tile surf is:86
+
+slice 2 zmax scale is 4
+
+X moving: -3.8mm target pos: 85.6
+X :85.6 Y :19.7 Z :2.0
+Y moving: 6.8mm target pos: 26.5
+X :85.6 Y :26.5 Z :2.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 4.042s
+cscan X :85.6 Y :26.1 Z :2.0
+
+ an FFT action took 3.568 s
+
+Mosaic successfully finished...
+Y moving: -1.0mm target pos: 25.1
+X :85.6 Y :25.1 Z :2.0
+Y moving: -1.0mm target pos: 24.1
+X :85.6 Y :24.1 Z :2.0
+Y moving: -1.0mm target pos: 23.1
+X :85.6 Y :23.1 Z :2.0
+Y moving: -1.0mm target pos: 22.1
+X :85.6 Y :22.1 Z :2.0
+Stage position updated...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+X move2 action aborted
+Y moving: 1.5mm target pos: 26.5
+X :85.6 Y :26.5 Z :2.0
+X move2 action aborted
+cscan X :85.6 Y :19.7 Z :2.0
+X moving: 1.9mm target pos: 87.5
+X :87.5 Y :19.7 Z :2.0
+cscan X :87.5 Y :26.5 Z :2.0
+X moving: 1.9mm target pos: 89.4
+X :89.4 Y :26.5 Z :2.0
+cscan X :89.4 Y :19.7 Z :2.0
+tile surf is:86
+
+slice 3 zmax scale is 4
+
+X moving: -3.8mm target pos: 85.6
+X :85.6 Y :19.7 Z :2.0
+Y moving: 6.8mm target pos: 26.5
+X :85.6 Y :26.5 Z :2.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 4.042s
+cscan X :85.6 Y :26.1 Z :2.0
+
+ an FFT action took 3.044 s
+
+Mosaic successfully finished...
+Y moving: -1.0mm target pos: 25.1
+X :85.6 Y :25.1 Z :2.0
+Y moving: -1.0mm target pos: 24.1
+X :85.6 Y :24.1 Z :2.0
+Y moving: -1.0mm target pos: 23.1
+X :85.6 Y :23.1 Z :2.0
+Y moving: -1.0mm target pos: 22.1
+X :85.6 Y :22.1 Z :2.0
+Stage position updated...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+X move2 action aborted
+Y moving: 1.5mm target pos: 26.5
+X :85.6 Y :26.5 Z :2.0
+X move2 action aborted
+cscan X :85.6 Y :19.7 Z :2.0
+X moving: 1.9mm target pos: 87.5
+X :87.5 Y :19.7 Z :2.0
+cscan X :87.5 Y :26.5 Z :2.0
+X moving: 1.9mm target pos: 89.4
+X :89.4 Y :26.5 Z :2.0
+cscan X :89.4 Y :19.7 Z :2.0
+tile surf is:86
+
+slice 4 zmax scale is 4
+
+X moving: -3.8mm target pos: 85.6
+X :85.6 Y :19.7 Z :2.0
+Y moving: 6.8mm target pos: 26.5
+X :85.6 Y :26.5 Z :2.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 4.043s
+cscan X :85.6 Y :26.1 Z :2.0
+Y move2 action aborted
+
+ an FFT action took 3.302 s
+
+time to fetch data: 4.042s
+cscan X :85.6 Y :25.7 Z :2.0
+Y move2 action aborted
+
+ an FFT action took 3.29 s
+
+time to fetch data: 4.041s
+cscan X :85.6 Y :25.3 Z :2.0
+Y move2 action aborted
+
+ an FFT action took 3.685 s
+
+time to fetch data: 4.042s
+cscan X :85.6 Y :24.9 Z :2.0
+Y move2 action aborted
+
+ an FFT action took 3.776 s
+
+time to fetch data: 4.042s
+cscan X :85.6 Y :24.5 Z :2.0
+
+ an FFT action took 3.113 s
+
+Mosaic successfully finished...

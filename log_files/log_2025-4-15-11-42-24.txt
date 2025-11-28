@@ -1,0 +1,19 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :135.0 Y :46.0 Z :13.2
+44 data received by weaver
+RptBline successfully finished...
+43 Blines displayed
+
+44 FFT actions taken place
+
+cscan X :135.0 Y :46.4 Z :13.2
+
+ an FFT action took 2.708 s
+
+surface measruement success...
+cscan X :135.0 Y :46.8 Z :13.2
+
+ an FFT action took 2.041 s
+
+surface measruement success...

@@ -1,0 +1,212 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :90.0 Y :25.0 Z :2.0
+SingleBline successfully finished...
+cscan X :90.0 Y :25.0 Z :2.0
+69 data received by weaver
+RptBline successfully finished...
+69 Blines displayed
+
+70 FFT actions taken place
+
+X moving: -10.0mm target pos: 80.0
+X :80.0 Y :25.0 Z :2.0
+X moving: -4.0mm target pos: 76.0
+X :76.0 Y :25.0 Z :2.0
+cscan X :76.0 Y :25.0 Z :2.0
+575 data received by weaver
+RptBline successfully finished...
+575 Blines displayed
+
+575 FFT actions taken place
+
+X moving: 4.0mm target pos: 80.0
+X :80.0 Y :25.0 Z :2.0
+X moving: -4.0mm target pos: 76.0
+X :76.0 Y :25.0 Z :2.0
+Y moving: -1.0mm target pos: 24.0
+X :76.0 Y :24.0 Z :2.0
+Y moving: -1.0mm target pos: 23.0
+X :76.0 Y :23.0 Z :2.0
+X moving: -2.0mm target pos: 74.0
+X :74.0 Y :23.0 Z :2.0
+X moving: 2.0mm target pos: 76.0
+X :76.0 Y :23.0 Z :2.0
+X moving: 2.0mm target pos: 78.0
+X :78.0 Y :23.0 Z :2.0
+X moving: 2.0mm target pos: 80.0
+X :80.0 Y :23.0 Z :2.0
+X moving: -2.0mm target pos: 78.0
+X :78.0 Y :23.0 Z :2.0
+Y moving: -1.0mm target pos: 22.0
+X :78.0 Y :22.0 Z :2.0
+Y moving: 1.0mm target pos: 23.0
+X :78.0 Y :23.0 Z :2.0
+Y moving: 1.0mm target pos: 24.0
+X :78.0 Y :24.0 Z :2.0
+Y moving: 1.0mm target pos: 25.0
+X :78.0 Y :25.0 Z :2.0
+Y moving: -1.0mm target pos: 24.0
+X :78.0 Y :24.0 Z :2.0
+Y moving: 1.0mm target pos: 25.0
+X :78.0 Y :25.0 Z :2.0
+Y moving: -1.0mm target pos: 24.0
+X :78.0 Y :24.0 Z :2.0
+Y moving: -1.0mm target pos: 23.0
+X :78.0 Y :23.0 Z :2.0
+Y moving: 1.0mm target pos: 24.0
+X :78.0 Y :24.0 Z :2.0
+Y moving: 1.0mm target pos: 25.0
+X :78.0 Y :25.0 Z :2.0
+Y moving: 1.0mm target pos: 26.0
+X :78.0 Y :26.0 Z :2.0
+Y moving: 1.0mm target pos: 27.0
+X :78.0 Y :27.0 Z :2.0
+Y moving: 1.0mm target pos: 28.0
+X :78.0 Y :28.0 Z :2.0
+Y moving: 1.0mm target pos: 29.0
+X :78.0 Y :29.0 Z :2.0
+Y moving: -1.0mm target pos: 28.0
+X :78.0 Y :28.0 Z :2.0
+Y moving: -1.0mm target pos: 27.0
+X :78.0 Y :27.0 Z :2.0
+Y moving: -1.0mm target pos: 26.0
+X :78.0 Y :26.0 Z :2.0
+Y moving: 1.0mm target pos: 27.0
+X :78.0 Y :27.0 Z :2.0
+X moving: -1.0mm target pos: 77.0
+X :77.0 Y :27.0 Z :2.0
+X moving: 1.0mm target pos: 78.0
+X :78.0 Y :27.0 Z :2.0
+X moving: 1.0mm target pos: 79.0
+X :79.0 Y :27.0 Z :2.0
+X moving: 1.0mm target pos: 80.0
+X :80.0 Y :27.0 Z :2.0
+X moving: -1.0mm target pos: 79.0
+X :79.0 Y :27.0 Z :2.0
+X moving: -1.0mm target pos: 78.0
+X :78.0 Y :27.0 Z :2.0
+X moving: -1.0mm target pos: 77.0
+X :77.0 Y :27.0 Z :2.0
+X moving: 1.0mm target pos: 78.0
+X :78.0 Y :27.0 Z :2.0
+X moving: 1.0mm target pos: 79.0
+X :79.0 Y :27.0 Z :2.0
+Y moving: 1.0mm target pos: 28.0
+X :79.0 Y :28.0 Z :2.0
+Y moving: 1.0mm target pos: 29.0
+X :79.0 Y :29.0 Z :2.0
+Y moving: -1.0mm target pos: 28.0
+X :79.0 Y :28.0 Z :2.0
+Y moving: -1.0mm target pos: 27.0
+X :79.0 Y :27.0 Z :2.0
+Y moving: -1.0mm target pos: 26.0
+X :79.0 Y :26.0 Z :2.0
+Y moving: -1.0mm target pos: 25.0
+X :79.0 Y :25.0 Z :2.0
+Y moving: -1.0mm target pos: 24.0
+X :79.0 Y :24.0 Z :2.0
+Y moving: 1.0mm target pos: 25.0
+X :79.0 Y :25.0 Z :2.0
+cscan X :79.0 Y :25.0 Z :2.0
+5411 data received by weaver
+RptBline successfully finished...
+5411 Blines displayed
+
+5411 FFT actions taken place
+
+cscan X :79.0 Y :25.0 Z :2.0
+16 data received by weaver
+RptBline successfully finished...
+16 Blines displayed
+
+16 FFT actions taken place
+
+cscan X :79.0 Y :25.0 Z :2.0
+34 data received by weaver
+RptBline successfully finished...
+34 Blines displayed
+
+34 FFT actions taken place
+
+X moving: -1.0mm target pos: 78.0
+X :78.0 Y :25.0 Z :2.0
+X moving: -1.0mm target pos: 77.0
+X :77.0 Y :25.0 Z :2.0
+X moving: -1.0mm target pos: 76.0
+X :76.0 Y :25.0 Z :2.0
+X moving: 1.0mm target pos: 77.0
+X :77.0 Y :25.0 Z :2.0
+Y moving: -1.0mm target pos: 24.0
+X :77.0 Y :24.0 Z :2.0
+X moving: -1.0mm target pos: 76.0
+X :76.0 Y :24.0 Z :2.0
+X moving: 1.0mm target pos: 77.0
+X :77.0 Y :24.0 Z :2.0
+X moving: 1.0mm target pos: 78.0
+X :78.0 Y :24.0 Z :2.0
+Y moving: 1.0mm target pos: 25.0
+X :78.0 Y :25.0 Z :2.0
+Y moving: 1.0mm target pos: 26.0
+X :78.0 Y :26.0 Z :2.0
+Y moving: 1.0mm target pos: 27.0
+X :78.0 Y :27.0 Z :2.0
+Y moving: 1.0mm target pos: 28.0
+X :78.0 Y :28.0 Z :2.0
+Y moving: 1.0mm target pos: 29.0
+X :78.0 Y :29.0 Z :2.0
+Y moving: -1.0mm target pos: 28.0
+X :78.0 Y :28.0 Z :2.0
+Y moving: -1.0mm target pos: 27.0
+X :78.0 Y :27.0 Z :2.0
+cscan X :78.0 Y :27.0 Z :2.0
+208 data received by weaver
+RptBline successfully finished...
+208 Blines displayed
+
+208 FFT actions taken place
+
+cscan X :78.0 Y :27.4 Z :2.0
+SingleCscan successfully finished...
+
+ an FFT action took 13.794 s
+
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -2.85mm target pos: 75.15
+X :75.15 Y :27.4 Z :2.0
+Y moving: 1.6mm target pos: 29.0
+X :75.15 Y :29.0 Z :2.0
+X move2 action aborted
+cscan X :75.15 Y :25.0 Z :2.0
+X moving: 1.9mm target pos: 77.05
+X :77.05 Y :25.0 Z :2.0
+cscan X :77.05 Y :29.0 Z :2.0
+X moving: 1.9mm target pos: 78.95
+X :78.95 Y :29.0 Z :2.0
+cscan X :78.95 Y :25.0 Z :2.0
+X moving: 1.9mm target pos: 80.85
+X :80.85 Y :25.0 Z :2.0
+cscan X :80.85 Y :29.0 Z :2.0
+tile surf is:279
+
+slice 1 zmax scale is 4
+
+X moving: -5.7mm target pos: 75.15
+X :75.15 Y :29.0 Z :2.0
+Y move2 action aborted
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 8.035s
+cscan X :75.15 Y :28.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 8.036s
+cscan X :75.15 Y :28.2 Z :2.0
+Y move2 action aborted
+
+ an FFT action took 8.893 s
+

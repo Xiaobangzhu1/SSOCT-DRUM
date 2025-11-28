@@ -1,0 +1,9 @@
+Stage position updated...
+load disperison compensation success...
+Y moving: 22.0mm target pos: 32.0
+X :130.0 Y :32.0 Z :4.4
+X move2 action aborted
+Z move2 action aborted
+Y moving: -22.0mm target pos: 10.0
+X :130.0 Y :10.0 Z :4.4
+Slice success

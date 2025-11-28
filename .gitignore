@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+# log
+log_files/
+
+# pyc
+__pycache__/
+*.pyc
+

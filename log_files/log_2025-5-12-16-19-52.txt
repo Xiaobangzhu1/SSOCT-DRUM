@@ -1,0 +1,13 @@
+Stage position updated...
+cscan X :90.0 Y :25.0 Z :2.0
+SingleAline successfully finished...
+cscan X :90.0 Y :25.0 Z :2.0
+25 data received by weaver
+RptBline successfully finished...
+0 Blines displayed
+
+cscan X :90.0 Y :25.0 Z :2.0
+12 data received by weaver
+RptBline successfully finished...
+0 Blines displayed
+

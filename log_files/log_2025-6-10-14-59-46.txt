@@ -1,0 +1,16 @@
+Stage position updated...
+load disperison compensation success...
+37 data received by weaver
+36 Blines displayed
+
+inished...
+37 FFT actions taken place
+
+67 data received by weaver
+RptBline successfully finished...
+67 Blines displayed
+
+67 FFT actions taken place
+
+X :80.0 Y :25.0 Z :11.0
+X :85.0 Y :25.0 Z :11.0

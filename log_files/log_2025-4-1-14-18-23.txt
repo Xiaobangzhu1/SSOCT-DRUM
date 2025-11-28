@@ -1,0 +1,5186 @@
+Stage position updated...
+load disperison compensation success...
+Z moving: -15.0mm target pos: 1.0
+X :82.0 Y :42.0 Z :1.0
+cscan X :82.0 Y :42.0 Z :1.0
+SingleBline successfully finished...
+Z moving: 0.5mm target pos: 1.5
+X :82.0 Y :42.0 Z :1.5
+Z moving: 0.5mm target pos: 2.0
+X :82.0 Y :42.0 Z :2.0
+Z moving: 0.5mm target pos: 2.5
+X :82.0 Y :42.0 Z :2.5
+Z moving: 0.5mm target pos: 3.0
+X :82.0 Y :42.0 Z :3.0
+Y moving: -13.0mm target pos: 29.0
+X :82.0 Y :29.0 Z :3.0
+X moving: 53.0mm target pos: 135.0
+X :135.0 Y :29.0 Z :3.0
+Z move2 action aborted
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :3.0
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :3.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 3.5
+X :135.0 Y :29.0 Z :3.5
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :3.5
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :3.5
+X move2 action aborted
+Z moving: 0.5mm target pos: 4.0
+X :135.0 Y :29.0 Z :4.0
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :4.0
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :4.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 4.5
+X :135.0 Y :29.0 Z :4.5
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :4.5
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :4.5
+X move2 action aborted
+Z moving: 0.5mm target pos: 5.0
+X :135.0 Y :29.0 Z :5.0
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :5.0
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :5.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 5.5
+X :135.0 Y :29.0 Z :5.5
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :5.5
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :5.5
+X move2 action aborted
+Z moving: 0.5mm target pos: 6.0
+X :135.0 Y :29.0 Z :6.0
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :6.0
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :6.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 6.5
+X :135.0 Y :29.0 Z :6.5
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :6.5
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :6.5
+X move2 action aborted
+Z moving: 0.3mm target pos: 6.8
+X :135.0 Y :29.0 Z :6.8
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :6.8
+Slice success
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :6.8
+X move2 action aborted
+Z moving: 0.3mm target pos: 7.1
+X :135.0 Y :29.0 Z :7.1
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :7.1
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :7.1
+Z moving: 0.3mm target pos: 7.4
+X :135.0 Y :29.0 Z :7.4
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :7.4
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :7.4
+Z moving: 0.3mm target pos: 7.7
+X :135.0 Y :29.0 Z :7.7
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :7.7
+Y moving: 19.0mm target pos: 29.0
+X :135.0 Y :29.0 Z :7.7
+Slice success
+X moving: -45.0mm target pos: 90.0
+X :90.0 Y :29.0 Z :7.7
+X moving: -4.0mm target pos: 86.0
+X :86.0 Y :29.0 Z :7.7
+Y moving: 5.0mm target pos: 34.0
+X :86.0 Y :34.0 Z :7.7
+Y moving: -5.0mm target pos: 29.0
+X :86.0 Y :29.0 Z :7.7
+Y moving: -5.0mm target pos: 24.0
+X :86.0 Y :24.0 Z :7.7
+Y moving: -5.0mm target pos: 19.0
+X :86.0 Y :19.0 Z :7.7
+Y moving: -5.0mm target pos: 14.0
+X :86.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 85.0
+X :85.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 86.0
+X :86.0 Y :14.0 Z :7.7
+Y moving: -1.0mm target pos: 13.0
+X :86.0 Y :13.0 Z :7.7
+Y moving: 1.0mm target pos: 14.0
+X :86.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 85.0
+X :85.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 86.0
+X :86.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 87.0
+X :87.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 86.0
+X :86.0 Y :14.0 Z :7.7
+cscan X :86.0 Y :14.0 Z :7.7
+315 data received by weaver
+315 Blines displayed
+
+RptBline successfully finished...
+316 FFT actions taken place
+
+X moving: -1.0mm target pos: 85.0
+X :85.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 84.0
+X :84.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 83.0
+X :83.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 82.0
+X :82.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 83.0
+X :83.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 84.0
+X :84.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 85.0
+X :85.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 86.0
+X :86.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 87.0
+X :87.0 Y :14.0 Z :7.7
+X moving: 1.0mm target pos: 88.0
+X :88.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 87.0
+X :87.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 86.0
+X :86.0 Y :14.0 Z :7.7
+X moving: -1.0mm target pos: 85.0
+X :85.0 Y :14.0 Z :7.7
+Y moving: 1.0mm target pos: 15.0
+X :85.0 Y :15.0 Z :7.7
+Y moving: 1.0mm target pos: 16.0
+X :85.0 Y :16.0 Z :7.7
+Y moving: 1.0mm target pos: 17.0
+X :85.0 Y :17.0 Z :7.7
+Y moving: 1.0mm target pos: 18.0
+X :85.0 Y :18.0 Z :7.7
+Y moving: 1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :7.7
+Y moving: 1.0mm target pos: 20.0
+X :85.0 Y :20.0 Z :7.7
+Y moving: -1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :7.7
+Y moving: -1.0mm target pos: 18.0
+X :85.0 Y :18.0 Z :7.7
+Y moving: -1.0mm target pos: 17.0
+X :85.0 Y :17.0 Z :7.7
+Y moving: -1.0mm target pos: 16.0
+X :85.0 Y :16.0 Z :7.7
+Y moving: -1.0mm target pos: 15.0
+X :85.0 Y :15.0 Z :7.7
+Y moving: -1.0mm target pos: 14.0
+X :85.0 Y :14.0 Z :7.7
+Y moving: -1.0mm target pos: 13.0
+X :85.0 Y :13.0 Z :7.7
+Y moving: -1.0mm target pos: 12.0
+X :85.0 Y :12.0 Z :7.7
+Y moving: -1.0mm target pos: 11.0
+X :85.0 Y :11.0 Z :7.7
+cscan X :85.0 Y :11.0 Z :7.7
+491 data received by weaver
+RptBline successfully finished...
+491 Blines displayed
+
+491 FFT actions taken place
+
+
+ Y dimension scan speed accellaration scale for fast pre-scan is8
+
+
+ fast pre-scan mosaic display scale is1
+
+X moving: -3.8mm target pos: 81.2
+X :81.2 Y :11.0 Z :7.7
+Y moving: 9.0mm target pos: 20.0
+X :81.2 Y :20.0 Z :7.7
+X move2 action aborted
+cscan X :81.2 Y :11.2 Z :7.7
+X moving: 1.9mm target pos: 83.1
+X :83.1 Y :11.2 Z :7.7
+cscan X :83.1 Y :20.0 Z :7.7
+X moving: 1.9mm target pos: 85.0
+X :85.0 Y :20.0 Z :7.7
+cscan X :85.0 Y :11.2 Z :7.7
+X moving: 1.9mm target pos: 86.9
+X :86.9 Y :11.2 Z :7.7
+cscan X :86.9 Y :11.6 Z :7.7
+tile surf is:2
+action aborted by user...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -5.7mm target pos: 81.2
+X :81.2 Y :11.6 Z :7.7
+Y moving: 8.4mm target pos: 20.0
+X :81.2 Y :20.0 Z :7.7
+X move2 action aborted
+cscan X :81.2 Y :11.2 Z :7.7
+X moving: 1.9mm target pos: 83.1
+X :83.1 Y :11.2 Z :7.7
+cscan X :83.1 Y :20.0 Z :7.7
+X moving: 1.9mm target pos: 85.0
+X :85.0 Y :20.0 Z :7.7
+cscan X :85.0 Y :18.4 Z :7.7
+tile surf is:120
+action aborted by user...
+Y moving: -1.0mm target pos: 17.4
+X :85.0 Y :17.4 Z :7.7
+Y moving: -1.0mm target pos: 16.4
+X :85.0 Y :16.4 Z :7.7
+Y moving: -1.0mm target pos: 15.4
+X :85.0 Y :15.4 Z :7.7
+Y moving: -1.0mm target pos: 14.4
+X :85.0 Y :14.4 Z :7.7
+Y moving: -1.0mm target pos: 13.4
+X :85.0 Y :13.4 Z :7.7
+Y moving: -1.0mm target pos: 12.4
+X :85.0 Y :12.4 Z :7.7
+Y moving: -1.0mm target pos: 11.4
+X :85.0 Y :11.4 Z :7.7
+Y moving: -1.0mm target pos: 10.4
+X :85.0 Y :10.4 Z :7.7
+Y moving: 1.0mm target pos: 11.4
+X :85.0 Y :11.4 Z :7.7
+Y moving: -1.0mm target pos: 10.4
+X :85.0 Y :10.4 Z :7.7
+Y moving: -1.0mm target pos: 9.4
+X :85.0 Y :9.4 Z :7.7
+Y moving: -1.0mm target pos: 8.4
+X :85.0 Y :8.4 Z :7.7
+Y moving: -1.0mm target pos: 7.4
+X :85.0 Y :7.4 Z :7.7
+Y moving: -1.0mm target pos: 6.4
+X :85.0 Y :6.4 Z :7.7
+Y moving: -1.0mm target pos: 5.4
+X :85.0 Y :5.4 Z :7.7
+Y moving: -1.0mm target pos: 4.4
+X :85.0 Y :4.4 Z :7.7
+Y moving: -1.0mm target pos: 3.4
+X :85.0 Y :3.4 Z :7.7
+Y moving: -1.0mm target pos: 2.4
+X :85.0 Y :2.4 Z :7.7
+Y moving: -1.0mm target pos: 1.4
+X :85.0 Y :1.4 Z :7.7
+cscan X :85.0 Y :1.4 Z :7.7
+168 data received by weaver
+RptBline successfully finished...
+168 Blines displayed
+
+283 FFT actions taken place
+
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -3.8mm target pos: 81.2
+X :81.2 Y :1.4 Z :7.7
+Y moving: 8.6mm target pos: 10.0
+X :81.2 Y :10.0 Z :7.7
+X move2 action aborted
+cscan X :81.2 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 83.1
+X :83.1 Y :1.2 Z :7.7
+cscan X :83.1 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 85.0
+X :85.0 Y :10.0 Z :7.7
+cscan X :85.0 Y :1.6 Z :7.7
+tile surf is:104
+action aborted by user...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -3.8mm target pos: 81.2
+X :81.2 Y :1.6 Z :7.7
+Y moving: 8.4mm target pos: 10.0
+X :81.2 Y :10.0 Z :7.7
+X move2 action aborted
+cscan X :81.2 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 83.1
+X :83.1 Y :1.2 Z :7.7
+cscan X :83.1 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 85.0
+X :85.0 Y :10.0 Z :7.7
+cscan X :85.0 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 86.9
+X :86.9 Y :1.2 Z :7.7
+cscan X :86.9 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 88.8
+X :88.8 Y :10.0 Z :7.7
+cscan X :88.8 Y :9.6 Z :7.7
+tile surf is:102
+action aborted by user...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -7.6mm target pos: 81.2
+X :81.2 Y :9.6 Z :7.7
+Y moving: 0.4mm target pos: 10.0
+X :81.2 Y :10.0 Z :7.7
+X move2 action aborted
+cscan X :81.2 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 83.1
+X :83.1 Y :1.2 Z :7.7
+cscan X :83.1 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 85.0
+X :85.0 Y :10.0 Z :7.7
+cscan X :85.0 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 86.9
+X :86.9 Y :1.2 Z :7.7
+cscan X :86.9 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 88.8
+X :88.8 Y :10.0 Z :7.7
+cscan X :88.8 Y :2.0 Z :7.7
+tile surf is:102
+action aborted by user...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -7.6mm target pos: 81.2
+X :81.2 Y :2.0 Z :7.7
+Y moving: 8.0mm target pos: 10.0
+X :81.2 Y :10.0 Z :7.7
+X move2 action aborted
+cscan X :81.2 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 83.1
+X :83.1 Y :1.2 Z :7.7
+cscan X :83.1 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 85.0
+X :85.0 Y :10.0 Z :7.7
+cscan X :85.0 Y :1.2 Z :7.7
+X moving: 1.9mm target pos: 86.9
+X :86.9 Y :1.2 Z :7.7
+cscan X :86.9 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 88.8
+X :88.8 Y :10.0 Z :7.7
+cscan X :88.8 Y :1.2 Z :7.7
+tile surf is:103
+
+slice 1 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.2
+X :81.2 Y :1.2 Z :7.7
+Y moving: 8.8mm target pos: 10.0
+X :81.2 Y :10.0 Z :7.7
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.644s
+cscan X :81.2 Y :9.6 Z :7.7
+
+ an FFT action took 2.494 s
+
+slice-1-tile-1-Y200-X1000-Z200.bin
+Mosaic successfully finished...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: 1.45mm target pos: 82.65
+X :82.65 Y :9.6 Z :7.7
+Y moving: 1.4mm target pos: 11.0
+X :82.65 Y :11.0 Z :7.7
+X move2 action aborted
+cscan X :82.65 Y :2.2 Z :7.7
+tile surf is:106
+action aborted by user...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X move2 action aborted
+Y moving: 9.8mm target pos: 12.0
+X :82.65 Y :12.0 Z :7.7
+X move2 action aborted
+cscan X :82.65 Y :3.2 Z :7.7
+X moving: 1.9mm target pos: 84.55
+X :84.55 Y :3.2 Z :7.7
+cscan X :84.55 Y :12.0 Z :7.7
+X moving: 1.9mm target pos: 86.45
+X :86.45 Y :12.0 Z :7.7
+cscan X :86.45 Y :11.6 Z :7.7
+tile surf is:104
+action aborted by user...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -3.8mm target pos: 82.65
+X :82.65 Y :11.6 Z :7.7
+Y moving: -2.6mm target pos: 9.0
+X :82.65 Y :9.0 Z :7.7
+X move2 action aborted
+cscan X :82.65 Y :0.2 Z :7.7
+X moving: 1.9mm target pos: 84.55
+X :84.55 Y :0.2 Z :7.7
+cscan X :84.55 Y :9.0 Z :7.7
+X moving: 1.9mm target pos: 86.45
+X :86.45 Y :9.0 Z :7.7
+cscan X :86.45 Y :0.2 Z :7.7
+X moving: 1.9mm target pos: 88.35
+X :88.35 Y :0.2 Z :7.7
+cscan X :88.35 Y :9.0 Z :7.7
+tile surf is:102
+
+slice 2 zmax scale is 4
+
+X moving: -5.7mm target pos: 82.65
+X :82.65 Y :9.0 Z :7.7
+Y move2 action aborted
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.644s
+cscan X :82.65 Y :8.6 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.742 s
+
+cscan X :82.65 Y :8.2 Z :7.7
+time to fetch data: 3.206s
+Y move2 action aborted
+slice-2-tile-1-Y200-X1000-Z200.bin
+
+ an FFT action took 1.663 s
+
+cscan X :82.65 Y :7.8 Z :7.7
+slice-2-tile-2-Y200-X1000-Z200.bin
+time to fetch data: 3.055s
+Y move2 action aborted
+
+ an FFT action took 1.593 s
+
+cscan X :82.65 Y :7.4 Z :7.7
+slice-2-tile-3-Y200-X1000-Z200.bin
+time to fetch data: 2.877s
+Y move2 action aborted
+
+ an FFT action took 1.687 s
+
+cscan X :82.65 Y :7.0 Z :7.7
+time to fetch data: 2.777s
+Y move2 action aborted
+slice-2-tile-4-Y200-X1000-Z200.bin
+
+ an FFT action took 1.746 s
+
+time to fetch data: 2.743s
+
+Y move2 action aborted
+slice-2-tile-5-Y200-X1000-Z200.bin
+
+ an FFT action took 1.725 s
+
+cscan X :82.65 Y :6.2 Z :7.7
+time to fetch data: 2.77s
+Y move2 action aborted
+slice-2-tile-6-Y200-X1000-Z200.bin
+
+ an FFT action took 1.686 s
+
+cscan X :82.65 Y :5.8 Z :7.7
+time to fetch data: 2.825s
+Y move2 action aborted
+slice-2-tile-7-Y200-X1000-Z200.bin
+
+ an FFT action took 1.812 s
+
+time to fetch data: 2.69s
+7
+Y move2 action aborted
+slice-2-tile-8-Y200-X1000-Z200.bin
+
+ an FFT action took 1.639 s
+
+cscan X :82.65 Y :5.0 Z :7.7
+slice-2-tile-9-Y200-X1000-Z200.bin
+time to fetch data: 2.849s
+Y move2 action aborted
+
+ an FFT action took 1.671 s
+
+cscan X :82.65 Y :4.6 Z :7.7
+time to fetch data: 2.747s
+Y move2 action aborted
+slice-2-tile-10-Y200-X1000-Z200.bin
+
+ an FFT action took 1.592 s
+
+cscan X :82.65 Y :4.2 Z :7.7
+time to fetch data: 2.715s
+Y move2 action aborted
+slice-2-tile-11-Y200-X1000-Z200.bin
+
+ an FFT action took 1.668 s
+
+cscan X :82.65 Y :3.8 Z :7.7
+slice-2-tile-12-Y200-X1000-Z200.bin
+time to fetch data: 2.8s
+Y move2 action aborted
+
+ an FFT action took 1.769 s
+
+cscan X :82.65 Y :3.4 Z :7.7
+time to fetch data: 2.803s
+Y move2 action aborted
+slice-2-tile-13-Y200-X1000-Z200.bin
+
+ an FFT action took 1.629 s
+
+cscan X :82.65 Y :3.0 Z :7.7
+time to fetch data: 2.698s
+Y move2 action aborted
+slice-2-tile-14-Y200-X1000-Z200.bin
+
+ an FFT action took 1.765 s
+
+cscan X :82.65 Y :2.6 Z :7.7
+time to fetch data: 2.761s
+Y move2 action aborted
+slice-2-tile-15-Y200-X1000-Z200.bin
+
+ an FFT action took 1.701 s
+
+cscan X :82.65 Y :2.2 Z :7.7
+time to fetch data: 2.791s
+Y move2 action aborted
+slice-2-tile-16-Y200-X1000-Z200.bin
+
+ an FFT action took 1.706 s
+
+cscan X :82.65 Y :1.8 Z :7.7
+time to fetch data: 2.774s
+Y move2 action aborted
+slice-2-tile-17-Y200-X1000-Z200.bin
+
+ an FFT action took 1.721 s
+
+cscan X :82.65 Y :1.4 Z :7.7
+time to fetch data: 2.768s
+Y move2 action aborted
+slice-2-tile-18-Y200-X1000-Z200.bin
+
+ an FFT action took 1.708 s
+
+cscan X :82.65 Y :1.0 Z :7.7
+time to fetch data: 2.783s
+Y move2 action aborted
+slice-2-tile-19-Y200-X1000-Z200.bin
+
+ an FFT action took 1.777 s
+
+cscan X :82.65 Y :0.6 Z :7.7
+time to fetch data: 2.744s
+Y move2 action aborted
+slice-2-tile-20-Y200-X1000-Z200.bin
+
+ an FFT action took 1.746 s
+
+cscan X :82.65 Y :0.2 Z :7.7
+time to fetch data: 2.874s
+slice-2-tile-21-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 84.55
+X :84.55 Y :0.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.648 s
+
+slice-2-tile-22-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :84.55 Y :0.6 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.672 s
+
+cscan X :84.55 Y :1.0 Z :7.7
+time to fetch data: 2.734s
+Y move2 action aborted
+slice-2-tile-23-Y200-X1000-Z200.bin
+
+ an FFT action took 1.708 s
+
+cscan X :84.55 Y :1.4 Z :7.7
+time to fetch data: 2.76s
+Y move2 action aborted
+slice-2-tile-24-Y200-X1000-Z200.bin
+
+ an FFT action took 1.727 s
+
+cscan X :84.55 Y :1.8 Z :7.7
+time to fetch data: 2.669s
+Y move2 action aborted
+slice-2-tile-25-Y200-X1000-Z200.bin
+
+ an FFT action took 1.717 s
+
+cscan X :84.55 Y :2.2 Z :7.7
+time to fetch data: 2.711s
+Y move2 action aborted
+slice-2-tile-26-Y200-X1000-Z200.bin
+
+ an FFT action took 1.703 s
+
+cscan X :84.55 Y :2.6 Z :7.7
+time to fetch data: 2.721s
+Y move2 action aborted
+slice-2-tile-27-Y200-X1000-Z200.bin
+
+ an FFT action took 1.753 s
+
+cscan X :84.55 Y :3.0 Z :7.7
+time to fetch data: 2.668s
+Y move2 action aborted
+slice-2-tile-28-Y200-X1000-Z200.bin
+
+ an FFT action took 1.656 s
+
+cscan X :84.55 Y :3.4 Z :7.7
+time to fetch data: 2.707s
+Y move2 action aborted
+slice-2-tile-29-Y200-X1000-Z200.bin
+
+ an FFT action took 1.815 s
+
+cscan X :84.55 Y :3.8 Z :7.7
+time to fetch data: 2.812s
+Y move2 action aborted
+slice-2-tile-30-Y200-X1000-Z200.bin
+
+ an FFT action took 1.705 s
+
+cscan X :84.55 Y :4.2 Z :7.7
+slice-2-tile-31-Y200-X1000-Z200.bin
+time to fetch data: 2.716s
+Y move2 action aborted
+
+ an FFT action took 1.773 s
+
+time to fetch data: 2.665s
+cscan X :84.55 Y :4.6 Z :7.7
+Y move2 action aborted
+slice-2-tile-32-Y200-X1000-Z200.bin
+
+ an FFT action took 1.69 s
+
+time to fetch data: 2.647s
+cscan X :84.55 Y :5.0 Z :7.7
+Y move2 action aborted
+slice-2-tile-33-Y200-X1000-Z200.bin
+
+ an FFT action took 1.643 s
+
+cscan X :84.55 Y :5.4 Z :7.7
+time to fetch data: 2.718s
+Y move2 action aborted
+slice-2-tile-34-Y200-X1000-Z200.bin
+
+ an FFT action took 1.682 s
+
+cscan X :84.55 Y :5.8 Z :7.7
+slice-2-tile-35-Y200-X1000-Z200.bin
+time to fetch data: 2.766s
+Y move2 action aborted
+
+ an FFT action took 1.724 s
+
+time to fetch data: 2.658s
+cscan X :84.55 Y :6.2 Z :7.7
+Y move2 action aborted
+slice-2-tile-36-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+cscan X :84.55 Y :6.6 Z :7.7
+time to fetch data: 2.793s
+Y move2 action aborted
+slice-2-tile-37-Y200-X1000-Z200.bin
+
+ an FFT action took 1.635 s
+
+cscan X :84.55 Y :7.0 Z :7.7
+slice-2-tile-38-Y200-X1000-Z200.bin
+time to fetch data: 2.879s
+Y move2 action aborted
+
+ an FFT action took 1.71 s
+
+cscan X :84.55 Y :7.4 Z :7.7
+time to fetch data: 2.799s
+Y move2 action aborted
+slice-2-tile-39-Y200-X1000-Z200.bin
+
+ an FFT action took 1.748 s
+
+cscan X :84.55 Y :7.8 Z :7.7
+time to fetch data: 2.905s
+Y move2 action aborted
+slice-2-tile-40-Y200-X1000-Z200.bin
+
+ an FFT action took 1.767 s
+
+cscan X :84.55 Y :8.2 Z :7.7
+time to fetch data: 2.93s
+Y move2 action aborted
+slice-2-tile-41-Y200-X1000-Z200.bin
+
+ an FFT action took 1.802 s
+
+cscan X :84.55 Y :8.6 Z :7.7
+time to fetch data: 2.839s
+Y move2 action aborted
+slice-2-tile-42-Y200-X1000-Z200.bin
+
+ an FFT action took 1.748 s
+
+time to fetch data: 2.772s
+
+X moving: 1.9mm target pos: 86.45
+slice-2-tile-43-Y200-X1000-Z200.bin
+X :86.45 Y :9.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.74 s
+
+slice-2-tile-44-Y200-X1000-Z200.bin
+cscan X :86.45 Y :8.6 Z :7.7
+time to fetch data: 2.671s
+Y move2 action aborted
+
+ an FFT action took 1.734 s
+
+cscan X :86.45 Y :8.2 Z :7.7
+time to fetch data: 2.84s
+Y move2 action aborted
+slice-2-tile-45-Y200-X1000-Z200.bin
+
+ an FFT action took 1.689 s
+
+cscan X :86.45 Y :7.8 Z :7.7
+slice-2-tile-46-Y200-X1000-Z200.bin
+time to fetch data: 2.848s
+Y move2 action aborted
+
+ an FFT action took 1.808 s
+
+cscan X :86.45 Y :7.4 Z :7.7
+slice-2-tile-47-Y200-X1000-Z200.bin
+time to fetch data: 2.979s
+Y move2 action aborted
+
+ an FFT action took 1.711 s
+
+cscan X :86.45 Y :7.0 Z :7.7
+slice-2-tile-48-Y200-X1000-Z200.bin
+time to fetch data: 2.863s
+Y move2 action aborted
+
+ an FFT action took 1.79 s
+
+cscan X :86.45 Y :6.6 Z :7.7
+time to fetch data: 2.916s
+Y move2 action aborted
+slice-2-tile-49-Y200-X1000-Z200.bin
+
+ an FFT action took 1.967 s
+
+cscan X :86.45 Y :6.2 Z :7.7
+time to fetch data: 3.002s
+Y move2 action aborted
+slice-2-tile-50-Y200-X1000-Z200.bin
+
+ an FFT action took 1.825 s
+
+cscan X :86.45 Y :5.8 Z :7.7
+time to fetch data: 2.969s
+Y move2 action aborted
+slice-2-tile-51-Y200-X1000-Z200.bin
+
+ an FFT action took 1.854 s
+
+cscan X :86.45 Y :5.4 Z :7.7
+time to fetch data: 2.991s
+Y move2 action aborted
+slice-2-tile-52-Y200-X1000-Z200.bin
+
+ an FFT action took 1.675 s
+
+cscan X :86.45 Y :5.0 Z :7.7
+time to fetch data: 2.828s
+Y move2 action aborted
+slice-2-tile-53-Y200-X1000-Z200.bin
+
+ an FFT action took 1.967 s
+
+cscan X :86.45 Y :4.6 Z :7.7
+time to fetch data: 2.779s
+Y move2 action aborted
+slice-2-tile-54-Y200-X1000-Z200.bin
+
+ an FFT action took 1.67 s
+
+slice-2-tile-55-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :86.45 Y :4.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.765 s
+
+slice-2-tile-56-Y200-X1000-Z200.bin
+cscan X :86.45 Y :3.8 Z :7.7
+time to fetch data: 2.675s
+Y move2 action aborted
+
+ an FFT action took 1.716 s
+
+cscan X :86.45 Y :3.4 Z :7.7
+time to fetch data: 2.661s
+Y move2 action aborted
+slice-2-tile-57-Y200-X1000-Z200.bin
+
+ an FFT action took 1.804 s
+
+cscan X :86.45 Y :3.0 Z :7.7
+time to fetch data: 2.808s
+Y move2 action aborted
+slice-2-tile-58-Y200-X1000-Z200.bin
+
+ an FFT action took 1.76 s
+
+cscan X :86.45 Y :2.6 Z :7.7
+time to fetch data: 2.684s
+Y move2 action aborted
+slice-2-tile-59-Y200-X1000-Z200.bin
+
+ an FFT action took 1.658 s
+
+slice-2-tile-60-Y200-X1000-Z200.bin
+cscan X :86.45 Y :2.2 Z :7.7
+time to fetch data: 2.799s
+Y move2 action aborted
+
+ an FFT action took 1.738 s
+
+time to fetch data: 2.65s
+cscan X :86.45 Y :1.8 Z :7.7
+Y move2 action aborted
+slice-2-tile-61-Y200-X1000-Z200.bin
+
+ an FFT action took 1.767 s
+
+cscan X :86.45 Y :1.4 Z :7.7
+time to fetch data: 2.793s
+Y move2 action aborted
+slice-2-tile-62-Y200-X1000-Z200.bin
+
+ an FFT action took 1.775 s
+
+cscan X :86.45 Y :1.0 Z :7.7
+time to fetch data: 3.18s
+Y move2 action aborted
+slice-2-tile-63-Y200-X1000-Z200.bin
+
+ an FFT action took 1.76 s
+
+cscan X :86.45 Y :0.6 Z :7.7
+time to fetch data: 2.882s
+Y move2 action aborted
+slice-2-tile-64-Y200-X1000-Z200.bin
+
+ an FFT action took 1.848 s
+
+cscan X :86.45 Y :0.2 Z :7.7
+time to fetch data: 3.017s
+slice-2-tile-65-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 88.35
+X :88.35 Y :0.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.829 s
+
+slice-2-tile-66-Y200-X1000-Z200.bin
+cscan X :88.35 Y :0.6 Z :7.7
+time to fetch data: 2.767s
+Y move2 action aborted
+
+ an FFT action took 1.829 s
+
+cscan X :88.35 Y :1.0 Z :7.7
+time to fetch data: 3.057s
+Y move2 action aborted
+slice-2-tile-67-Y200-X1000-Z200.bin
+
+ an FFT action took 1.831 s
+
+cscan X :88.35 Y :1.4 Z :7.7
+time to fetch data: 2.82s
+Y move2 action aborted
+slice-2-tile-68-Y200-X1000-Z200.bin
+
+ an FFT action took 1.884 s
+
+cscan X :88.35 Y :1.8 Z :7.7
+time to fetch data: 3.012s
+Y move2 action aborted
+slice-2-tile-69-Y200-X1000-Z200.bin
+
+ an FFT action took 1.848 s
+
+cscan X :88.35 Y :2.2 Z :7.7
+time to fetch data: 3.015s
+Y move2 action aborted
+slice-2-tile-70-Y200-X1000-Z200.bin
+
+ an FFT action took 1.8 s
+
+cscan X :88.35 Y :2.6 Z :7.7
+slice-2-tile-71-Y200-X1000-Z200.bin
+time to fetch data: 3.113s
+Y move2 action aborted
+
+ an FFT action took 1.751 s
+
+cscan X :88.35 Y :3.0 Z :7.7
+time to fetch data: 3.158s
+Y move2 action aborted
+slice-2-tile-72-Y200-X1000-Z200.bin
+
+ an FFT action took 1.742 s
+
+cscan X :88.35 Y :3.4 Z :7.7
+time to fetch data: 2.786s
+Y move2 action aborted
+slice-2-tile-73-Y200-X1000-Z200.bin
+
+ an FFT action took 1.909 s
+
+cscan X :88.35 Y :3.8 Z :7.7
+time to fetch data: 2.997s
+Y move2 action aborted
+slice-2-tile-74-Y200-X1000-Z200.bin
+
+ an FFT action took 1.981 s
+
+cscan X :88.35 Y :4.2 Z :7.7
+time to fetch data: 2.798s
+Y move2 action aborted
+slice-2-tile-75-Y200-X1000-Z200.bin
+
+ an FFT action took 1.729 s
+
+time to fetch data: 2.644s
+cscan X :88.35 Y :4.6 Z :7.7
+Y move2 action aborted
+slice-2-tile-76-Y200-X1000-Z200.bin
+
+ an FFT action took 1.852 s
+
+cscan X :88.35 Y :5.0 Z :7.7
+time to fetch data: 2.708s
+Y move2 action aborted
+slice-2-tile-77-Y200-X1000-Z200.bin
+
+ an FFT action took 1.84 s
+
+cscan X :88.35 Y :5.4 Z :7.7
+slice-2-tile-78-Y200-X1000-Z200.bin
+time to fetch data: 3.126s
+Y move2 action aborted
+
+ an FFT action took 1.644 s
+
+cscan X :88.35 Y :5.8 Z :7.7
+time to fetch data: 2.974s
+Y move2 action aborted
+slice-2-tile-79-Y200-X1000-Z200.bin
+
+ an FFT action took 1.93 s
+
+cscan X :88.35 Y :6.2 Z :7.7
+time to fetch data: 2.913s
+Y move2 action aborted
+slice-2-tile-80-Y200-X1000-Z200.bin
+
+ an FFT action took 2.444 s
+
+cscan X :88.35 Y :6.6 Z :7.7
+time to fetch data: 2.749s
+Y move2 action aborted
+slice-2-tile-81-Y200-X1000-Z200.bin
+
+ an FFT action took 2.282 s
+
+cscan X :88.35 Y :7.0 Z :7.7
+time to fetch data: 3.025s
+Y move2 action aborted
+slice-2-tile-82-Y200-X1000-Z200.bin
+
+ an FFT action took 1.951 s
+
+cscan X :88.35 Y :7.4 Z :7.7
+time to fetch data: 2.999s
+Y move2 action aborted
+slice-2-tile-83-Y200-X1000-Z200.bin
+
+ an FFT action took 2.074 s
+
+cscan X :88.35 Y :7.8 Z :7.7
+time to fetch data: 2.819s
+Y move2 action aborted
+slice-2-tile-84-Y200-X1000-Z200.bin
+
+ an FFT action took 2.309 s
+
+cscan X :88.35 Y :8.2 Z :7.7
+time to fetch data: 2.933s
+Y move2 action aborted
+slice-2-tile-85-Y200-X1000-Z200.bin
+
+ an FFT action took 1.885 s
+
+cscan X :88.35 Y :8.6 Z :7.7
+time to fetch data: 3.014s
+Y move2 action aborted
+slice-2-tile-86-Y200-X1000-Z200.bin
+
+ an FFT action took 1.902 s
+
+cscan X :88.35 Y :9.0 Z :7.7
+time to fetch data: 2.941s
+slice-2-tile-87-Y200-X1000-Z200.bin
+
+ an FFT action took 1.863 s
+
+slice-2-tile-88-Y200-X1000-Z200.bin
+Mosaic successfully finished...
+ slicing and imaging depth same, one image per cut...
+Y moving: 20.0mm target pos: 29.0
+X :88.35 Y :29.0 Z :7.7
+X moving: 46.65mm target pos: 135.0
+X :135.0 Y :29.0 Z :7.7
+Z move2 action aborted
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :7.7
+
+CUT HEIGHT:7.7
+
+X moving: -53.0mm target pos: 82.0
+X :82.0 Y :10.0 Z :7.7
+Y moving: -9.9mm target pos: 0.1
+X :82.0 Y :0.1 Z :7.7
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -0.3mm target pos: 81.7
+X :81.7 Y :0.1 Z :7.7
+Y moving: 9.9mm target pos: 10.0
+X :81.7 Y :10.0 Z :7.7
+X move2 action aborted
+cscan X :81.7 Y :0.4 Z :7.7
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :0.4 Z :7.7
+cscan X :83.6 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :10.0 Z :7.7
+cscan X :85.5 Y :0.4 Z :7.7
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :0.4 Z :7.7
+cscan X :87.4 Y :10.0 Z :7.7
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :10.0 Z :7.7
+cscan X :89.3 Y :0.4 Z :7.7
+tile surf is:105
+
+slice 3 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.7
+X :81.7 Y :0.4 Z :7.7
+Y moving: 9.6mm target pos: 10.0
+X :81.7 Y :10.0 Z :7.7
+X move2 action aborted
+Y moving: -0.4mm target pos: 9.6
+X :81.7 Y :9.6 Z :7.7
+time to fetch data: 2.644s
+cscan X :81.7 Y :9.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.74 s
+
+slice-3-tile-1-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :81.7 Y :8.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.63 s
+
+slice-3-tile-2-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :81.7 Y :8.4 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.594 s
+
+slice-3-tile-3-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :81.7 Y :8.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.723 s
+
+cscan X :81.7 Y :7.6 Z :7.7
+slice-3-tile-4-Y200-X1000-Z200.bin
+time to fetch data: 2.881s
+Y move2 action aborted
+
+ an FFT action took 1.724 s
+
+cscan X :81.7 Y :7.2 Z :7.7
+time to fetch data: 3.042s
+Y move2 action aborted
+slice-3-tile-5-Y200-X1000-Z200.bin
+
+ an FFT action took 1.717 s
+
+cscan X :81.7 Y :6.8 Z :7.7
+time to fetch data: 3.346s
+Y move2 action aborted
+slice-3-tile-6-Y200-X1000-Z200.bin
+
+ an FFT action took 1.81 s
+
+cscan X :81.7 Y :6.4 Z :7.7
+time to fetch data: 3.324s
+Y moving: -3.6mm target pos: 2.8
+slice-3-tile-7-Y200-X1000-Z200.bin
+X :81.7 Y :2.8 Z :7.7
+
+ an FFT action took 1.753 s
+
+slice-3-tile-8-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :2.4 Z :7.7
+Y moving: -0.8mm target pos: 1.6
+X :81.7 Y :1.6 Z :7.7
+
+ an FFT action took 1.662 s
+
+slice-3-tile-9-Y200-X1000-Z200.bin
+cscan X :81.7 Y :1.2 Z :7.7
+time to fetch data: 2.693s
+Y move2 action aborted
+
+ an FFT action took 1.69 s
+
+cscan X :81.7 Y :0.8 Z :7.7
+time to fetch data: 2.752s
+Y move2 action aborted
+slice-3-tile-10-Y200-X1000-Z200.bin
+
+ an FFT action took 1.731 s
+
+time to fetch data: 2.751s
+
+X moving: 1.9mm target pos: 83.6
+slice-3-tile-11-Y200-X1000-Z200.bin
+X :83.6 Y :0.4 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.708 s
+
+slice-3-tile-12-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :83.6 Y :0.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.751 s
+
+cscan X :83.6 Y :1.2 Z :7.7
+time to fetch data: 2.721s
+Y move2 action aborted
+slice-3-tile-13-Y200-X1000-Z200.bin
+
+ an FFT action took 1.76 s
+
+cscan X :83.6 Y :1.6 Z :7.7
+time to fetch data: 2.773s
+Y move2 action aborted
+slice-3-tile-14-Y200-X1000-Z200.bin
+
+ an FFT action took 1.811 s
+
+cscan X :83.6 Y :2.0 Z :7.7
+time to fetch data: 2.756s
+Y move2 action aborted
+slice-3-tile-15-Y200-X1000-Z200.bin
+
+ an FFT action took 1.848 s
+
+cscan X :83.6 Y :2.4 Z :7.7
+time to fetch data: 2.838s
+Y move2 action aborted
+slice-3-tile-16-Y200-X1000-Z200.bin
+
+ an FFT action took 1.768 s
+
+cscan X :83.6 Y :2.8 Z :7.7
+time to fetch data: 2.679s
+Y moving: 0.8mm target pos: 3.6
+slice-3-tile-17-Y200-X1000-Z200.bin
+X :83.6 Y :3.6 Z :7.7
+
+ an FFT action took 1.862 s
+
+slice-3-tile-18-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :83.6 Y :4.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.887 s
+
+cscan X :83.6 Y :4.4 Z :7.7
+slice-3-tile-19-Y200-X1000-Z200.bin
+time to fetch data: 3.301s
+Y move2 action aborted
+
+ an FFT action took 1.857 s
+
+cscan X :83.6 Y :4.8 Z :7.7
+time to fetch data: 2.912s
+Y move2 action aborted
+slice-3-tile-20-Y200-X1000-Z200.bin
+
+ an FFT action took 1.813 s
+
+cscan X :83.6 Y :5.2 Z :7.7
+time to fetch data: 2.809s
+Y move2 action aborted
+slice-3-tile-21-Y200-X1000-Z200.bin
+
+ an FFT action took 1.846 s
+
+cscan X :83.6 Y :5.6 Z :7.7
+time to fetch data: 2.997s
+Y move2 action aborted
+slice-3-tile-22-Y200-X1000-Z200.bin
+
+ an FFT action took 1.85 s
+
+cscan X :83.6 Y :6.0 Z :7.7
+time to fetch data: 2.993s
+slice-3-tile-23-Y200-X1000-Z200.bin
+Y moving: 2.4mm target pos: 8.4
+X :83.6 Y :8.4 Z :7.7
+
+ an FFT action took 1.805 s
+
+slice-3-tile-24-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :83.6 Y :8.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.743 s
+
+cscan X :83.6 Y :9.2 Z :7.7
+slice-3-tile-25-Y200-X1000-Z200.bin
+time to fetch data: 3.576s
+Y move2 action aborted
+
+ an FFT action took 1.784 s
+
+cscan X :83.6 Y :9.6 Z :7.7
+time to fetch data: 3.529s
+Y move2 action aborted
+slice-3-tile-26-Y200-X1000-Z200.bin
+
+ an FFT action took 1.82 s
+
+cscan X :83.6 Y :10.0 Z :7.7
+slice-3-tile-27-Y200-X1000-Z200.bin
+time to fetch data: 3.026s
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :10.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.766 s
+
+slice-3-tile-28-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :85.5 Y :9.6 Z :7.7
+Y moving: -2.4mm target pos: 7.2
+X :85.5 Y :7.2 Z :7.7
+
+ an FFT action took 1.776 s
+
+slice-3-tile-29-Y200-X1000-Z200.bin
+cscan X :85.5 Y :6.8 Z :7.7
+time to fetch data: 3.084s
+Y move2 action aborted
+
+ an FFT action took 1.718 s
+
+cscan X :85.5 Y :6.4 Z :7.7
+time to fetch data: 2.836s
+Y move2 action aborted
+slice-3-tile-30-Y200-X1000-Z200.bin
+
+ an FFT action took 1.836 s
+
+cscan X :85.5 Y :6.0 Z :7.7
+time to fetch data: 2.867s
+Y move2 action aborted
+slice-3-tile-31-Y200-X1000-Z200.bin
+
+ an FFT action took 1.737 s
+
+cscan X :85.5 Y :5.6 Z :7.7
+time to fetch data: 2.783s
+Y move2 action aborted
+slice-3-tile-32-Y200-X1000-Z200.bin
+
+ an FFT action took 1.898 s
+
+time to fetch data: 2.674s
+cscan X :85.5 Y :5.2 Z :7.7
+Y move2 action aborted
+slice-3-tile-33-Y200-X1000-Z200.bin
+
+ an FFT action took 1.81 s
+
+cscan X :85.5 Y :4.8 Z :7.7
+time to fetch data: 2.752s
+Y move2 action aborted
+slice-3-tile-34-Y200-X1000-Z200.bin
+
+ an FFT action took 1.809 s
+
+cscan X :85.5 Y :4.4 Z :7.7
+time to fetch data: 2.814s
+Y move2 action aborted
+slice-3-tile-35-Y200-X1000-Z200.bin
+
+ an FFT action took 1.768 s
+
+cscan X :85.5 Y :4.0 Z :7.7
+time to fetch data: 2.796s
+Y moving: -1.6mm target pos: 2.4
+slice-3-tile-36-Y200-X1000-Z200.bin
+X :85.5 Y :2.4 Z :7.7
+
+ an FFT action took 1.753 s
+
+slice-3-tile-37-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :85.5 Y :2.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.761 s
+
+cscan X :85.5 Y :1.6 Z :7.7
+time to fetch data: 2.68s
+Y move2 action aborted
+slice-3-tile-38-Y200-X1000-Z200.bin
+
+ an FFT action took 1.826 s
+
+cscan X :85.5 Y :1.2 Z :7.7
+time to fetch data: 2.86s
+Y move2 action aborted
+slice-3-tile-39-Y200-X1000-Z200.bin
+
+ an FFT action took 1.771 s
+
+cscan X :85.5 Y :0.8 Z :7.7
+time to fetch data: 2.691s
+Y move2 action aborted
+slice-3-tile-40-Y200-X1000-Z200.bin
+
+ an FFT action took 2.111 s
+
+cscan X :85.5 Y :0.4 Z :7.7
+time to fetch data: 2.901s
+X moving: 1.9mm target pos: 87.4
+slice-3-tile-41-Y200-X1000-Z200.bin
+X :87.4 Y :0.4 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.87 s
+
+slice-3-tile-42-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :87.4 Y :0.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.829 s
+
+cscan X :87.4 Y :1.2 Z :7.7
+time to fetch data: 2.931s
+Y move2 action aborted
+slice-3-tile-43-Y200-X1000-Z200.bin
+
+ an FFT action took 1.826 s
+
+cscan X :87.4 Y :1.6 Z :7.7
+time to fetch data: 2.729s
+Y move2 action aborted
+slice-3-tile-44-Y200-X1000-Z200.bin
+
+ an FFT action took 1.726 s
+
+slice-3-tile-45-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :87.4 Y :2.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.715 s
+
+cscan X :87.4 Y :2.4 Z :7.7
+time to fetch data: 2.671s
+Y move2 action aborted
+slice-3-tile-46-Y200-X1000-Z200.bin
+
+ an FFT action took 1.604 s
+
+slice-3-tile-47-Y200-X1000-Z200.bin
+cscan X :87.4 Y :2.8 Z :7.7
+time to fetch data: 2.692s
+Y moving: 0.8mm target pos: 3.6
+X :87.4 Y :3.6 Z :7.7
+
+ an FFT action took 1.692 s
+
+slice-3-tile-48-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :87.4 Y :4.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.828 s
+
+cscan X :87.4 Y :4.4 Z :7.7
+time to fetch data: 3.286s
+Y move2 action aborted
+slice-3-tile-49-Y200-X1000-Z200.bin
+
+ an FFT action took 1.903 s
+
+cscan X :87.4 Y :4.8 Z :7.7
+time to fetch data: 2.953s
+Y move2 action aborted
+slice-3-tile-50-Y200-X1000-Z200.bin
+
+ an FFT action took 1.91 s
+
+cscan X :87.4 Y :5.2 Z :7.7
+time to fetch data: 2.88s
+Y move2 action aborted
+slice-3-tile-51-Y200-X1000-Z200.bin
+
+ an FFT action took 1.749 s
+
+cscan X :87.4 Y :5.6 Z :7.7
+time to fetch data: 2.876s
+Y move2 action aborted
+slice-3-tile-52-Y200-X1000-Z200.bin
+
+ an FFT action took 1.777 s
+
+cscan X :87.4 Y :6.0 Z :7.7
+time to fetch data: 3.04s
+Y move2 action aborted
+slice-3-tile-53-Y200-X1000-Z200.bin
+
+ an FFT action took 1.773 s
+
+cscan X :87.4 Y :6.4 Z :7.7
+time to fetch data: 2.727s
+X moving: 1.9mm target pos: 89.3
+slice-3-tile-54-Y200-X1000-Z200.bin
+X :89.3 Y :6.4 Z :7.7
+Y moving: 3.6mm target pos: 10.0
+
+ an FFT action took 1.752 s
+
+X :89.3 Y :10.0 Z :7.7
+slice-3-tile-55-Y200-X1000-Z200.bin
+time to fetch data: 2.667s
+cscan X :89.3 Y :9.6 Z :7.7
+Y moving: -5.6mm target pos: 4.0
+
+ an FFT action took 1.724 s
+
+X :89.3 Y :4.0 Z :7.7
+slice-3-tile-56-Y200-X1000-Z200.bin
+time to fetch data: 2.708s
+cscan X :89.3 Y :3.6 Z :7.7
+Y moving: -1.2mm target pos: 2.4
+X :89.3 Y :2.4 Z :7.7
+
+ an FFT action took 1.79 s
+
+slice-3-tile-57-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :89.3 Y :2.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.738 s
+
+cscan X :89.3 Y :1.6 Z :7.7
+time to fetch data: 2.764s
+slice-3-tile-58-Y200-X1000-Z200.bin
+
+ an FFT action took 1.656 s
+
+slice-3-tile-59-Y200-X1000-Z200.bin
+Y moving: 27.4mm target pos: 29.0
+X :89.3 Y :29.0 Z :7.7
+user stopped acquisition...
+user stopped acquisition...
+Y moving: -1.0mm target pos: 28.0
+X :89.3 Y :28.0 Z :7.7
+Y moving: -1.0mm target pos: 27.0
+X :89.3 Y :27.0 Z :7.7
+Y moving: -1.0mm target pos: 26.0
+X :89.3 Y :26.0 Z :7.7
+Y moving: -1.0mm target pos: 25.0
+X :89.3 Y :25.0 Z :7.7
+Y moving: -1.0mm target pos: 24.0
+X :89.3 Y :24.0 Z :7.7
+Y moving: -1.0mm target pos: 23.0
+X :89.3 Y :23.0 Z :7.7
+Y moving: -1.0mm target pos: 22.0
+X :89.3 Y :22.0 Z :7.7
+Y moving: -1.0mm target pos: 21.0
+X :89.3 Y :21.0 Z :7.7
+Y moving: -1.0mm target pos: 20.0
+X :89.3 Y :20.0 Z :7.7
+Y moving: -1.0mm target pos: 19.0
+X :89.3 Y :19.0 Z :7.7
+Y moving: -1.0mm target pos: 18.0
+X :89.3 Y :18.0 Z :7.7
+Y moving: -1.0mm target pos: 17.0
+X :89.3 Y :17.0 Z :7.7
+Y moving: -1.0mm target pos: 16.0
+X :89.3 Y :16.0 Z :7.7
+Y moving: -1.0mm target pos: 15.0
+X :89.3 Y :15.0 Z :7.7
+Y moving: -1.0mm target pos: 14.0
+X :89.3 Y :14.0 Z :7.7
+Y moving: -1.0mm target pos: 13.0
+X :89.3 Y :13.0 Z :7.7
+Y moving: -1.0mm target pos: 12.0
+X :89.3 Y :12.0 Z :7.7
+Y moving: -1.0mm target pos: 11.0
+X :89.3 Y :11.0 Z :7.7
+Stage position updated...
+Y moving: -1.0mm target pos: 24.0
+X :89.3 Y :24.0 Z :7.7
+Y moving: -1.0mm target pos: 23.0
+X :89.3 Y :23.0 Z :7.7
+Y moving: -1.0mm target pos: 22.0
+X :89.3 Y :22.0 Z :7.7
+Y moving: -1.0mm target pos: 21.0
+X :89.3 Y :21.0 Z :7.7
+Y moving: -1.0mm target pos: 20.0
+X :89.3 Y :20.0 Z :7.7
+X moving: -1.0mm target pos: 88.3
+X :88.3 Y :20.0 Z :7.7
+X moving: -1.0mm target pos: 87.3
+X :87.3 Y :20.0 Z :7.7
+X moving: -1.0mm target pos: 86.3
+X :86.3 Y :20.0 Z :7.7
+X moving: -1.0mm target pos: 85.3
+X :85.3 Y :20.0 Z :7.7
+Y moving: -1.0mm target pos: 19.0
+X :85.3 Y :19.0 Z :7.7
+Y moving: 1.0mm target pos: 20.0
+X :85.3 Y :20.0 Z :7.7
+Y moving: -1.0mm target pos: 19.0
+X :85.3 Y :19.0 Z :7.7
+Y moving: -1.0mm target pos: 18.0
+X :85.3 Y :18.0 Z :7.7
+Y moving: -1.0mm target pos: 17.0
+X :85.3 Y :17.0 Z :7.7
+Y moving: -1.0mm target pos: 16.0
+X :85.3 Y :16.0 Z :7.7
+Y moving: -1.0mm target pos: 15.0
+X :85.3 Y :15.0 Z :7.7
+Y moving: -1.0mm target pos: 14.0
+X :85.3 Y :14.0 Z :7.7
+Y moving: -1.0mm target pos: 13.0
+X :85.3 Y :13.0 Z :7.7
+Y moving: -1.0mm target pos: 12.0
+X :85.3 Y :12.0 Z :7.7
+Y moving: -1.0mm target pos: 11.0
+X :85.3 Y :11.0 Z :7.7
+Y moving: -1.0mm target pos: 10.0
+X :85.3 Y :10.0 Z :7.7
+cscan X :85.3 Y :10.0 Z :7.7
+338 data received by weaver
+RptBline successfully finished...
+338 Blines displayed
+
+1133 FFT actions taken place
+
+ slicing and imaging depth same, one image per cut...
+Y moving: 19.0mm target pos: 29.0
+X :85.3 Y :29.0 Z :7.7
+X moving: 49.7mm target pos: 135.0
+X :135.0 Y :29.0 Z :7.7
+Z move2 action aborted
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :7.7
+
+CUT HEIGHT:7.7
+
+X moving: -53.0mm target pos: 82.0
+X :82.0 Y :10.0 Z :7.7
+Y move2 action aborted
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -0.3mm target pos: 81.7
+X :81.7 Y :10.0 Z :7.7
+Y moving: 11.0mm target pos: 21.0
+X :81.7 Y :21.0 Z :7.7
+X move2 action aborted
+cscan X :81.7 Y :10.2 Z :7.7
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :10.2 Z :7.7
+cscan X :83.6 Y :21.0 Z :7.7
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :21.0 Z :7.7
+cscan X :85.5 Y :10.2 Z :7.7
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :10.2 Z :7.7
+cscan X :87.4 Y :21.0 Z :7.7
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :21.0 Z :7.7
+cscan X :89.3 Y :10.2 Z :7.7
+tile surf is:116
+
+slice 1 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.7
+X :81.7 Y :10.2 Z :7.7
+Y moving: 10.8mm target pos: 21.0
+X :81.7 Y :21.0 Z :7.7
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.644s
+cscan X :81.7 Y :20.6 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.753 s
+
+cscan X :81.7 Y :20.2 Z :7.7
+slice-1-tile-1-Y200-X1000-Z200.bin
+time to fetch data: 2.995s
+Y move2 action aborted
+
+ an FFT action took 1.636 s
+
+cscan X :81.7 Y :19.8 Z :7.7
+time to fetch data: 3.253s
+Y move2 action aborted
+slice-1-tile-2-Y200-X1000-Z200.bin
+
+ an FFT action took 1.75 s
+
+cscan X :81.7 Y :19.4 Z :7.7
+slice-1-tile-3-Y200-X1000-Z200.bin
+time to fetch data: 3.373s
+Y move2 action aborted
+
+ an FFT action took 1.777 s
+
+cscan X :81.7 Y :19.0 Z :7.7
+slice-1-tile-4-Y200-X1000-Z200.bin
+time to fetch data: 3.328s
+Y moving: -2.8mm target pos: 16.2
+X :81.7 Y :16.2 Z :7.7
+
+ an FFT action took 1.662 s
+
+slice-1-tile-5-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :81.7 Y :15.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.868 s
+
+cscan X :81.7 Y :15.4 Z :7.7
+time to fetch data: 2.722s
+Y moving: -0.8mm target pos: 14.6
+slice-1-tile-6-Y200-X1000-Z200.bin
+X :81.7 Y :14.6 Z :7.7
+
+ an FFT action took 1.693 s
+
+slice-1-tile-7-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :14.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.704 s
+
+cscan X :81.7 Y :13.8 Z :7.7
+time to fetch data: 2.717s
+Y move2 action aborted
+slice-1-tile-8-Y200-X1000-Z200.bin
+
+ an FFT action took 1.765 s
+
+cscan X :81.7 Y :13.4 Z :7.7
+time to fetch data: 2.79s
+Y move2 action aborted
+slice-1-tile-9-Y200-X1000-Z200.bin
+
+ an FFT action took 1.725 s
+
+cscan X :81.7 Y :13.0 Z :7.7
+time to fetch data: 2.828s
+Y move2 action aborted
+slice-1-tile-10-Y200-X1000-Z200.bin
+
+ an FFT action took 1.681 s
+
+cscan X :81.7 Y :12.6 Z :7.7
+time to fetch data: 2.768s
+Y move2 action aborted
+slice-1-tile-11-Y200-X1000-Z200.bin
+
+ an FFT action took 1.703 s
+
+cscan X :81.7 Y :12.2 Z :7.7
+time to fetch data: 2.804s
+Y move2 action aborted
+slice-1-tile-12-Y200-X1000-Z200.bin
+
+ an FFT action took 1.686 s
+
+cscan X :81.7 Y :11.8 Z :7.7
+time to fetch data: 2.828s
+Y move2 action aborted
+slice-1-tile-13-Y200-X1000-Z200.bin
+
+ an FFT action took 1.749 s
+
+cscan X :81.7 Y :11.4 Z :7.7
+slice-1-tile-14-Y200-X1000-Z200.bin
+time to fetch data: 2.897s
+Y move2 action aborted
+
+ an FFT action took 1.703 s
+
+cscan X :81.7 Y :11.0 Z :7.7
+time to fetch data: 2.835s
+Y move2 action aborted
+slice-1-tile-15-Y200-X1000-Z200.bin
+
+ an FFT action took 1.661 s
+
+cscan X :81.7 Y :10.6 Z :7.7
+time to fetch data: 2.728s
+slice-1-tile-16-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :10.6 Z :7.7
+Y moving: -0.4mm target pos: 10.2
+X :83.6 Y :10.2 Z :7.7
+
+ an FFT action took 1.735 s
+
+slice-1-tile-17-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :83.6 Y :10.6 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.808 s
+
+cscan X :83.6 Y :11.0 Z :7.7
+time to fetch data: 2.905s
+Y move2 action aborted
+slice-1-tile-18-Y200-X1000-Z200.bin
+
+ an FFT action took 1.82 s
+
+cscan X :83.6 Y :11.4 Z :7.7
+time to fetch data: 2.821s
+Y move2 action aborted
+slice-1-tile-19-Y200-X1000-Z200.bin
+
+ an FFT action took 1.788 s
+
+time to fetch data: 2.697s
+cscan X :83.6 Y :11.8 Z :7.7
+Y move2 action aborted
+slice-1-tile-20-Y200-X1000-Z200.bin
+
+ an FFT action took 1.681 s
+
+cscan X :83.6 Y :12.2 Z :7.7
+time to fetch data: 2.724s
+Y move2 action aborted
+slice-1-tile-21-Y200-X1000-Z200.bin
+
+ an FFT action took 1.703 s
+
+time to fetch data: 2.738s
+cscan X :83.6 Y :12.6 Z :7.7
+Y move2 action aborted
+slice-1-tile-22-Y200-X1000-Z200.bin
+
+ an FFT action took 1.779 s
+
+cscan X :83.6 Y :13.0 Z :7.7
+time to fetch data: 2.814s
+Y move2 action aborted
+slice-1-tile-23-Y200-X1000-Z200.bin
+
+ an FFT action took 1.714 s
+
+cscan X :83.6 Y :13.4 Z :7.7
+time to fetch data: 2.71s
+Y move2 action aborted
+slice-1-tile-24-Y200-X1000-Z200.bin
+
+ an FFT action took 1.749 s
+
+cscan X :83.6 Y :13.8 Z :7.7
+time to fetch data: 2.71s
+Y move2 action aborted
+slice-1-tile-25-Y200-X1000-Z200.bin
+
+ an FFT action took 1.821 s
+
+cscan X :83.6 Y :14.2 Z :7.7
+time to fetch data: 2.841s
+Y move2 action aborted
+slice-1-tile-26-Y200-X1000-Z200.bin
+
+ an FFT action took 1.751 s
+
+cscan X :83.6 Y :14.6 Z :7.7
+slice-1-tile-27-Y200-X1000-Z200.bin
+time to fetch data: 2.858s
+Y move2 action aborted
+
+ an FFT action took 1.723 s
+
+cscan X :83.6 Y :15.0 Z :7.7
+time to fetch data: 2.792s
+Y move2 action aborted
+slice-1-tile-28-Y200-X1000-Z200.bin
+
+ an FFT action took 1.713 s
+
+cscan X :83.6 Y :15.4 Z :7.7
+time to fetch data: 2.718s
+Y move2 action aborted
+slice-1-tile-29-Y200-X1000-Z200.bin
+
+ an FFT action took 1.773 s
+
+time to fetch data: 2.678s
+cscan X :83.6 Y :15.8 Z :7.7
+Y move2 action aborted
+slice-1-tile-30-Y200-X1000-Z200.bin
+
+ an FFT action took 1.669 s
+
+cscan X :83.6 Y :16.2 Z :7.7
+slice-1-tile-31-Y200-X1000-Z200.bin
+time to fetch data: 2.735s
+Y move2 action aborted
+
+ an FFT action took 1.729 s
+
+cscan X :83.6 Y :16.6 Z :7.7
+time to fetch data: 2.661s
+Y move2 action aborted
+slice-1-tile-32-Y200-X1000-Z200.bin
+
+ an FFT action took 1.775 s
+
+cscan X :83.6 Y :17.0 Z :7.7
+time to fetch data: 2.785s
+Y move2 action aborted
+slice-1-tile-33-Y200-X1000-Z200.bin
+
+ an FFT action took 1.837 s
+
+cscan X :83.6 Y :17.4 Z :7.7
+time to fetch data: 2.772s
+Y move2 action aborted
+slice-1-tile-34-Y200-X1000-Z200.bin
+
+ an FFT action took 1.652 s
+
+cscan X :83.6 Y :17.8 Z :7.7
+time to fetch data: 2.731s
+Y move2 action aborted
+slice-1-tile-35-Y200-X1000-Z200.bin
+
+ an FFT action took 1.666 s
+
+cscan X :83.6 Y :18.2 Z :7.7
+slice-1-tile-36-Y200-X1000-Z200.bin
+time to fetch data: 2.801s
+Y move2 action aborted
+
+ an FFT action took 1.665 s
+
+cscan X :83.6 Y :18.6 Z :7.7
+time to fetch data: 2.714s
+Y move2 action aborted
+slice-1-tile-37-Y200-X1000-Z200.bin
+
+ an FFT action took 1.705 s
+
+cscan X :83.6 Y :19.0 Z :7.7
+time to fetch data: 2.737s
+Y move2 action aborted
+slice-1-tile-38-Y200-X1000-Z200.bin
+
+ an FFT action took 1.725 s
+
+cscan X :83.6 Y :19.4 Z :7.7
+time to fetch data: 2.797s
+slice-1-tile-39-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :19.4 Z :7.7
+Y moving: 0.8mm target pos: 20.2
+X :85.5 Y :20.2 Z :7.7
+
+ an FFT action took 1.687 s
+
+slice-1-tile-40-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :85.5 Y :19.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.708 s
+
+cscan X :85.5 Y :19.4 Z :7.7
+time to fetch data: 2.796s
+Y move2 action aborted
+slice-1-tile-41-Y200-X1000-Z200.bin
+
+ an FFT action took 1.673 s
+
+cscan X :85.5 Y :19.0 Z :7.7
+time to fetch data: 2.664s
+Y move2 action aborted
+slice-1-tile-42-Y200-X1000-Z200.bin
+
+ an FFT action took 1.624 s
+
+cscan X :85.5 Y :18.6 Z :7.7
+slice-1-tile-43-Y200-X1000-Z200.bin
+time to fetch data: 2.76s
+Y move2 action aborted
+
+ an FFT action took 1.614 s
+
+cscan X :85.5 Y :18.2 Z :7.7
+slice-1-tile-44-Y200-X1000-Z200.bin
+time to fetch data: 2.75s
+Y move2 action aborted
+
+ an FFT action took 1.848 s
+
+cscan X :85.5 Y :17.8 Z :7.7
+time to fetch data: 2.97s
+Y move2 action aborted
+slice-1-tile-45-Y200-X1000-Z200.bin
+
+ an FFT action took 1.669 s
+
+cscan X :85.5 Y :17.4 Z :7.7
+time to fetch data: 2.754s
+Y move2 action aborted
+slice-1-tile-46-Y200-X1000-Z200.bin
+
+ an FFT action took 1.69 s
+
+cscan X :85.5 Y :17.0 Z :7.7
+time to fetch data: 2.738s
+Y move2 action aborted
+slice-1-tile-47-Y200-X1000-Z200.bin
+
+ an FFT action took 1.695 s
+
+cscan X :85.5 Y :16.6 Z :7.7
+slice-1-tile-48-Y200-X1000-Z200.bin
+time to fetch data: 2.772s
+Y move2 action aborted
+
+ an FFT action took 1.562 s
+
+slice-1-tile-49-Y200-X1000-Z200.bin
+cscan X :85.5 Y :16.2 Z :7.7
+time to fetch data: 2.771s
+Y move2 action aborted
+
+ an FFT action took 1.545 s
+
+slice-1-tile-50-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :85.5 Y :15.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.692 s
+
+cscan X :85.5 Y :15.4 Z :7.7
+time to fetch data: 2.665s
+Y move2 action aborted
+slice-1-tile-51-Y200-X1000-Z200.bin
+
+ an FFT action took 1.599 s
+
+slice-1-tile-52-Y200-X1000-Z200.bin
+cscan X :85.5 Y :15.0 Z :7.7
+time to fetch data: 2.692s
+Y move2 action aborted
+
+ an FFT action took 1.642 s
+
+time to fetch data: 2.647s
+cscan X :85.5 Y :14.6 Z :7.7
+Y move2 action aborted
+slice-1-tile-53-Y200-X1000-Z200.bin
+
+ an FFT action took 1.614 s
+
+cscan X :85.5 Y :14.2 Z :7.7
+slice-1-tile-54-Y200-X1000-Z200.bin
+time to fetch data: 2.668s
+Y move2 action aborted
+
+ an FFT action took 1.53 s
+
+slice-1-tile-55-Y200-X1000-Z200.bin
+cscan X :85.5 Y :13.8 Z :7.7
+time to fetch data: 2.682s
+Y move2 action aborted
+
+ an FFT action took 1.592 s
+
+slice-1-tile-56-Y200-X1000-Z200.bin
+cscan X :85.5 Y :13.4 Z :7.7
+time to fetch data: 2.657s
+Y move2 action aborted
+
+ an FFT action took 1.711 s
+
+cscan X :85.5 Y :13.0 Z :7.7
+time to fetch data: 2.686s
+Y move2 action aborted
+slice-1-tile-57-Y200-X1000-Z200.bin
+
+ an FFT action took 1.63 s
+
+time to fetch data: 2.651s
+cscan X :85.5 Y :12.6 Z :7.7
+Y move2 action aborted
+slice-1-tile-58-Y200-X1000-Z200.bin
+
+ an FFT action took 1.572 s
+
+slice-1-tile-59-Y200-X1000-Z200.bin
+time to fetch data: 2.654s
+cscan X :85.5 Y :12.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.587 s
+
+time to fetch data: 2.656s
+200.bin
+cscan X :85.5 Y :11.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.619 s
+
+cscan X :85.5 Y :11.4 Z :7.7
+slice-1-tile-61-Y200-X1000-Z200.bin
+time to fetch data: 2.803s
+Y move2 action aborted
+
+ an FFT action took 1.581 s
+
+slice-1-tile-62-Y200-X1000-Z200.bin
+cscan X :85.5 Y :11.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.702 s
+
+cscan X :85.5 Y :10.6 Z :7.7
+time to fetch data: 2.758s
+Y move2 action aborted
+slice-1-tile-63-Y200-X1000-Z200.bin
+
+ an FFT action took 1.555 s
+
+cscan X :85.5 Y :10.2 Z :7.7
+slice-1-tile-64-Y200-X1000-Z200.bin
+time to fetch data: 2.71s
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :10.2 Z :7.7
+Y moving: 0.8mm target pos: 11.0
+X :87.4 Y :11.0 Z :7.7
+
+ an FFT action took 1.565 s
+
+slice-1-tile-65-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :87.4 Y :11.4 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.579 s
+
+time to fetch data: 2.645s
+cscan X :87.4 Y :11.8 Z :7.7
+Y move2 action aborted
+slice-1-tile-66-Y200-X1000-Z200.bin
+
+ an FFT action took 1.67 s
+
+cscan X :87.4 Y :12.2 Z :7.7
+time to fetch data: 2.685s
+Y move2 action aborted
+slice-1-tile-67-Y200-X1000-Z200.bin
+
+ an FFT action took 1.561 s
+
+cscan X :87.4 Y :12.6 Z :7.7
+time to fetch data: 2.811s
+slice-1-tile-68-Y200-X1000-Z200.bin
+Y move2 action aborted
+
+ an FFT action took 1.562 s
+
+cscan X :87.4 Y :13.0 Z :7.7
+time to fetch data: 2.672s
+slice-1-tile-69-Y200-X1000-Z200.bin
+Y move2 action aborted
+
+ an FFT action took 1.615 s
+
+cscan X :87.4 Y :13.4 Z :7.7
+slice-1-tile-70-Y200-X1000-Z200.bin
+time to fetch data: 2.753s
+Y move2 action aborted
+
+ an FFT action took 1.64 s
+
+cscan X :87.4 Y :13.8 Z :7.7
+slice-1-tile-71-Y200-X1000-Z200.bin
+time to fetch data: 2.794s
+Y move2 action aborted
+
+ an FFT action took 1.63 s
+
+cscan X :87.4 Y :14.2 Z :7.7
+time to fetch data: 2.718s
+Y move2 action aborted
+slice-1-tile-72-Y200-X1000-Z200.bin
+
+ an FFT action took 1.527 s
+
+slice-1-tile-73-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :87.4 Y :14.6 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.656 s
+
+cscan X :87.4 Y :15.0 Z :7.7
+slice-1-tile-74-Y200-X1000-Z200.bin
+time to fetch data: 2.795s
+Y move2 action aborted
+
+ an FFT action took 1.614 s
+
+time to fetch data: 2.646s
+cscan X :87.4 Y :15.4 Z :7.7
+slice-1-tile-75-Y200-X1000-Z200.bin
+Y move2 action aborted
+
+ an FFT action took 1.571 s
+
+slice-1-tile-76-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :87.4 Y :15.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.585 s
+
+slice-1-tile-77-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :87.4 Y :16.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.627 s
+
+cscan X :87.4 Y :16.6 Z :7.7
+slice-1-tile-78-Y200-X1000-Z200.bin
+time to fetch data: 2.735s
+Y move2 action aborted
+
+ an FFT action took 1.628 s
+
+cscan X :87.4 Y :17.0 Z :7.7
+slice-1-tile-79-Y200-X1000-Z200.bin
+time to fetch data: 2.808s
+Y move2 action aborted
+
+ an FFT action took 1.649 s
+
+cscan X :87.4 Y :17.4 Z :7.7
+time to fetch data: 2.827s
+Y move2 action aborted
+slice-1-tile-80-Y200-X1000-Z200.bin
+
+ an FFT action took 1.602 s
+
+cscan X :87.4 Y :17.8 Z :7.7
+time to fetch data: 2.712s
+Y move2 action aborted
+slice-1-tile-81-Y200-X1000-Z200.bin
+
+ an FFT action took 1.64 s
+
+cscan X :87.4 Y :18.2 Z :7.7
+time to fetch data: 2.742s
+Y move2 action aborted
+slice-1-tile-82-Y200-X1000-Z200.bin
+
+ an FFT action took 1.657 s
+
+cscan X :87.4 Y :18.6 Z :7.7
+time to fetch data: 2.77s
+Y move2 action aborted
+slice-1-tile-83-Y200-X1000-Z200.bin
+
+ an FFT action took 1.666 s
+
+cscan X :87.4 Y :19.0 Z :7.7
+time to fetch data: 2.679s
+Y move2 action aborted
+slice-1-tile-84-Y200-X1000-Z200.bin
+
+ an FFT action took 1.585 s
+
+cscan X :87.4 Y :19.4 Z :7.7
+time to fetch data: 2.692s
+Y move2 action aborted
+slice-1-tile-85-Y200-X1000-Z200.bin
+
+ an FFT action took 1.685 s
+
+cscan X :87.4 Y :19.8 Z :7.7
+time to fetch data: 2.753s
+slice-1-tile-86-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :19.8 Z :7.7
+Y moving: -3.6mm target pos: 16.2
+
+ an FFT action took 1.505 s
+
+X :89.3 Y :16.2 Z :7.7
+slice-1-tile-87-Y200-X1000-Z200.bin
+time to fetch data: 2.682s
+cscan X :89.3 Y :15.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.611 s
+
+cscan X :89.3 Y :15.4 Z :7.7
+time to fetch data: 2.668s
+Y move2 action aborted
+slice-1-tile-88-Y200-X1000-Z200.bin
+
+ an FFT action took 1.619 s
+
+cscan X :89.3 Y :15.0 Z :7.7
+time to fetch data: 2.71s
+Y move2 action aborted
+slice-1-tile-89-Y200-X1000-Z200.bin
+
+ an FFT action took 1.578 s
+
+time to fetch data: 2.653s
+cscan X :89.3 Y :14.6 Z :7.7
+slice-1-tile-90-Y200-X1000-Z200.bin
+
+ an FFT action took 1.619 s
+
+slice-1-tile-91-Y200-X1000-Z200.bin
+Y moving: 14.4mm target pos: 29.0
+X :89.3 Y :29.0 Z :7.7
+X moving: 45.7mm target pos: 135.0
+X :135.0 Y :29.0 Z :7.7
+Z moving: 0.3mm target pos: 8.0
+X :135.0 Y :29.0 Z :8.0
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :8.0
+
+CUT HEIGHT:8.0
+
+X moving: -53.0mm target pos: 82.0
+X :82.0 Y :10.0 Z :8.0
+Y move2 action aborted
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -0.3mm target pos: 81.7
+X :81.7 Y :10.0 Z :8.0
+Y moving: 11.0mm target pos: 21.0
+X :81.7 Y :21.0 Z :8.0
+X move2 action aborted
+cscan X :81.7 Y :10.2 Z :8.0
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :10.2 Z :8.0
+cscan X :83.6 Y :21.0 Z :8.0
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :21.0 Z :8.0
+cscan X :85.5 Y :10.2 Z :8.0
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :10.2 Z :8.0
+cscan X :87.4 Y :21.0 Z :8.0
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :21.0 Z :8.0
+cscan X :89.3 Y :10.2 Z :8.0
+tile surf is:109
+
+slice 2 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.7
+X :81.7 Y :10.2 Z :8.0
+Y moving: 10.8mm target pos: 21.0
+X :81.7 Y :21.0 Z :8.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.644s
+cscan X :81.7 Y :20.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.643 s
+
+slice-2-tile-1-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :81.7 Y :20.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.546 s
+
+slice-2-tile-2-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :81.7 Y :19.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.644 s
+
+slice-2-tile-3-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :19.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.59 s
+
+cscan X :81.7 Y :19.0 Z :8.0
+slice-2-tile-4-Y200-X1000-Z200.bin
+time to fetch data: 2.94s
+Y move2 action aborted
+
+ an FFT action took 1.657 s
+
+cscan X :81.7 Y :18.6 Z :8.0
+slice-2-tile-5-Y200-X1000-Z200.bin
+time to fetch data: 3.314s
+Y move2 action aborted
+
+ an FFT action took 1.705 s
+
+cscan X :81.7 Y :18.2 Z :8.0
+slice-2-tile-6-Y200-X1000-Z200.bin
+time to fetch data: 3.345s
+Y move2 action aborted
+
+ an FFT action took 1.566 s
+
+cscan X :81.7 Y :17.8 Z :8.0
+slice-2-tile-7-Y200-X1000-Z200.bin
+time to fetch data: 3.181s
+Y move2 action aborted
+
+ an FFT action took 1.567 s
+
+cscan X :81.7 Y :17.4 Z :8.0
+time to fetch data: 2.95s
+slice-2-tile-8-Y200-X1000-Z200.bin
+Y moving: -2.8mm target pos: 14.6
+X :81.7 Y :14.6 Z :8.0
+
+ an FFT action took 1.561 s
+
+slice-2-tile-9-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :14.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.623 s
+
+cscan X :81.7 Y :13.8 Z :8.0
+time to fetch data: 2.699s
+slice-2-tile-10-Y200-X1000-Z200.bin
+Y moving: -0.4mm target pos: 13.4
+X :81.7 Y :13.4 Z :8.0
+
+ an FFT action took 1.632 s
+
+slice-2-tile-11-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :13.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.504 s
+
+slice-2-tile-12-Y200-X1000-Z200.bin
+cscan X :81.7 Y :12.6 Z :8.0
+time to fetch data: 2.681s
+Y move2 action aborted
+
+ an FFT action took 1.599 s
+
+cscan X :81.7 Y :12.2 Z :8.0
+slice-2-tile-13-Y200-X1000-Z200.bin
+time to fetch data: 2.773s
+Y move2 action aborted
+
+ an FFT action took 1.603 s
+
+time to fetch data: 2.649s
+cscan X :81.7 Y :11.8 Z :8.0
+Y move2 action aborted
+slice-2-tile-14-Y200-X1000-Z200.bin
+
+ an FFT action took 1.533 s
+
+cscan X :81.7 Y :11.4 Z :8.0
+slice-2-tile-15-Y200-X1000-Z200.bin
+time to fetch data: 2.804s
+Y move2 action aborted
+
+ an FFT action took 1.528 s
+
+slice-2-tile-16-Y200-X1000-Z200.bin
+cscan X :81.7 Y :11.0 Z :8.0
+time to fetch data: 2.654s
+Y move2 action aborted
+
+ an FFT action took 1.61 s
+
+cscan X :81.7 Y :10.6 Z :8.0
+slice-2-tile-17-Y200-X1000-Z200.bin
+time to fetch data: 2.882s
+Y move2 action aborted
+
+ an FFT action took 1.538 s
+
+cscan X :81.7 Y :10.2 Z :8.0
+slice-2-tile-18-Y200-X1000-Z200.bin
+time to fetch data: 2.743s
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :10.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.561 s
+
+slice-2-tile-19-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :83.6 Y :10.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.566 s
+
+slice-2-tile-20-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :83.6 Y :11.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.686 s
+
+cscan X :83.6 Y :11.4 Z :8.0
+time to fetch data: 2.662s
+Y move2 action aborted
+slice-2-tile-21-Y200-X1000-Z200.bin
+
+ an FFT action took 1.593 s
+
+slice-2-tile-22-Y200-X1000-Z200.bin
+cscan X :83.6 Y :11.8 Z :8.0
+time to fetch data: 2.69s
+Y move2 action aborted
+
+ an FFT action took 1.661 s
+
+cscan X :83.6 Y :12.2 Z :8.0
+slice-2-tile-23-Y200-X1000-Z200.bin
+time to fetch data: 2.728s
+Y move2 action aborted
+
+ an FFT action took 1.535 s
+
+slice-2-tile-24-Y200-X1000-Z200.bin
+cscan X :83.6 Y :12.6 Z :8.0
+time to fetch data: 2.72s
+Y move2 action aborted
+
+ an FFT action took 1.606 s
+
+slice-2-tile-25-Y200-X1000-Z200.bin
+cscan X :83.6 Y :13.0 Z :8.0
+time to fetch data: 2.664s
+Y move2 action aborted
+
+ an FFT action took 1.511 s
+
+slice-2-tile-26-Y200-X1000-Z200.bin
+time to fetch data: 2.651s
+cscan X :83.6 Y :13.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.652 s
+
+cscan X :83.6 Y :13.8 Z :8.0
+time to fetch data: 2.709s
+Y move2 action aborted
+slice-2-tile-27-Y200-X1000-Z200.bin
+
+ an FFT action took 1.517 s
+
+slice-2-tile-28-Y200-X1000-Z200.bin
+time to fetch data: 2.658s
+cscan X :83.6 Y :14.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.634 s
+
+cscan X :83.6 Y :14.6 Z :8.0
+slice-2-tile-29-Y200-X1000-Z200.bin
+time to fetch data: 2.711s
+Y move2 action aborted
+
+ an FFT action took 1.577 s
+
+slice-2-tile-30-Y200-X1000-Z200.bin
+cscan X :83.6 Y :15.0 Z :8.0
+time to fetch data: 2.692s
+Y move2 action aborted
+
+ an FFT action took 1.596 s
+
+slice-2-tile-31-Y200-X1000-Z200.bin
+cscan X :83.6 Y :15.4 Z :8.0
+time to fetch data: 2.709s
+Y move2 action aborted
+
+ an FFT action took 1.599 s
+
+cscan X :83.6 Y :15.8 Z :8.0
+slice-2-tile-32-Y200-X1000-Z200.bin
+time to fetch data: 2.695s
+Y move2 action aborted
+
+ an FFT action took 1.733 s
+
+cscan X :83.6 Y :16.2 Z :8.0
+time to fetch data: 2.774s
+Y move2 action aborted
+slice-2-tile-33-Y200-X1000-Z200.bin
+
+ an FFT action took 1.568 s
+
+time to fetch data: 2.649s
+cscan X :83.6 Y :16.6 Z :8.0
+Y move2 action aborted
+slice-2-tile-34-Y200-X1000-Z200.bin
+
+ an FFT action took 1.628 s
+
+cscan X :83.6 Y :17.0 Z :8.0
+time to fetch data: 2.697s
+Y move2 action aborted
+slice-2-tile-35-Y200-X1000-Z200.bin
+
+ an FFT action took 1.577 s
+
+cscan X :83.6 Y :17.4 Z :8.0
+slice-2-tile-36-Y200-X1000-Z200.bin
+time to fetch data: 2.714s
+Y move2 action aborted
+
+ an FFT action took 1.595 s
+
+time to fetch data: 2.649s
+cscan X :83.6 Y :17.8 Z :8.0
+Y move2 action aborted
+slice-2-tile-37-Y200-X1000-Z200.bin
+
+ an FFT action took 1.564 s
+
+cscan X :83.6 Y :18.2 Z :8.0
+slice-2-tile-38-Y200-X1000-Z200.bin
+time to fetch data: 2.759s
+Y moving: 1.6mm target pos: 19.8
+X :83.6 Y :19.8 Z :8.0
+
+ an FFT action took 1.583 s
+
+slice-2-tile-39-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :83.6 Y :20.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.608 s
+
+cscan X :83.6 Y :20.6 Z :8.0
+slice-2-tile-40-Y200-X1000-Z200.bin
+time to fetch data: 3.397s
+Y move2 action aborted
+
+ an FFT action took 1.588 s
+
+cscan X :83.6 Y :21.0 Z :8.0
+slice-2-tile-41-Y200-X1000-Z200.bin
+time to fetch data: 3.509s
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :21.0 Z :8.0
+Y moving: -2.4mm target pos: 18.6
+X :85.5 Y :18.6 Z :8.0
+
+ an FFT action took 1.635 s
+
+slice-2-tile-42-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :85.5 Y :18.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.672 s
+
+cscan X :85.5 Y :17.8 Z :8.0
+slice-2-tile-43-Y200-X1000-Z200.bin
+time to fetch data: 2.897s
+Y move2 action aborted
+
+ an FFT action took 1.562 s
+
+cscan X :85.5 Y :17.4 Z :8.0
+slice-2-tile-44-Y200-X1000-Z200.bin
+time to fetch data: 2.71s
+Y move2 action aborted
+
+ an FFT action took 1.634 s
+
+cscan X :85.5 Y :17.0 Z :8.0
+time to fetch data: 2.742s
+Y move2 action aborted
+slice-2-tile-45-Y200-X1000-Z200.bin
+
+ an FFT action took 1.65 s
+
+cscan X :85.5 Y :16.6 Z :8.0
+time to fetch data: 2.779s
+Y move2 action aborted
+slice-2-tile-46-Y200-X1000-Z200.bin
+
+ an FFT action took 1.649 s
+
+cscan X :85.5 Y :16.2 Z :8.0
+time to fetch data: 2.695s
+Y move2 action aborted
+slice-2-tile-47-Y200-X1000-Z200.bin
+
+ an FFT action took 1.705 s
+
+time to fetch data: 2.651s
+cscan X :85.5 Y :15.8 Z :8.0
+Y move2 action aborted
+slice-2-tile-48-Y200-X1000-Z200.bin
+
+ an FFT action took 1.646 s
+
+slice-2-tile-49-Y200-X1000-Z200.bin
+cscan X :85.5 Y :15.4 Z :8.0
+time to fetch data: 2.707s
+Y move2 action aborted
+
+ an FFT action took 1.553 s
+
+slice-2-tile-50-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :85.5 Y :15.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.665 s
+
+slice-2-tile-51-Y200-X1000-Z200.bin
+cscan X :85.5 Y :14.6 Z :8.0
+time to fetch data: 2.678s
+Y move2 action aborted
+
+ an FFT action took 1.58 s
+
+slice-2-tile-52-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :85.5 Y :14.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.68 s
+
+slice-2-tile-53-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :85.5 Y :13.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.631 s
+
+slice-2-tile-54-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :85.5 Y :13.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.584 s
+
+slice-2-tile-55-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :85.5 Y :13.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.581 s
+
+slice-2-tile-56-Y200-X1000-Z200.bin
+cscan X :85.5 Y :12.6 Z :8.0
+time to fetch data: 2.669s
+Y move2 action aborted
+
+ an FFT action took 1.614 s
+
+slice-2-tile-57-Y200-X1000-Z200.bin
+cscan X :85.5 Y :12.2 Z :8.0
+time to fetch data: 2.662s
+Y move2 action aborted
+
+ an FFT action took 1.522 s
+
+slice-2-tile-58-Y200-X1000-Z200.bin
+time to fetch data: 2.651s
+cscan X :85.5 Y :11.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.646 s
+
+slice-2-tile-59-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :85.5 Y :11.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.569 s
+
+slice-2-tile-60-Y200-X1000-Z200.bin
+cscan X :85.5 Y :11.0 Z :8.0
+time to fetch data: 2.725s
+Y move2 action aborted
+
+ an FFT action took 1.651 s
+
+cscan X :85.5 Y :10.6 Z :8.0
+slice-2-tile-61-Y200-X1000-Z200.bin
+time to fetch data: 2.733s
+Y move2 action aborted
+
+ an FFT action took 1.587 s
+
+slice-2-tile-62-Y200-X1000-Z200.bin
+cscan X :85.5 Y :10.2 Z :8.0
+time to fetch data: 2.662s
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :10.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.606 s
+
+slice-2-tile-63-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :87.4 Y :10.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.599 s
+
+time to fetch data: 2.644s
+cscan X :87.4 Y :11.0 Z :8.0
+Y move2 action aborted
+slice-2-tile-64-Y200-X1000-Z200.bin
+
+ an FFT action took 1.557 s
+
+slice-2-tile-65-Y200-X1000-Z200.bin
+cscan X :87.4 Y :11.4 Z :8.0
+time to fetch data: 2.712s
+Y move2 action aborted
+
+ an FFT action took 1.591 s
+
+cscan X :87.4 Y :11.8 Z :8.0
+time to fetch data: 2.686s
+Y move2 action aborted
+slice-2-tile-66-Y200-X1000-Z200.bin
+
+ an FFT action took 1.703 s
+
+cscan X :87.4 Y :12.2 Z :8.0
+time to fetch data: 2.857s
+Y move2 action aborted
+slice-2-tile-67-Y200-X1000-Z200.bin
+
+ an FFT action took 1.598 s
+
+cscan X :87.4 Y :12.6 Z :8.0
+slice-2-tile-68-Y200-X1000-Z200.bin
+time to fetch data: 2.805s
+Y move2 action aborted
+
+ an FFT action took 1.59 s
+
+slice-2-tile-69-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :87.4 Y :13.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.536 s
+
+slice-2-tile-70-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :87.4 Y :13.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.613 s
+
+slice-2-tile-71-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :87.4 Y :13.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.579 s
+
+slice-2-tile-72-Y200-X1000-Z200.bin
+cscan X :87.4 Y :14.2 Z :8.0
+time to fetch data: 2.738s
+Y move2 action aborted
+
+ an FFT action took 1.614 s
+
+slice-2-tile-73-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :87.4 Y :14.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.564 s
+
+slice-2-tile-74-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :87.4 Y :15.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.629 s
+
+time to fetch data: 2.645s
+cscan X :87.4 Y :15.4 Z :8.0
+Y move2 action aborted
+slice-2-tile-75-Y200-X1000-Z200.bin
+
+ an FFT action took 1.598 s
+
+slice-2-tile-76-Y200-X1000-Z200.bin
+cscan X :87.4 Y :15.8 Z :8.0
+time to fetch data: 2.661s
+Y move2 action aborted
+
+ an FFT action took 1.675 s
+
+cscan X :87.4 Y :16.2 Z :8.0
+slice-2-tile-77-Y200-X1000-Z200.bin
+time to fetch data: 2.727s
+Y move2 action aborted
+
+ an FFT action took 1.552 s
+
+cscan X :87.4 Y :16.6 Z :8.0
+time to fetch data: 2.703s
+Y move2 action aborted
+slice-2-tile-78-Y200-X1000-Z200.bin
+
+ an FFT action took 1.629 s
+
+cscan X :87.4 Y :17.0 Z :8.0
+slice-2-tile-79-Y200-X1000-Z200.bin
+time to fetch data: 2.745s
+Y move2 action aborted
+
+ an FFT action took 1.662 s
+
+cscan X :87.4 Y :17.4 Z :8.0
+slice-2-tile-80-Y200-X1000-Z200.bin
+time to fetch data: 2.859s
+Y move2 action aborted
+
+ an FFT action took 1.577 s
+
+time to fetch data: 2.647s
+cscan X :87.4 Y :17.8 Z :8.0
+Y move2 action aborted
+slice-2-tile-81-Y200-X1000-Z200.bin
+
+ an FFT action took 1.705 s
+
+time to fetch data: 2.669s
+cscan X :87.4 Y :18.2 Z :8.0
+Y move2 action aborted
+slice-2-tile-82-Y200-X1000-Z200.bin
+
+ an FFT action took 1.611 s
+
+time to fetch data: 2.646s
+cscan X :87.4 Y :18.6 Z :8.0
+slice-2-tile-83-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :18.6 Z :8.0
+Y moving: -1.6mm target pos: 17.0
+X :89.3 Y :17.0 Z :8.0
+
+ an FFT action took 1.563 s
+
+slice-2-tile-84-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :89.3 Y :16.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.629 s
+
+cscan X :89.3 Y :16.2 Z :8.0
+slice-2-tile-85-Y200-X1000-Z200.bin
+time to fetch data: 2.779s
+Y move2 action aborted
+
+ an FFT action took 1.606 s
+
+cscan X :89.3 Y :15.8 Z :8.0
+time to fetch data: 2.667s
+Y move2 action aborted
+slice-2-tile-86-Y200-X1000-Z200.bin
+
+ an FFT action took 1.697 s
+
+cscan X :89.3 Y :15.4 Z :8.0
+time to fetch data: 2.747s
+Y move2 action aborted
+slice-2-tile-87-Y200-X1000-Z200.bin
+
+ an FFT action took 1.553 s
+
+slice-2-tile-88-Y200-X1000-Z200.bin
+cscan X :89.3 Y :15.0 Z :8.0
+time to fetch data: 2.67s
+Y moving: -0.4mm target pos: 14.6
+X :89.3 Y :14.6 Z :8.0
+
+ an FFT action took 1.663 s
+
+slice-2-tile-89-Y200-X1000-Z200.bin
+cscan X :89.3 Y :14.2 Z :8.0
+time to fetch data: 2.724s
+
+ an FFT action took 1.573 s
+
+slice-2-tile-90-Y200-X1000-Z200.bin
+Y moving: 14.8mm target pos: 29.0
+X :89.3 Y :29.0 Z :8.0
+X moving: 45.7mm target pos: 135.0
+X :135.0 Y :29.0 Z :8.0
+user stopped acquisition...
+user stopped acquisition...
+X moving: -45.0mm target pos: 90.0
+X :90.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 89.0
+X :89.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 88.0
+X :88.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 87.0
+X :87.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 86.0
+X :86.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 85.0
+X :85.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 84.0
+X :84.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 83.0
+X :83.0 Y :29.0 Z :8.0
+X moving: -1.0mm target pos: 82.0
+X :82.0 Y :29.0 Z :8.0
+Y moving: -1.0mm target pos: 28.0
+X :82.0 Y :28.0 Z :8.0
+Y moving: -1.0mm target pos: 27.0
+X :82.0 Y :27.0 Z :8.0
+Y moving: -1.0mm target pos: 26.0
+X :82.0 Y :26.0 Z :8.0
+Y moving: -1.0mm target pos: 25.0
+X :82.0 Y :25.0 Z :8.0
+Y moving: -1.0mm target pos: 24.0
+X :82.0 Y :24.0 Z :8.0
+Y moving: -1.0mm target pos: 23.0
+X :82.0 Y :23.0 Z :8.0
+Y moving: -1.0mm target pos: 22.0
+X :82.0 Y :22.0 Z :8.0
+X moving: 1.0mm target pos: 83.0
+X :83.0 Y :22.0 Z :8.0
+X moving: 1.0mm target pos: 84.0
+X :84.0 Y :22.0 Z :8.0
+X moving: 1.0mm target pos: 85.0
+X :85.0 Y :22.0 Z :8.0
+Y moving: -1.0mm target pos: 21.0
+X :85.0 Y :21.0 Z :8.0
+Y moving: -1.0mm target pos: 20.0
+X :85.0 Y :20.0 Z :8.0
+Y moving: -1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :8.0
+Y moving: -1.0mm target pos: 18.0
+X :85.0 Y :18.0 Z :8.0
+Y moving: -1.0mm target pos: 17.0
+X :85.0 Y :17.0 Z :8.0
+Y moving: -1.0mm target pos: 16.0
+X :85.0 Y :16.0 Z :8.0
+Y moving: -1.0mm target pos: 15.0
+X :85.0 Y :15.0 Z :8.0
+Y moving: -1.0mm target pos: 14.0
+X :85.0 Y :14.0 Z :8.0
+Y moving: -1.0mm target pos: 13.0
+X :85.0 Y :13.0 Z :8.0
+Y moving: -1.0mm target pos: 12.0
+X :85.0 Y :12.0 Z :8.0
+Y moving: -1.0mm target pos: 11.0
+X :85.0 Y :11.0 Z :8.0
+Y moving: -1.0mm target pos: 10.0
+X :85.0 Y :10.0 Z :8.0
+Y moving: -1.0mm target pos: 9.0
+X :85.0 Y :9.0 Z :8.0
+Y moving: -1.0mm target pos: 8.0
+X :85.0 Y :8.0 Z :8.0
+Y moving: -1.0mm target pos: 7.0
+X :85.0 Y :7.0 Z :8.0
+Y moving: -1.0mm target pos: 6.0
+X :85.0 Y :6.0 Z :8.0
+Y moving: -1.0mm target pos: 5.0
+X :85.0 Y :5.0 Z :8.0
+Y moving: -1.0mm target pos: 4.0
+X :85.0 Y :4.0 Z :8.0
+Y moving: 1.0mm target pos: 5.0
+X :85.0 Y :5.0 Z :8.0
+Y moving: 1.0mm target pos: 6.0
+X :85.0 Y :6.0 Z :8.0
+cscan X :85.0 Y :6.0 Z :8.0
+485 data received by weaver
+RptBline successfully finished...
+485 Blines displayed
+
+936 FFT actions taken place
+
+Y moving: 1.0mm target pos: 7.0
+X :85.0 Y :7.0 Z :8.0
+Y moving: 1.0mm target pos: 8.0
+X :85.0 Y :8.0 Z :8.0
+Y moving: 1.0mm target pos: 9.0
+X :85.0 Y :9.0 Z :8.0
+Y moving: 1.0mm target pos: 10.0
+X :85.0 Y :10.0 Z :8.0
+Y moving: 1.0mm target pos: 11.0
+X :85.0 Y :11.0 Z :8.0
+Y moving: 1.0mm target pos: 12.0
+X :85.0 Y :12.0 Z :8.0
+Y moving: 1.0mm target pos: 13.0
+X :85.0 Y :13.0 Z :8.0
+Y moving: 1.0mm target pos: 14.0
+X :85.0 Y :14.0 Z :8.0
+Y moving: 1.0mm target pos: 15.0
+X :85.0 Y :15.0 Z :8.0
+Y moving: 1.0mm target pos: 16.0
+X :85.0 Y :16.0 Z :8.0
+Y moving: 1.0mm target pos: 17.0
+X :85.0 Y :17.0 Z :8.0
+Y moving: 1.0mm target pos: 18.0
+X :85.0 Y :18.0 Z :8.0
+Y moving: 1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :8.0
+Y moving: 1.0mm target pos: 20.0
+X :85.0 Y :20.0 Z :8.0
+Y moving: 1.0mm target pos: 21.0
+X :85.0 Y :21.0 Z :8.0
+Y moving: -1.0mm target pos: 20.0
+X :85.0 Y :20.0 Z :8.0
+Y moving: -1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :8.0
+cscan X :85.0 Y :19.0 Z :8.0
+166 data received by weaver
+RptBline successfully finished...
+166 Blines displayed
+
+166 FFT actions taken place
+
+ slicing and imaging depth same, one image per cut...
+Y moving: 10.0mm target pos: 29.0
+X :85.0 Y :29.0 Z :8.0
+X moving: 50.0mm target pos: 135.0
+X :135.0 Y :29.0 Z :8.0
+Z moving: -0.3mm target pos: 7.7
+X :135.0 Y :29.0 Z :7.7
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :7.7
+
+CUT HEIGHT:7.7
+
+X moving: -53.0mm target pos: 82.0
+X :82.0 Y :10.0 Z :7.7
+Y moving: -4.0mm target pos: 6.0
+X :82.0 Y :6.0 Z :7.7
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -0.3mm target pos: 81.7
+X :81.7 Y :6.0 Z :7.7
+Y moving: 13.0mm target pos: 19.0
+X :81.7 Y :19.0 Z :7.7
+X move2 action aborted
+cscan X :81.7 Y :6.2 Z :7.7
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :6.2 Z :7.7
+cscan X :83.6 Y :19.0 Z :7.7
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :19.0 Z :7.7
+cscan X :85.5 Y :6.2 Z :7.7
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :6.2 Z :7.7
+cscan X :87.4 Y :19.0 Z :7.7
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :19.0 Z :7.7
+cscan X :89.3 Y :6.2 Z :7.7
+tile surf is:120
+
+slice 1 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.7
+X :81.7 Y :6.2 Z :7.7
+Y moving: 12.8mm target pos: 19.0
+X :81.7 Y :19.0 Z :7.7
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.644s
+cscan X :81.7 Y :18.6 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.725 s
+
+slice-1-tile-1-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :81.7 Y :18.2 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.609 s
+
+slice-1-tile-2-Y200-X1000-Z200.bin
+time to fetch data: 2.649s
+cscan X :81.7 Y :17.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.766 s
+
+cscan X :81.7 Y :17.4 Z :7.7
+slice-1-tile-3-Y200-X1000-Z200.bin
+time to fetch data: 3.051s
+Y move2 action aborted
+
+ an FFT action took 1.881 s
+
+cscan X :81.7 Y :17.0 Z :7.7
+time to fetch data: 3.338s
+Y moving: -5.2mm target pos: 11.8
+slice-1-tile-4-Y200-X1000-Z200.bin
+
+ an FFT action took 1.853 s
+
+X :81.7 Y :11.8 Z :7.7
+slice-1-tile-5-Y200-X1000-Z200.bin
+time to fetch data: 2.812s
+cscan X :81.7 Y :11.4 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.946 s
+
+time to fetch data: 2.689s
+cscan X :81.7 Y :11.0 Z :7.7
+Y move2 action aborted
+slice-1-tile-6-Y200-X1000-Z200.bin
+
+ an FFT action took 1.771 s
+
+cscan X :81.7 Y :10.6 Z :7.7
+time to fetch data: 2.727s
+Y move2 action aborted
+slice-1-tile-7-Y200-X1000-Z200.bin
+
+ an FFT action took 1.818 s
+
+cscan X :81.7 Y :10.2 Z :7.7
+time to fetch data: 2.908s
+Y move2 action aborted
+slice-1-tile-8-Y200-X1000-Z200.bin
+
+ an FFT action took 1.699 s
+
+cscan X :81.7 Y :9.8 Z :7.7
+time to fetch data: 2.805s
+Y move2 action aborted
+slice-1-tile-9-Y200-X1000-Z200.bin
+
+ an FFT action took 1.664 s
+
+cscan X :81.7 Y :9.4 Z :7.7
+time to fetch data: 2.797s
+Y move2 action aborted
+slice-1-tile-10-Y200-X1000-Z200.bin
+
+ an FFT action took 1.647 s
+
+cscan X :81.7 Y :9.0 Z :7.7
+time to fetch data: 2.716s
+Y move2 action aborted
+slice-1-tile-11-Y200-X1000-Z200.bin
+
+ an FFT action took 1.709 s
+
+cscan X :81.7 Y :8.6 Z :7.7
+time to fetch data: 2.765s
+Y move2 action aborted
+slice-1-tile-12-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+cscan X :81.7 Y :8.2 Z :7.7
+time to fetch data: 2.801s
+slice-1-tile-13-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :8.2 Z :7.7
+Y moving: -0.8mm target pos: 7.4
+X :83.6 Y :7.4 Z :7.7
+
+ an FFT action took 1.666 s
+
+slice-1-tile-14-Y200-X1000-Z200.bin
+time to fetch data: 2.647s
+cscan X :83.6 Y :7.8 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.585 s
+
+cscan X :83.6 Y :8.2 Z :7.7
+time to fetch data: 2.704s
+Y move2 action aborted
+slice-1-tile-15-Y200-X1000-Z200.bin
+
+ an FFT action took 1.659 s
+
+cscan X :83.6 Y :8.6 Z :7.7
+time to fetch data: 2.71s
+Y move2 action aborted
+slice-1-tile-16-Y200-X1000-Z200.bin
+
+ an FFT action took 1.691 s
+
+cscan X :83.6 Y :9.0 Z :7.7
+time to fetch data: 2.727s
+Y move2 action aborted
+slice-1-tile-17-Y200-X1000-Z200.bin
+
+ an FFT action took 1.682 s
+
+cscan X :83.6 Y :9.4 Z :7.7
+time to fetch data: 2.723s
+Y move2 action aborted
+slice-1-tile-18-Y200-X1000-Z200.bin
+
+ an FFT action took 1.615 s
+
+cscan X :83.6 Y :9.8 Z :7.7
+time to fetch data: 2.809s
+Y move2 action aborted
+slice-1-tile-19-Y200-X1000-Z200.bin
+
+ an FFT action took 1.645 s
+
+cscan X :83.6 Y :10.2 Z :7.7
+time to fetch data: 2.713s
+Y move2 action aborted
+slice-1-tile-20-Y200-X1000-Z200.bin
+
+ an FFT action took 1.624 s
+
+cscan X :83.6 Y :10.6 Z :7.7
+time to fetch data: 2.729s
+Y move2 action aborted
+slice-1-tile-21-Y200-X1000-Z200.bin
+
+ an FFT action took 1.7 s
+
+cscan X :83.6 Y :11.0 Z :7.7
+time to fetch data: 2.843s
+Y move2 action aborted
+slice-1-tile-22-Y200-X1000-Z200.bin
+
+ an FFT action took 1.612 s
+
+cscan X :83.6 Y :11.4 Z :7.7
+time to fetch data: 2.791s
+Y move2 action aborted
+slice-1-tile-23-Y200-X1000-Z200.bin
+
+ an FFT action took 1.613 s
+
+cscan X :83.6 Y :11.8 Z :7.7
+time to fetch data: 2.698s
+Y move2 action aborted
+slice-1-tile-24-Y200-X1000-Z200.bin
+
+ an FFT action took 1.685 s
+
+cscan X :83.6 Y :12.2 Z :7.7
+time to fetch data: 2.741s
+Y move2 action aborted
+slice-1-tile-25-Y200-X1000-Z200.bin
+
+ an FFT action took 1.653 s
+
+cscan X :83.6 Y :12.6 Z :7.7
+time to fetch data: 2.741s
+Y move2 action aborted
+slice-1-tile-26-Y200-X1000-Z200.bin
+
+ an FFT action took 1.714 s
+
+cscan X :83.6 Y :13.0 Z :7.7
+time to fetch data: 2.768s
+Y move2 action aborted
+slice-1-tile-27-Y200-X1000-Z200.bin
+
+ an FFT action took 1.725 s
+
+time to fetch data: 2.734s
+cscan X :83.6 Y :13.4 Z :7.7
+Y move2 action aborted
+slice-1-tile-28-Y200-X1000-Z200.bin
+
+ an FFT action took 1.584 s
+
+time to fetch data: 2.646s
+cscan X :83.6 Y :13.8 Z :7.7
+Y move2 action aborted
+slice-1-tile-29-Y200-X1000-Z200.bin
+
+ an FFT action took 1.701 s
+
+time to fetch data: 2.694s
+cscan X :83.6 Y :14.2 Z :7.7
+Y move2 action aborted
+slice-1-tile-30-Y200-X1000-Z200.bin
+
+ an FFT action took 1.761 s
+
+cscan X :83.6 Y :14.6 Z :7.7
+time to fetch data: 2.756s
+Y move2 action aborted
+slice-1-tile-31-Y200-X1000-Z200.bin
+
+ an FFT action took 1.743 s
+
+cscan X :83.6 Y :15.0 Z :7.7
+time to fetch data: 2.82s
+Y move2 action aborted
+slice-1-tile-32-Y200-X1000-Z200.bin
+
+ an FFT action took 1.707 s
+
+cscan X :83.6 Y :15.4 Z :7.7
+time to fetch data: 2.806s
+Y move2 action aborted
+slice-1-tile-33-Y200-X1000-Z200.bin
+
+ an FFT action took 1.627 s
+
+cscan X :83.6 Y :15.8 Z :7.7
+time to fetch data: 2.776s
+Y move2 action aborted
+slice-1-tile-34-Y200-X1000-Z200.bin
+
+ an FFT action took 1.684 s
+
+time to fetch data: 2.721s
+cscan X :83.6 Y :16.2 Z :7.7
+Y move2 action aborted
+slice-1-tile-35-Y200-X1000-Z200.bin
+
+ an FFT action took 1.708 s
+
+time to fetch data: 2.7s
+cscan X :83.6 Y :16.6 Z :7.7
+X moving: 1.9mm target pos: 85.5
+slice-1-tile-36-Y200-X1000-Z200.bin
+X :85.5 Y :16.6 Z :7.7
+Y moving: 0.8mm target pos: 17.4
+X :85.5 Y :17.4 Z :7.7
+
+ an FFT action took 1.582 s
+
+slice-1-tile-37-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :85.5 Y :17.0 Z :7.7
+Y move2 action aborted
+
+ an FFT action took 1.537 s
+
+cscan X :85.5 Y :16.6 Z :7.7
+slice-1-tile-38-Y200-X1000-Z200.bin
+time to fetch data: 2.691s
+Y move2 action aborted
+
+ an FFT action took 1.771 s
+
+cscan X :85.5 Y :16.2 Z :7.7
+time to fetch data: 2.827s
+Y move2 action aborted
+slice-1-tile-39-Y200-X1000-Z200.bin
+
+ an FFT action took 1.72 s
+
+cscan X :85.5 Y :15.8 Z :7.7
+time to fetch data: 2.735s
+Y move2 action aborted
+slice-1-tile-40-Y200-X1000-Z200.bin
+
+ an FFT action took 1.688 s
+
+cscan X :85.5 Y :15.4 Z :7.7
+time to fetch data: 2.72s
+Y move2 action aborted
+slice-1-tile-41-Y200-X1000-Z200.bin
+
+ an FFT action took 1.632 s
+
+cscan X :85.5 Y :15.0 Z :7.7
+time to fetch data: 2.712s
+Y move2 action aborted
+slice-1-tile-42-Y200-X1000-Z200.bin
+
+ an FFT action took 1.67 s
+
+cscan X :85.5 Y :14.6 Z :7.7
+time to fetch data: 2.725s
+Y move2 action aborted
+slice-1-tile-43-Y200-X1000-Z200.bin
+
+ an FFT action took 1.742 s
+
+cscan X :85.5 Y :14.2 Z :7.7
+time to fetch data: 2.859s
+Y move2 action aborted
+slice-1-tile-44-Y200-X1000-Z200.bin
+
+ an FFT action took 1.672 s
+
+cscan X :85.5 Y :13.8 Z :7.7
+time to fetch data: 2.693s
+Y move2 action aborted
+slice-1-tile-45-Y200-X1000-Z200.bin
+
+ an FFT action took 1.692 s
+
+cscan X :85.5 Y :13.4 Z :7.7
+time to fetch data: 2.721s
+Y move2 action aborted
+slice-1-tile-46-Y200-X1000-Z200.bin
+
+ an FFT action took 1.606 s
+
+cscan X :85.5 Y :13.0 Z :7.7
+slice-1-tile-47-Y200-X1000-Z200.bin
+time to fetch data: 2.754s
+Y move2 action aborted
+
+ an FFT action took 1.617 s
+
+cscan X :85.5 Y :12.6 Z :7.7
+time to fetch data: 2.722s
+Y move2 action aborted
+slice-1-tile-48-Y200-X1000-Z200.bin
+
+ an FFT action took 1.677 s
+
+cscan X :85.5 Y :12.2 Z :7.7
+slice-1-tile-49-Y200-X1000-Z200.bin
+time to fetch data: 2.939s
+Y move2 action aborted
+
+ an FFT action took 1.717 s
+
+cscan X :85.5 Y :11.8 Z :7.7
+time to fetch data: 2.874s
+Y move2 action aborted
+slice-1-tile-50-Y200-X1000-Z200.bin
+
+ an FFT action took 1.632 s
+
+cscan X :85.5 Y :11.4 Z :7.7
+time to fetch data: 2.762s
+Y move2 action aborted
+slice-1-tile-51-Y200-X1000-Z200.bin
+
+ an FFT action took 1.615 s
+
+cscan X :85.5 Y :11.0 Z :7.7
+time to fetch data: 2.761s
+Y move2 action aborted
+slice-1-tile-52-Y200-X1000-Z200.bin
+
+ an FFT action took 1.801 s
+
+cscan X :85.5 Y :10.6 Z :7.7
+time to fetch data: 2.858s
+Y move2 action aborted
+slice-1-tile-53-Y200-X1000-Z200.bin
+
+ an FFT action took 1.584 s
+
+cscan X :85.5 Y :10.2 Z :7.7
+slice-1-tile-54-Y200-X1000-Z200.bin
+time to fetch data: 2.717s
+Y move2 action aborted
+
+ an FFT action took 1.607 s
+
+cscan X :85.5 Y :9.8 Z :7.7
+slice-1-tile-55-Y200-X1000-Z200.bin
+time to fetch data: 2.805s
+Y move2 action aborted
+
+ an FFT action took 1.635 s
+
+time to fetch data: 2.663s
+cscan X :85.5 Y :9.4 Z :7.7
+Y move2 action aborted
+slice-1-tile-56-Y200-X1000-Z200.bin
+
+ an FFT action took 1.704 s
+
+cscan X :85.5 Y :9.0 Z :7.7
+time to fetch data: 2.799s
+Y move2 action aborted
+slice-1-tile-57-Y200-X1000-Z200.bin
+
+ an FFT action took 1.681 s
+
+cscan X :85.5 Y :8.6 Z :7.7
+time to fetch data: 2.843s
+Y move2 action aborted
+slice-1-tile-58-Y200-X1000-Z200.bin
+
+ an FFT action took 1.796 s
+
+cscan X :85.5 Y :8.2 Z :7.7
+time to fetch data: 2.814s
+Y move2 action aborted
+slice-1-tile-59-Y200-X1000-Z200.bin
+
+ an FFT action took 1.766 s
+
+cscan X :85.5 Y :7.8 Z :7.7
+time to fetch data: 2.921s
+Y move2 action aborted
+slice-1-tile-60-Y200-X1000-Z200.bin
+
+ an FFT action took 1.604 s
+
+cscan X :85.5 Y :7.4 Z :7.7
+slice-1-tile-61-Y200-X1000-Z200.bin
+time to fetch data: 2.973s
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :7.4 Z :7.7
+Y moving: 1.2mm target pos: 8.6
+X :87.4 Y :8.6 Z :7.7
+
+ an FFT action took 1.833 s
+
+slice-1-tile-62-Y200-X1000-Z200.bin
+cscan X :87.4 Y :9.0 Z :7.7
+time to fetch data: 2.653s
+Y move2 action aborted
+
+ an FFT action took 1.799 s
+
+cscan X :87.4 Y :9.4 Z :7.7
+time to fetch data: 2.791s
+Y move2 action aborted
+slice-1-tile-63-Y200-X1000-Z200.bin
+
+ an FFT action took 1.792 s
+
+cscan X :87.4 Y :9.8 Z :7.7
+time to fetch data: 2.806s
+Y move2 action aborted
+slice-1-tile-64-Y200-X1000-Z200.bin
+
+ an FFT action took 1.888 s
+
+cscan X :87.4 Y :10.2 Z :7.7
+time to fetch data: 2.877s
+Y move2 action aborted
+slice-1-tile-65-Y200-X1000-Z200.bin
+
+ an FFT action took 1.734 s
+
+cscan X :87.4 Y :10.6 Z :7.7
+time to fetch data: 2.768s
+Y move2 action aborted
+slice-1-tile-66-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+cscan X :87.4 Y :11.0 Z :7.7
+time to fetch data: 2.791s
+Y move2 action aborted
+slice-1-tile-67-Y200-X1000-Z200.bin
+
+ an FFT action took 1.703 s
+
+cscan X :87.4 Y :11.4 Z :7.7
+time to fetch data: 2.766s
+Y move2 action aborted
+slice-1-tile-68-Y200-X1000-Z200.bin
+
+ an FFT action took 1.74 s
+
+cscan X :87.4 Y :11.8 Z :7.7
+time to fetch data: 2.733s
+Y move2 action aborted
+slice-1-tile-69-Y200-X1000-Z200.bin
+
+ an FFT action took 1.708 s
+
+cscan X :87.4 Y :12.2 Z :7.7
+time to fetch data: 2.749s
+Y move2 action aborted
+slice-1-tile-70-Y200-X1000-Z200.bin
+
+ an FFT action took 1.597 s
+
+cscan X :87.4 Y :12.6 Z :7.7
+slice-1-tile-71-Y200-X1000-Z200.bin
+time to fetch data: 2.709s
+Y move2 action aborted
+
+ an FFT action took 1.651 s
+
+cscan X :87.4 Y :13.0 Z :7.7
+time to fetch data: 2.727s
+Y move2 action aborted
+slice-1-tile-72-Y200-X1000-Z200.bin
+
+ an FFT action took 1.709 s
+
+cscan X :87.4 Y :13.4 Z :7.7
+time to fetch data: 2.742s
+Y move2 action aborted
+slice-1-tile-73-Y200-X1000-Z200.bin
+
+ an FFT action took 1.701 s
+
+cscan X :87.4 Y :13.8 Z :7.7
+time to fetch data: 2.675s
+Y move2 action aborted
+slice-1-tile-74-Y200-X1000-Z200.bin
+
+ an FFT action took 1.639 s
+
+cscan X :87.4 Y :14.2 Z :7.7
+time to fetch data: 2.741s
+Y move2 action aborted
+slice-1-tile-75-Y200-X1000-Z200.bin
+
+ an FFT action took 1.672 s
+
+cscan X :87.4 Y :14.6 Z :7.7
+time to fetch data: 2.734s
+Y move2 action aborted
+slice-1-tile-76-Y200-X1000-Z200.bin
+
+ an FFT action took 1.675 s
+
+cscan X :87.4 Y :15.0 Z :7.7
+time to fetch data: 2.685s
+Y move2 action aborted
+slice-1-tile-77-Y200-X1000-Z200.bin
+
+ an FFT action took 1.631 s
+
+cscan X :87.4 Y :15.4 Z :7.7
+slice-1-tile-78-Y200-X1000-Z200.bin
+time to fetch data: 2.899s
+Y move2 action aborted
+
+ an FFT action took 1.629 s
+
+cscan X :87.4 Y :15.8 Z :7.7
+time to fetch data: 2.756s
+Y move2 action aborted
+slice-1-tile-79-Y200-X1000-Z200.bin
+
+ an FFT action took 1.644 s
+
+cscan X :87.4 Y :16.2 Z :7.7
+time to fetch data: 2.705s
+Y move2 action aborted
+slice-1-tile-80-Y200-X1000-Z200.bin
+
+ an FFT action took 1.635 s
+
+cscan X :87.4 Y :16.6 Z :7.7
+time to fetch data: 2.75s
+Y move2 action aborted
+slice-1-tile-81-Y200-X1000-Z200.bin
+
+ an FFT action took 1.619 s
+
+time to fetch data: 2.65s
+cscan X :87.4 Y :17.0 Z :7.7
+X moving: 1.9mm target pos: 89.3
+slice-1-tile-82-Y200-X1000-Z200.bin
+X :89.3 Y :17.0 Z :7.7
+Y moving: -2.4mm target pos: 14.6
+X :89.3 Y :14.6 Z :7.7
+
+ an FFT action took 1.563 s
+
+slice-1-tile-83-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :89.3 Y :14.2 Z :7.7
+
+ an FFT action took 1.575 s
+
+slice-1-tile-84-Y200-X1000-Z200.bin
+Y moving: 14.8mm target pos: 29.0
+X :89.3 Y :29.0 Z :7.7
+X moving: 45.7mm target pos: 135.0
+X :135.0 Y :29.0 Z :7.7
+Z moving: 0.3mm target pos: 8.0
+X :135.0 Y :29.0 Z :8.0
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :8.0
+
+CUT HEIGHT:8.0
+
+X moving: -53.0mm target pos: 82.0
+X :82.0 Y :10.0 Z :8.0
+Y moving: -4.0mm target pos: 6.0
+X :82.0 Y :6.0 Z :8.0
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -0.3mm target pos: 81.7
+X :81.7 Y :6.0 Z :8.0
+Y moving: 13.0mm target pos: 19.0
+X :81.7 Y :19.0 Z :8.0
+X move2 action aborted
+cscan X :81.7 Y :6.2 Z :8.0
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :6.2 Z :8.0
+cscan X :83.6 Y :19.0 Z :8.0
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :19.0 Z :8.0
+cscan X :85.5 Y :6.2 Z :8.0
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :6.2 Z :8.0
+cscan X :87.4 Y :19.0 Z :8.0
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :19.0 Z :8.0
+cscan X :89.3 Y :6.2 Z :8.0
+tile surf is:114
+
+slice 2 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.7
+X :81.7 Y :6.2 Z :8.0
+Y moving: 12.8mm target pos: 19.0
+X :81.7 Y :19.0 Z :8.0
+X move2 action aborted
+Y moving: -0.4mm target pos: 18.6
+X :81.7 Y :18.6 Z :8.0
+time to fetch data: 2.645s
+cscan X :81.7 Y :18.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.752 s
+
+slice-2-tile-1-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :81.7 Y :17.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.631 s
+
+slice-2-tile-2-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :81.7 Y :17.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.606 s
+
+slice-2-tile-3-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :81.7 Y :17.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.686 s
+
+slice-2-tile-4-Y200-X1000-Z200.bin
+time to fetch data: 2.65s
+cscan X :81.7 Y :16.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.633 s
+
+slice-2-tile-5-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :16.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.596 s
+
+cscan X :81.7 Y :15.8 Z :8.0
+time to fetch data: 3.113s
+Y move2 action aborted
+slice-2-tile-6-Y200-X1000-Z200.bin
+
+ an FFT action took 1.652 s
+
+cscan X :81.7 Y :15.4 Z :8.0
+time to fetch data: 3.22s
+Y moving: -3.6mm target pos: 11.8
+slice-2-tile-7-Y200-X1000-Z200.bin
+X :81.7 Y :11.8 Z :8.0
+
+ an FFT action took 1.61 s
+
+slice-2-tile-8-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :81.7 Y :11.4 Z :8.0
+Y moving: -1.2mm target pos: 10.2
+X :81.7 Y :10.2 Z :8.0
+
+ an FFT action took 1.599 s
+
+slice-2-tile-9-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :81.7 Y :9.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.699 s
+
+cscan X :81.7 Y :9.4 Z :8.0
+time to fetch data: 2.77s
+Y move2 action aborted
+slice-2-tile-10-Y200-X1000-Z200.bin
+
+ an FFT action took 1.707 s
+
+cscan X :81.7 Y :9.0 Z :8.0
+time to fetch data: 2.757s
+Y move2 action aborted
+slice-2-tile-11-Y200-X1000-Z200.bin
+
+ an FFT action took 1.704 s
+
+cscan X :81.7 Y :8.6 Z :8.0
+time to fetch data: 2.786s
+Y move2 action aborted
+slice-2-tile-12-Y200-X1000-Z200.bin
+
+ an FFT action took 1.682 s
+
+cscan X :81.7 Y :8.2 Z :8.0
+time to fetch data: 2.727s
+Y move2 action aborted
+slice-2-tile-13-Y200-X1000-Z200.bin
+
+ an FFT action took 1.737 s
+
+cscan X :81.7 Y :7.8 Z :8.0
+time to fetch data: 2.802s
+Y move2 action aborted
+slice-2-tile-14-Y200-X1000-Z200.bin
+
+ an FFT action took 1.707 s
+
+cscan X :81.7 Y :7.4 Z :8.0
+time to fetch data: 2.805s
+Y move2 action aborted
+slice-2-tile-15-Y200-X1000-Z200.bin
+
+ an FFT action took 1.668 s
+
+cscan X :81.7 Y :7.0 Z :8.0
+time to fetch data: 2.708s
+Y move2 action aborted
+slice-2-tile-16-Y200-X1000-Z200.bin
+
+ an FFT action took 1.615 s
+
+cscan X :81.7 Y :6.6 Z :8.0
+time to fetch data: 2.719s
+Y move2 action aborted
+slice-2-tile-17-Y200-X1000-Z200.bin
+
+ an FFT action took 1.628 s
+
+cscan X :81.7 Y :6.2 Z :8.0
+time to fetch data: 2.711s
+slice-2-tile-18-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :6.2 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.669 s
+
+slice-2-tile-19-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :83.6 Y :6.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.685 s
+
+cscan X :83.6 Y :7.0 Z :8.0
+time to fetch data: 2.708s
+Y move2 action aborted
+slice-2-tile-20-Y200-X1000-Z200.bin
+
+ an FFT action took 1.595 s
+
+cscan X :83.6 Y :7.4 Z :8.0
+time to fetch data: 2.698s
+Y move2 action aborted
+slice-2-tile-21-Y200-X1000-Z200.bin
+
+ an FFT action took 1.631 s
+
+cscan X :83.6 Y :7.8 Z :8.0
+time to fetch data: 2.733s
+Y move2 action aborted
+slice-2-tile-22-Y200-X1000-Z200.bin
+
+ an FFT action took 1.714 s
+
+cscan X :83.6 Y :8.2 Z :8.0
+time to fetch data: 2.749s
+Y move2 action aborted
+slice-2-tile-23-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+cscan X :83.6 Y :8.6 Z :8.0
+time to fetch data: 2.716s
+Y move2 action aborted
+slice-2-tile-24-Y200-X1000-Z200.bin
+
+ an FFT action took 1.591 s
+
+cscan X :83.6 Y :9.0 Z :8.0
+time to fetch data: 2.66s
+Y move2 action aborted
+slice-2-tile-25-Y200-X1000-Z200.bin
+
+ an FFT action took 1.69 s
+
+cscan X :83.6 Y :9.4 Z :8.0
+time to fetch data: 2.714s
+Y move2 action aborted
+slice-2-tile-26-Y200-X1000-Z200.bin
+
+ an FFT action took 1.573 s
+
+time to fetch data: 2.65s
+cscan X :83.6 Y :9.8 Z :8.0
+Y move2 action aborted
+slice-2-tile-27-Y200-X1000-Z200.bin
+
+ an FFT action took 1.69 s
+
+cscan X :83.6 Y :10.2 Z :8.0
+slice-2-tile-28-Y200-X1000-Z200.bin
+time to fetch data: 2.834s
+Y move2 action aborted
+
+ an FFT action took 1.64 s
+
+cscan X :83.6 Y :10.6 Z :8.0
+time to fetch data: 2.658s
+Y move2 action aborted
+slice-2-tile-29-Y200-X1000-Z200.bin
+
+ an FFT action took 1.597 s
+
+cscan X :83.6 Y :11.0 Z :8.0
+time to fetch data: 2.656s
+Y move2 action aborted
+slice-2-tile-30-Y200-X1000-Z200.bin
+
+ an FFT action took 1.68 s
+
+cscan X :83.6 Y :11.4 Z :8.0
+time to fetch data: 2.771s
+Y move2 action aborted
+slice-2-tile-31-Y200-X1000-Z200.bin
+
+ an FFT action took 1.683 s
+
+cscan X :83.6 Y :11.8 Z :8.0
+slice-2-tile-32-Y200-X1000-Z200.bin
+time to fetch data: 2.78s
+Y move2 action aborted
+
+ an FFT action took 1.675 s
+
+cscan X :83.6 Y :12.2 Z :8.0
+slice-2-tile-33-Y200-X1000-Z200.bin
+time to fetch data: 2.75s
+Y move2 action aborted
+
+ an FFT action took 1.545 s
+
+cscan X :83.6 Y :12.6 Z :8.0
+slice-2-tile-34-Y200-X1000-Z200.bin
+time to fetch data: 2.735s
+Y move2 action aborted
+
+ an FFT action took 1.609 s
+
+cscan X :83.6 Y :13.0 Z :8.0
+time to fetch data: 2.682s
+Y move2 action aborted
+slice-2-tile-35-Y200-X1000-Z200.bin
+
+ an FFT action took 1.657 s
+
+cscan X :83.6 Y :13.4 Z :8.0
+time to fetch data: 2.766s
+Y move2 action aborted
+slice-2-tile-36-Y200-X1000-Z200.bin
+
+ an FFT action took 1.686 s
+
+cscan X :83.6 Y :13.8 Z :8.0
+time to fetch data: 2.84s
+Y move2 action aborted
+slice-2-tile-37-Y200-X1000-Z200.bin
+
+ an FFT action took 1.633 s
+
+cscan X :83.6 Y :14.2 Z :8.0
+slice-2-tile-38-Y200-X1000-Z200.bin
+time to fetch data: 2.799s
+Y move2 action aborted
+
+ an FFT action took 1.604 s
+
+cscan X :83.6 Y :14.6 Z :8.0
+time to fetch data: 2.72s
+Y move2 action aborted
+slice-2-tile-39-Y200-X1000-Z200.bin
+
+ an FFT action took 1.669 s
+
+cscan X :83.6 Y :15.0 Z :8.0
+time to fetch data: 2.771s
+slice-2-tile-40-Y200-X1000-Z200.bin
+Y moving: 2.4mm target pos: 17.4
+X :83.6 Y :17.4 Z :8.0
+
+ an FFT action took 1.644 s
+
+slice-2-tile-41-Y200-X1000-Z200.bin
+time to fetch data: 2.644s
+cscan X :83.6 Y :17.8 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.609 s
+
+cscan X :83.6 Y :18.2 Z :8.0
+time to fetch data: 3.243s
+Y move2 action aborted
+slice-2-tile-42-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+slice-2-tile-43-Y200-X1000-Z200.bin
+cscan X :83.6 Y :18.6 Z :8.0
+time to fetch data: 2.758s
+Y move2 action aborted
+
+ an FFT action took 1.58 s
+
+slice-2-tile-44-Y200-X1000-Z200.bin
+time to fetch data: 2.647s
+cscan X :83.6 Y :19.0 Z :8.0
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :19.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.587 s
+
+slice-2-tile-45-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :85.5 Y :18.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.688 s
+
+slice-2-tile-46-Y200-X1000-Z200.bin
+time to fetch data: 2.648s
+cscan X :85.5 Y :18.2 Z :8.0
+Y moving: -2.4mm target pos: 15.8
+X :85.5 Y :15.8 Z :8.0
+
+ an FFT action took 1.553 s
+
+slice-2-tile-47-Y200-X1000-Z200.bin
+cscan X :85.5 Y :15.4 Z :8.0
+time to fetch data: 3.125s
+Y move2 action aborted
+
+ an FFT action took 1.696 s
+
+cscan X :85.5 Y :15.0 Z :8.0
+slice-2-tile-48-Y200-X1000-Z200.bin
+time to fetch data: 2.881s
+Y move2 action aborted
+
+ an FFT action took 1.607 s
+
+cscan X :85.5 Y :14.6 Z :8.0
+slice-2-tile-49-Y200-X1000-Z200.bin
+time to fetch data: 2.835s
+Y move2 action aborted
+
+ an FFT action took 1.624 s
+
+cscan X :85.5 Y :14.2 Z :8.0
+slice-2-tile-50-Y200-X1000-Z200.bin
+time to fetch data: 2.853s
+Y move2 action aborted
+
+ an FFT action took 1.653 s
+
+cscan X :85.5 Y :13.8 Z :8.0
+time to fetch data: 2.786s
+Y move2 action aborted
+slice-2-tile-51-Y200-X1000-Z200.bin
+
+ an FFT action took 1.656 s
+
+cscan X :85.5 Y :13.4 Z :8.0
+time to fetch data: 2.813s
+Y move2 action aborted
+slice-2-tile-52-Y200-X1000-Z200.bin
+
+ an FFT action took 1.626 s
+
+cscan X :85.5 Y :13.0 Z :8.0
+slice-2-tile-53-Y200-X1000-Z200.bin
+time to fetch data: 2.803s
+Y move2 action aborted
+
+ an FFT action took 1.583 s
+
+slice-2-tile-54-Y200-X1000-Z200.bin
+time to fetch data: 2.654s
+cscan X :85.5 Y :12.6 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.695 s
+
+cscan X :85.5 Y :12.2 Z :8.0
+time to fetch data: 2.694s
+Y move2 action aborted
+slice-2-tile-55-Y200-X1000-Z200.bin
+
+ an FFT action took 1.628 s
+
+cscan X :85.5 Y :11.8 Z :8.0
+slice-2-tile-56-Y200-X1000-Z200.bin
+time to fetch data: 2.733s
+Y move2 action aborted
+
+ an FFT action took 1.625 s
+
+cscan X :85.5 Y :11.4 Z :8.0
+slice-2-tile-57-Y200-X1000-Z200.bin
+time to fetch data: 2.753s
+Y move2 action aborted
+
+ an FFT action took 1.662 s
+
+cscan X :85.5 Y :11.0 Z :8.0
+time to fetch data: 2.676s
+Y move2 action aborted
+slice-2-tile-58-Y200-X1000-Z200.bin
+
+ an FFT action took 1.57 s
+
+slice-2-tile-59-Y200-X1000-Z200.bin
+cscan X :85.5 Y :10.6 Z :8.0
+time to fetch data: 2.67s
+Y move2 action aborted
+
+ an FFT action took 1.676 s
+
+cscan X :85.5 Y :10.2 Z :8.0
+time to fetch data: 2.667s
+Y move2 action aborted
+slice-2-tile-60-Y200-X1000-Z200.bin
+
+ an FFT action took 1.75 s
+
+time to fetch data: 2.72s
+cscan X :85.5 Y :9.8 Z :8.0
+Y move2 action aborted
+slice-2-tile-61-Y200-X1000-Z200.bin
+
+ an FFT action took 1.637 s
+
+cscan X :85.5 Y :9.4 Z :8.0
+slice-2-tile-62-Y200-X1000-Z200.bin
+time to fetch data: 2.805s
+Y move2 action aborted
+
+ an FFT action took 1.575 s
+
+slice-2-tile-63-Y200-X1000-Z200.bin
+cscan X :85.5 Y :9.0 Z :8.0
+time to fetch data: 2.67s
+Y move2 action aborted
+
+ an FFT action took 1.679 s
+
+cscan X :85.5 Y :8.6 Z :8.0
+time to fetch data: 2.711s
+Y move2 action aborted
+slice-2-tile-64-Y200-X1000-Z200.bin
+
+ an FFT action took 1.729 s
+
+cscan X :85.5 Y :8.2 Z :8.0
+time to fetch data: 2.686s
+Y move2 action aborted
+slice-2-tile-65-Y200-X1000-Z200.bin
+
+ an FFT action took 1.652 s
+
+cscan X :85.5 Y :7.8 Z :8.0
+time to fetch data: 2.69s
+Y move2 action aborted
+slice-2-tile-66-Y200-X1000-Z200.bin
+
+ an FFT action took 1.715 s
+
+time to fetch data: 2.671s
+cscan X :85.5 Y :7.4 Z :8.0
+Y move2 action aborted
+slice-2-tile-67-Y200-X1000-Z200.bin
+
+ an FFT action took 1.634 s
+
+cscan X :85.5 Y :7.0 Z :8.0
+time to fetch data: 2.684s
+Y move2 action aborted
+slice-2-tile-68-Y200-X1000-Z200.bin
+
+ an FFT action took 1.699 s
+
+cscan X :85.5 Y :6.6 Z :8.0
+time to fetch data: 2.761s
+Y move2 action aborted
+slice-2-tile-69-Y200-X1000-Z200.bin
+
+ an FFT action took 1.642 s
+
+cscan X :85.5 Y :6.2 Z :8.0
+time to fetch data: 2.685s
+slice-2-tile-70-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :6.2 Z :8.0
+Y moving: 0.4mm target pos: 6.6
+X :87.4 Y :6.6 Z :8.0
+
+ an FFT action took 1.622 s
+
+slice-2-tile-71-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :87.4 Y :7.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.694 s
+
+cscan X :87.4 Y :7.4 Z :8.0
+time to fetch data: 2.716s
+Y move2 action aborted
+slice-2-tile-72-Y200-X1000-Z200.bin
+
+ an FFT action took 1.695 s
+
+cscan X :87.4 Y :7.8 Z :8.0
+time to fetch data: 2.786s
+Y move2 action aborted
+slice-2-tile-73-Y200-X1000-Z200.bin
+
+ an FFT action took 1.754 s
+
+cscan X :87.4 Y :8.2 Z :8.0
+time to fetch data: 2.823s
+Y move2 action aborted
+slice-2-tile-74-Y200-X1000-Z200.bin
+
+ an FFT action took 1.706 s
+
+time to fetch data: 2.706s
+cscan X :87.4 Y :8.6 Z :8.0
+Y move2 action aborted
+slice-2-tile-75-Y200-X1000-Z200.bin
+
+ an FFT action took 1.598 s
+
+cscan X :87.4 Y :9.0 Z :8.0
+time to fetch data: 2.705s
+Y move2 action aborted
+slice-2-tile-76-Y200-X1000-Z200.bin
+
+ an FFT action took 1.68 s
+
+cscan X :87.4 Y :9.4 Z :8.0
+time to fetch data: 2.781s
+Y move2 action aborted
+slice-2-tile-77-Y200-X1000-Z200.bin
+
+ an FFT action took 1.658 s
+
+cscan X :87.4 Y :9.8 Z :8.0
+slice-2-tile-78-Y200-X1000-Z200.bin
+time to fetch data: 2.789s
+Y move2 action aborted
+
+ an FFT action took 1.646 s
+
+cscan X :87.4 Y :10.2 Z :8.0
+slice-2-tile-79-Y200-X1000-Z200.bin
+time to fetch data: 2.829s
+Y move2 action aborted
+
+ an FFT action took 1.619 s
+
+cscan X :87.4 Y :10.6 Z :8.0
+slice-2-tile-80-Y200-X1000-Z200.bin
+time to fetch data: 2.725s
+Y move2 action aborted
+
+ an FFT action took 1.621 s
+
+cscan X :87.4 Y :11.0 Z :8.0
+slice-2-tile-81-Y200-X1000-Z200.bin
+time to fetch data: 2.71s
+Y move2 action aborted
+
+ an FFT action took 1.552 s
+
+slice-2-tile-82-Y200-X1000-Z200.bin
+time to fetch data: 2.65s
+cscan X :87.4 Y :11.4 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.629 s
+
+cscan X :87.4 Y :11.8 Z :8.0
+time to fetch data: 2.657s
+Y move2 action aborted
+slice-2-tile-83-Y200-X1000-Z200.bin
+
+ an FFT action took 1.579 s
+
+cscan X :87.4 Y :12.2 Z :8.0
+slice-2-tile-84-Y200-X1000-Z200.bin
+time to fetch data: 2.731s
+Y move2 action aborted
+
+ an FFT action took 1.615 s
+
+cscan X :87.4 Y :12.6 Z :8.0
+time to fetch data: 2.703s
+Y move2 action aborted
+slice-2-tile-85-Y200-X1000-Z200.bin
+
+ an FFT action took 1.702 s
+
+cscan X :87.4 Y :13.0 Z :8.0
+time to fetch data: 2.725s
+Y move2 action aborted
+slice-2-tile-86-Y200-X1000-Z200.bin
+
+ an FFT action took 1.573 s
+
+cscan X :87.4 Y :13.4 Z :8.0
+slice-2-tile-87-Y200-X1000-Z200.bin
+time to fetch data: 2.941s
+Y move2 action aborted
+
+ an FFT action took 1.739 s
+
+cscan X :87.4 Y :13.8 Z :8.0
+time to fetch data: 2.816s
+Y move2 action aborted
+slice-2-tile-88-Y200-X1000-Z200.bin
+
+ an FFT action took 1.552 s
+
+cscan X :87.4 Y :14.2 Z :8.0
+time to fetch data: 2.724s
+Y move2 action aborted
+slice-2-tile-89-Y200-X1000-Z200.bin
+
+ an FFT action took 1.601 s
+
+cscan X :87.4 Y :14.6 Z :8.0
+time to fetch data: 2.807s
+Y move2 action aborted
+slice-2-tile-90-Y200-X1000-Z200.bin
+
+ an FFT action took 1.697 s
+
+time to fetch data: 2.724s
+cscan X :87.4 Y :15.0 Z :8.0
+Y move2 action aborted
+slice-2-tile-91-Y200-X1000-Z200.bin
+
+ an FFT action took 1.626 s
+
+time to fetch data: 2.658s
+cscan X :87.4 Y :15.4 Z :8.0
+X moving: 1.9mm target pos: 89.3
+slice-2-tile-92-Y200-X1000-Z200.bin
+X :89.3 Y :15.4 Z :8.0
+Y moving: 3.6mm target pos: 19.0
+
+ an FFT action took 1.689 s
+
+X :89.3 Y :19.0 Z :8.0
+slice-2-tile-93-Y200-X1000-Z200.bin
+time to fetch data: 2.68s
+cscan X :89.3 Y :18.6 Z :8.0
+Y moving: -5.2mm target pos: 13.4
+
+ an FFT action took 1.714 s
+
+X :89.3 Y :13.4 Z :8.0
+slice-2-tile-94-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :89.3 Y :13.0 Z :8.0
+Y move2 action aborted
+
+ an FFT action took 1.942 s
+
+cscan X :89.3 Y :12.6 Z :8.0
+time to fetch data: 2.934s
+Y move2 action aborted
+slice-2-tile-95-Y200-X1000-Z200.bin
+
+ an FFT action took 1.869 s
+
+cscan X :89.3 Y :12.2 Z :8.0
+time to fetch data: 3.043s
+slice-2-tile-96-Y200-X1000-Z200.bin
+
+ an FFT action took 1.801 s
+
+slice-2-tile-97-Y200-X1000-Z200.bin
+Y moving: 16.8mm target pos: 29.0
+X :89.3 Y :29.0 Z :8.0
+X moving: 45.7mm target pos: 135.0
+X :135.0 Y :29.0 Z :8.0
+Z moving: 0.3mm target pos: 8.3
+X :135.0 Y :29.0 Z :8.3
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :8.3
+
+CUT HEIGHT:8.3
+
+user stopped acquisition...
+user stopped acquisition...
+Y moving: 15.0mm target pos: 25.0
+X :135.0 Y :25.0 Z :8.3
+Y moving: -1.0mm target pos: 24.0
+X :135.0 Y :24.0 Z :8.3
+Y moving: -1.0mm target pos: 23.0
+X :135.0 Y :23.0 Z :8.3
+Y moving: -1.0mm target pos: 22.0
+X :135.0 Y :22.0 Z :8.3
+Y moving: -1.0mm target pos: 21.0
+X :135.0 Y :21.0 Z :8.3
+Y moving: -1.0mm target pos: 20.0
+X :135.0 Y :20.0 Z :8.3
+Y moving: -1.0mm target pos: 19.0
+X :135.0 Y :19.0 Z :8.3
+Stage position updated...
+X moving: -50.0mm target pos: 85.0
+X :85.0 Y :25.0 Z :8.3
+Y moving: -1.0mm target pos: 24.0
+X :85.0 Y :24.0 Z :8.3
+Y moving: -1.0mm target pos: 23.0
+X :85.0 Y :23.0 Z :8.3
+Y moving: -1.0mm target pos: 22.0
+X :85.0 Y :22.0 Z :8.3
+Y moving: -1.0mm target pos: 21.0
+X :85.0 Y :21.0 Z :8.3
+Y moving: -1.0mm target pos: 20.0
+X :85.0 Y :20.0 Z :8.3
+Y moving: -1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :8.3
+Y moving: -1.0mm target pos: 18.0
+X :85.0 Y :18.0 Z :8.3
+Y moving: -1.0mm target pos: 17.0
+X :85.0 Y :17.0 Z :8.3
+Y moving: -1.0mm target pos: 16.0
+X :85.0 Y :16.0 Z :8.3
+Y moving: -1.0mm target pos: 15.0
+X :85.0 Y :15.0 Z :8.3
+Y moving: -1.0mm target pos: 14.0
+X :85.0 Y :14.0 Z :8.3
+Y moving: -1.0mm target pos: 13.0
+X :85.0 Y :13.0 Z :8.3
+Y moving: -1.0mm target pos: 12.0
+X :85.0 Y :12.0 Z :8.3
+Y moving: -1.0mm target pos: 11.0
+X :85.0 Y :11.0 Z :8.3
+Y moving: -1.0mm target pos: 10.0
+X :85.0 Y :10.0 Z :8.3
+Y moving: -1.0mm target pos: 9.0
+X :85.0 Y :9.0 Z :8.3
+Y moving: -1.0mm target pos: 8.0
+X :85.0 Y :8.0 Z :8.3
+Y moving: -1.0mm target pos: 7.0
+X :85.0 Y :7.0 Z :8.3
+Y moving: 1.0mm target pos: 8.0
+X :85.0 Y :8.0 Z :8.3
+Y moving: 1.0mm target pos: 9.0
+X :85.0 Y :9.0 Z :8.3
+Y moving: 1.0mm target pos: 10.0
+X :85.0 Y :10.0 Z :8.3
+Y moving: 1.0mm target pos: 11.0
+X :85.0 Y :11.0 Z :8.3
+Y moving: 1.0mm target pos: 12.0
+X :85.0 Y :12.0 Z :8.3
+Y moving: 1.0mm target pos: 13.0
+X :85.0 Y :13.0 Z :8.3
+Y moving: 1.0mm target pos: 14.0
+X :85.0 Y :14.0 Z :8.3
+Y moving: 1.0mm target pos: 15.0
+X :85.0 Y :15.0 Z :8.3
+Y moving: 1.0mm target pos: 16.0
+X :85.0 Y :16.0 Z :8.3
+Y moving: 1.0mm target pos: 17.0
+X :85.0 Y :17.0 Z :8.3
+Y moving: 1.0mm target pos: 18.0
+X :85.0 Y :18.0 Z :8.3
+Y moving: 1.0mm target pos: 19.0
+X :85.0 Y :19.0 Z :8.3
+Y moving: 1.0mm target pos: 20.0
+X :85.0 Y :20.0 Z :8.3
+Y moving: 1.0mm target pos: 21.0
+X :85.0 Y :21.0 Z :8.3
+Y moving: 1.0mm target pos: 22.0
+X :85.0 Y :22.0 Z :8.3
+Y moving: 1.0mm target pos: 23.0
+X :85.0 Y :23.0 Z :8.3
+Y moving: 1.0mm target pos: 24.0
+X :85.0 Y :24.0 Z :8.3
+Y moving: 1.0mm target pos: 25.0
+X :85.0 Y :25.0 Z :8.3
+Y moving: -1.0mm target pos: 24.0
+X :85.0 Y :24.0 Z :8.3
+Y moving: -1.0mm target pos: 23.0
+X :85.0 Y :23.0 Z :8.3
+Y moving: -1.0mm target pos: 22.0
+X :85.0 Y :22.0 Z :8.3
+cscan X :85.0 Y :22.0 Z :8.3
+426 data received by weaver
+RptBline successfully finished...
+426 Blines displayed
+
+927 FFT actions taken place
+
+ slicing and imaging depth same, one image per cut...
+Y moving: 7.0mm target pos: 29.0
+X :85.0 Y :29.0 Z :8.3
+X moving: 50.0mm target pos: 135.0
+X :135.0 Y :29.0 Z :8.3
+Z moving: 0.3mm target pos: 8.6
+X :135.0 Y :29.0 Z :8.6
+Y moving: -19.0mm target pos: 10.0
+X :135.0 Y :10.0 Z :8.6
+
+CUT HEIGHT:8.6
+
+X moving: -53.0mm target pos: 82.0
+X :82.0 Y :10.0 Z :8.6
+Y move2 action aborted
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -0.3mm target pos: 81.7
+X :81.7 Y :10.0 Z :8.6
+Y moving: 11.0mm target pos: 21.0
+X :81.7 Y :21.0 Z :8.6
+X move2 action aborted
+cscan X :81.7 Y :10.2 Z :8.6
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :10.2 Z :8.6
+cscan X :83.6 Y :21.0 Z :8.6
+X moving: 1.9mm target pos: 85.5
+X :85.5 Y :21.0 Z :8.6
+cscan X :85.5 Y :10.2 Z :8.6
+X moving: 1.9mm target pos: 87.4
+X :87.4 Y :10.2 Z :8.6
+cscan X :87.4 Y :21.0 Z :8.6
+X moving: 1.9mm target pos: 89.3
+X :89.3 Y :21.0 Z :8.6
+cscan X :89.3 Y :10.2 Z :8.6
+tile surf is:109
+
+slice 1 zmax scale is 4
+
+X moving: -7.6mm target pos: 81.7
+X :81.7 Y :10.2 Z :8.6
+Y moving: 10.8mm target pos: 21.0
+X :81.7 Y :21.0 Z :8.6
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.644s
+cscan X :81.7 Y :20.6 Z :8.6
+Y move2 action aborted
+
+ an FFT action took 1.946 s
+
+cscan X :81.7 Y :20.2 Z :8.6
+time to fetch data: 3.256s
+Y moving: -5.2mm target pos: 15.0
+slice-1-tile-1-Y200-X1000-Z200.bin
+
+ an FFT action took 1.71 s
+
+X :81.7 Y :15.0 Z :8.6
+slice-1-tile-2-Y200-X1000-Z200.bin
+time to fetch data: 2.777s
+cscan X :81.7 Y :14.6 Z :8.6
+Y move2 action aborted
+
+ an FFT action took 1.901 s
+
+cscan X :81.7 Y :14.2 Z :8.6
+time to fetch data: 3.0s
+Y move2 action aborted
+slice-1-tile-3-Y200-X1000-Z200.bin
+
+ an FFT action took 1.862 s
+
+cscan X :81.7 Y :13.8 Z :8.6
+time to fetch data: 2.879s
+Y move2 action aborted
+slice-1-tile-4-Y200-X1000-Z200.bin
+
+ an FFT action took 1.775 s
+
+cscan X :81.7 Y :13.4 Z :8.6
+time to fetch data: 2.82s
+Y move2 action aborted
+slice-1-tile-5-Y200-X1000-Z200.bin
+
+ an FFT action took 1.737 s
+
+cscan X :81.7 Y :13.0 Z :8.6
+time to fetch data: 2.768s
+Y move2 action aborted
+slice-1-tile-6-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+cscan X :81.7 Y :12.6 Z :8.6
+time to fetch data: 2.701s
+Y move2 action aborted
+slice-1-tile-7-Y200-X1000-Z200.bin
+
+ an FFT action took 1.769 s
+
+cscan X :81.7 Y :12.2 Z :8.6
+time to fetch data: 2.792s
+Y move2 action aborted
+slice-1-tile-8-Y200-X1000-Z200.bin
+
+ an FFT action took 1.775 s
+
+time to fetch data: 2.739s
+
+Y move2 action aborted
+slice-1-tile-9-Y200-X1000-Z200.bin
+
+ an FFT action took 1.707 s
+
+cscan X :81.7 Y :11.4 Z :8.6
+time to fetch data: 2.784s
+Y move2 action aborted
+slice-1-tile-10-Y200-X1000-Z200.bin
+
+ an FFT action took 1.667 s
+
+cscan X :81.7 Y :11.0 Z :8.6
+time to fetch data: 2.779s
+slice-1-tile-11-Y200-X1000-Z200.bin
+X moving: 1.9mm target pos: 83.6
+X :83.6 Y :11.0 Z :8.6
+Y moving: -0.8mm target pos: 10.2
+X :83.6 Y :10.2 Z :8.6
+
+ an FFT action took 1.653 s
+
+slice-1-tile-12-Y200-X1000-Z200.bin
+time to fetch data: 2.645s
+cscan X :83.6 Y :10.6 Z :8.6
+Y move2 action aborted
+
+ an FFT action took 1.647 s
+
+cscan X :83.6 Y :11.0 Z :8.6
+time to fetch data: 2.783s
+Y move2 action aborted
+slice-1-tile-13-Y200-X1000-Z200.bin
+
+ an FFT action took 1.578 s
+
+cscan X :83.6 Y :11.4 Z :8.6
+time to fetch data: 2.692s
+Y move2 action aborted
+slice-1-tile-14-Y200-X1000-Z200.bin
+
+ an FFT action took 1.662 s
+
+cscan X :83.6 Y :11.8 Z :8.6
+time to fetch data: 2.881s
+Y move2 action aborted
+slice-1-tile-15-Y200-X1000-Z200.bin
+
+ an FFT action took 1.74 s
+
+cscan X :83.6 Y :12.2 Z :8.6
+time to fetch data: 2.786s
+Y move2 action aborted
+slice-1-tile-16-Y200-X1000-Z200.bin
+
+ an FFT action took 1.747 s
+
+time to fetch data: 2.674s
+cscan X :83.6 Y :12.6 Z :8.6
+Y move2 action aborted
+slice-1-tile-17-Y200-X1000-Z200.bin
+
+ an FFT action took 1.604 s
+
+cscan X :83.6 Y :13.0 Z :8.6
+time to fetch data: 2.734s
+Y move2 action aborted
+slice-1-tile-18-Y200-X1000-Z200.bin
+
+ an FFT action took 1.66 s
+
+cscan X :83.6 Y :13.4 Z :8.6
+time to fetch data: 2.679s
+Y move2 action aborted
+slice-1-tile-19-Y200-X1000-Z200.bin
+
+ an FFT action took 1.761 s
+
+cscan X :83.6 Y :13.8 Z :8.6
+time to fetch data: 2.956s
+Y move2 action aborted
+slice-1-tile-20-Y200-X1000-Z200.bin
+
+ an FFT action took 1.599 s
+
+cscan X :83.6 Y :14.2 Z :8.6
+time to fetch data: 2.685s
+Y move2 action aborted
+slice-1-tile-21-Y200-X1000-Z200.bin
+
+ an FFT action took 1.575 s
+
+cscan X :83.6 Y :14.6 Z :8.6
+time to fetch data: 2.764s
+Y move2 action aborted
+slice-1-tile-22-Y200-X1000-Z200.bin
+
+ an FFT action took 1.664 s
+
+cscan X :83.6 Y :15.0 Z :8.6
+time to fetch data: 2.732s
+Y move2 action aborted
+slice-1-tile-23-Y200-X1000-Z200.bin
+
+ an FFT action took 1.729 s
+
+time to fetch data: 2.672s
+cscan X :83.6 Y :15.4 Z :8.6
+Y move2 action aborted
+slice-1-tile-24-Y200-X1000-Z200.bin
+
+ an FFT action took 1.754 s
+
+cscan X :83.6 Y :15.8 Z :8.6
+time to fetch data: 2.756s
+Y move2 action aborted
+slice-1-tile-25-Y200-X1000-Z200.bin
+
+ an FFT action took 1.695 s
+
+cscan X :83.6 Y :16.2 Z :8.6
+time to fetch data: 2.757s
+Y move2 action aborted
+slice-1-tile-26-Y200-X1000-Z200.bin
+
+ an FFT action took 1.64 s
+
+cscan X :83.6 Y :16.6 Z :8.6
+slice-1-tile-27-Y200-X1000-Z200.bin
+time to fetch data: 2.809s
+Y move2 action aborted
+
+ an FFT action took 1.593 s
+
+time to fetch data: 2.647s
+cscan X :83.6 Y :17.0 Z :8.6
+Y move2 action aborted
+slice-1-tile-28-Y200-X1000-Z200.bin
+
+ an FFT action took 1.711 s
+
+cscan X :83.6 Y :17.4 Z :8.6
+slice-1-tile-29-Y200-X1000-Z200.bin
+time to fetch data: 2.882s
+Y move2 action aborted
+
+ an FFT action took 1.652 s
+
+cscan X :83.6 Y :17.8 Z :8.6
+time to fetch data: 2.699s
+Y move2 action aborted
+slice-1-tile-30-Y200-X1000-Z200.bin
+
+ an FFT action took 1.7 s
+
+cscan X :83.6 Y :18.2 Z :8.6
+time to fetch data: 2.75s
+Y move2 action aborted
+slice-1-tile-31-Y200-X1000-Z200.bin
+
+ an FFT action took 1.729 s
+
+cscan X :83.6 Y :18.6 Z :8.6
+time to fetch data: 2.863s
+Y move2 action aborted
+slice-1-tile-32-Y200-X1000-Z200.bin
+
+ an FFT action took 1.856 s
+
+cscan X :83.6 Y :19.0 Z :8.6
+time to fetch data: 2.859s
+Y move2 action aborted
+slice-1-tile-33-Y200-X1000-Z200.bin
+
+ an FFT action took 1.925 s
+
+cscan X :83.6 Y :19.4 Z :8.6
+time to fetch data: 3.056s
+Y move2 action aborted
+slice-1-tile-34-Y200-X1000-Z200.bin
+
+ an FFT action took 1.814 s
+
+cscan X :83.6 Y :19.8 Z :8.6
+time to fetch data: 2.866s
+Y move2 action aborted
+slice-1-tile-35-Y200-X1000-Z200.bin
+
+ an FFT action took 1.856 s
+
+cscan X :83.6 Y :20.2 Z :8.6
+time to fetch data: 2.91s
+X moving: 1.9mm target pos: 85.5
+slice-1-tile-36-Y200-X1000-Z200.bin
+X :85.5 Y :20.2 Z :8.6
+Y moving: 0.8mm target pos: 21.0
+X :85.5 Y :21.0 Z :8.6
+
+ an FFT action took 1.856 s
+
+slice-1-tile-37-Y200-X1000-Z200.bin
+time to fetch data: 2.646s
+cscan X :85.5 Y :20.6 Z :8.6
+Y move2 action aborted
+
+ an FFT action took 1.848 s
+
+cscan X :85.5 Y :20.2 Z :8.6
+time to fetch data: 3.003s
+Y move2 action aborted
+slice-1-tile-38-Y200-X1000-Z200.bin
+
+ an FFT action took 1.822 s
+
+cscan X :85.5 Y :19.8 Z :8.6
+time to fetch data: 2.935s
+Y move2 action aborted
+slice-1-tile-39-Y200-X1000-Z200.bin
+
+ an FFT action took 1.843 s
+
+cscan X :85.5 Y :19.4 Z :8.6
+time to fetch data: 2.844s
+Y move2 action aborted
+slice-1-tile-40-Y200-X1000-Z200.bin
+
+ an FFT action took 1.886 s
+
+cscan X :85.5 Y :19.0 Z :8.6
+time to fetch data: 2.905s
+Y move2 action aborted
+slice-1-tile-41-Y200-X1000-Z200.bin
+
+ an FFT action took 1.881 s
+
+cscan X :85.5 Y :18.6 Z :8.6
+time to fetch data: 3.081s
+Y move2 action aborted
+slice-1-tile-42-Y200-X1000-Z200.bin
+
+ an FFT action took 1.794 s
+
+cscan X :85.5 Y :18.2 Z :8.6
+time to fetch data: 2.886s
+Y move2 action aborted
+slice-1-tile-43-Y200-X1000-Z200.bin
+
+ an FFT action took 1.88 s
+
+cscan X :85.5 Y :17.8 Z :8.6
+time to fetch data: 2.932s
+Y move2 action aborted
+slice-1-tile-44-Y200-X1000-Z200.bin
+
+ an FFT action took 1.888 s
+
+cscan X :85.5 Y :17.4 Z :8.6
+time to fetch data: 2.87s
+Y move2 action aborted
+slice-1-tile-45-Y200-X1000-Z200.bin
+
+ an FFT action took 1.829 s
+
+cscan X :85.5 Y :17.0 Z :8.6
+time to fetch data: 2.818s
+Y move2 action aborted
+slice-1-tile-46-Y200-X1000-Z200.bin
+
+ an FFT action took 1.772 s
+
+cscan X :85.5 Y :16.6 Z :8.6
+time to fetch data: 2.803s
+Y move2 action aborted
+slice-1-tile-47-Y200-X1000-Z200.bin
+
+ an FFT action took 1.947 s
+
+cscan X :85.5 Y :16.2 Z :8.6
+time to fetch data: 2.875s
+Y move2 action aborted
+slice-1-tile-48-Y200-X1000-Z200.bin
+
+ an FFT action took 1.835 s
+
+cscan X :85.5 Y :15.8 Z :8.6
+time to fetch data: 2.827s
+Y move2 action aborted
+slice-1-tile-49-Y200-X1000-Z200.bin
+
+ an FFT action took 1.757 s
+
+cscan X :85.5 Y :15.4 Z :8.6
+time to fetch data: 2.758s
+Y move2 action aborted
+slice-1-tile-50-Y200-X1000-Z200.bin
+
+ an FFT action took 1.749 s
+
+time to fetch data: 2.675s
+cscan X :85.5 Y :15.0 Z :8.6
+Y move2 action aborted
+slice-1-tile-51-Y200-X1000-Z200.bin
+
+ an FFT action took 1.792 s
+
+cscan X :85.5 Y :14.6 Z :8.6
+time to fetch data: 2.835s
+Y move2 action aborted
+slice-1-tile-52-Y200-X1000-Z200.bin
+
+ an FFT action took 1.914 s
+
+cscan X :85.5 Y :14.2 Z :8.6
+time to fetch data: 2.986s
+Y move2 action aborted
+slice-1-tile-53-Y200-X1000-Z200.bin
+
+ an FFT action took 1.868 s
+
+cscan X :85.5 Y :13.8 Z :8.6
+time to fetch data: 2.976s
+Y move2 action aborted
+slice-1-tile-54-Y200-X1000-Z200.bin
+
+ an FFT action took 1.889 s
+
+cscan X :85.5 Y :13.4 Z :8.6
+time to fetch data: 2.79s
+Y move2 action aborted
+slice-1-tile-55-Y200-X1000-Z200.bin
+
+ an FFT action took 1.85 s
+
+cscan X :85.5 Y :13.0 Z :8.6
+time to fetch data: 2.886s
+Y move2 action aborted
+slice-1-tile-56-Y200-X1000-Z200.bin
+
+ an FFT action took 1.794 s
+
+cscan X :85.5 Y :12.6 Z :8.6
+time to fetch data: 2.883s
+slice-1-tile-57-Y200-X1000-Z200.bin
+
+ an FFT action took 1.723 s
+
+slice-1-tile-58-Y200-X1000-Z200.bin
+user stopped acquisition...
+user stopped acquisition...
+cscan X :85.5 Y :12.6 Z :8.6
+79 data received by weaver
+RptBline successfully finished...
+79 Blines displayed
+
+272 FFT actions taken place
+
+cscan X :85.5 Y :12.6 Z :8.6
+47 data received by weaver
+RptBline successfully finished...
+47 Blines displayed
+
+47 FFT actions taken place
+
+cscan X :85.5 Y :13.0 Z :8.6
+SingleCscan successfully finished...
+
+ an FFT action took 1.65 s
+
+cscan X :85.5 Y :13.0 Z :8.6
+28 data received by weaver
+RptBline successfully finished...
+28 Blines displayed
+
+29 FFT actions taken place
+
+cscan X :85.5 Y :13.4 Z :8.6
+SingleCscan successfully finished...
+
+ an FFT action took 1.628 s
+

@@ -1,0 +1,410 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :90.0 Y :25.0 Z :2.0
+SingleBline successfully finished...
+cscan X :90.0 Y :25.0 Z :2.0
+416 data received by weaver
+RptBline successfully finished...
+416 Blines displayed
+
+417 FFT actions taken place
+
+cscan X :90.0 Y :25.0 Z :2.0
+1123 data received by weaver
+RptBline successfully finished...
+1123 Blines displayed
+
+1123 FFT actions taken place
+
+cscan X :90.0 Y :25.0 Z :2.0
+34 data received by weaver
+RptBline successfully finished...
+34 Blines displayed
+
+34 FFT actions taken place
+
+cscan X :90.0 Y :25.0 Z :2.0
+25 data received by weaver
+25 Blines displayed
+
+RptBline successfully finished...
+25 FFT actions taken place
+
+X moving: -2.0mm target pos: 88.0
+X :88.0 Y :25.0 Z :2.0
+X moving: -2.0mm target pos: 86.0
+X :86.0 Y :25.0 Z :2.0
+X moving: 2.0mm target pos: 88.0
+X :88.0 Y :25.0 Z :2.0
+X moving: -2.0mm target pos: 86.0
+X :86.0 Y :25.0 Z :2.0
+X moving: 2.0mm target pos: 88.0
+X :88.0 Y :25.0 Z :2.0
+X moving: 2.0mm target pos: 90.0
+X :90.0 Y :25.0 Z :2.0
+X moving: 2.0mm target pos: 92.0
+X :92.0 Y :25.0 Z :2.0
+X moving: -2.0mm target pos: 90.0
+X :90.0 Y :25.0 Z :2.0
+Y moving: -1.0mm target pos: 24.0
+X :90.0 Y :24.0 Z :2.0
+Y moving: -1.0mm target pos: 23.0
+X :90.0 Y :23.0 Z :2.0
+Y moving: -1.0mm target pos: 22.0
+X :90.0 Y :22.0 Z :2.0
+Y moving: -1.0mm target pos: 21.0
+X :90.0 Y :21.0 Z :2.0
+X moving: 2.0mm target pos: 92.0
+X :92.0 Y :21.0 Z :2.0
+X moving: -2.0mm target pos: 90.0
+X :90.0 Y :21.0 Z :2.0
+Y moving: -1.0mm target pos: 20.0
+X :90.0 Y :20.0 Z :2.0
+Y moving: 1.0mm target pos: 21.0
+X :90.0 Y :21.0 Z :2.0
+Y moving: 1.0mm target pos: 22.0
+X :90.0 Y :22.0 Z :2.0
+Y moving: 1.0mm target pos: 23.0
+X :90.0 Y :23.0 Z :2.0
+Y moving: 1.0mm target pos: 24.0
+X :90.0 Y :24.0 Z :2.0
+Y moving: 1.0mm target pos: 25.0
+X :90.0 Y :25.0 Z :2.0
+Y moving: 1.0mm target pos: 26.0
+X :90.0 Y :26.0 Z :2.0
+Y moving: 1.0mm target pos: 27.0
+X :90.0 Y :27.0 Z :2.0
+cscan X :90.0 Y :27.0 Z :2.0
+713 data received by weaver
+RptBline successfully finished...
+713 Blines displayed
+
+713 FFT actions taken place
+
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -4.35mm target pos: 85.65
+X :85.65 Y :27.0 Z :2.0
+Y move2 action aborted
+X move2 action aborted
+cscan X :85.65 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 87.55
+X :87.55 Y :21.0 Z :2.0
+cscan X :87.55 Y :27.0 Z :2.0
+X moving: 1.9mm target pos: 89.45
+X :89.45 Y :27.0 Z :2.0
+cscan X :89.45 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 91.35
+X :91.35 Y :21.0 Z :2.0
+cscan X :91.35 Y :27.0 Z :2.0
+tile surf is:290
+
+slice 1 zmax scale is 4
+
+X moving: -5.7mm target pos: 85.65
+X :85.65 Y :27.0 Z :2.0
+Y move2 action aborted
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 0.847s
+cscan X :85.65 Y :26.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.849s
+cscan X :85.65 Y :26.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.851s
+cscan X :85.65 Y :25.8 Z :2.0
+Mosaic successfully finished...
+X moving: 2.0mm target pos: 87.65
+X :87.65 Y :25.8 Z :2.0
+X moving: 2.0mm target pos: 89.65
+X :89.65 Y :25.8 Z :2.0
+X moving: 2.0mm target pos: 91.65
+X :91.65 Y :25.8 Z :2.0
+X moving: -2.0mm target pos: 89.65
+X :89.65 Y :25.8 Z :2.0
+cscan X :89.65 Y :25.8 Z :2.0
+243 data received by weaver
+RptBline successfully finished...
+243 Blines displayed
+
+306 FFT actions taken place
+
+Y moving: -1.0mm target pos: 24.8
+X :89.65 Y :24.8 Z :2.0
+Y moving: -1.0mm target pos: 23.8
+X :89.65 Y :23.8 Z :2.0
+Y moving: -1.0mm target pos: 22.8
+X :89.65 Y :22.8 Z :2.0
+Y moving: -1.0mm target pos: 21.8
+X :89.65 Y :21.8 Z :2.0
+Y moving: -1.0mm target pos: 20.8
+X :89.65 Y :20.8 Z :2.0
+Y moving: 1.0mm target pos: 21.8
+X :89.65 Y :21.8 Z :2.0
+Y moving: 1.0mm target pos: 22.8
+X :89.65 Y :22.8 Z :2.0
+Y moving: 1.0mm target pos: 23.8
+X :89.65 Y :23.8 Z :2.0
+Y moving: 1.0mm target pos: 24.8
+X :89.65 Y :24.8 Z :2.0
+Y moving: 1.0mm target pos: 25.8
+X :89.65 Y :25.8 Z :2.0
+Y moving: 1.0mm target pos: 26.8
+X :89.65 Y :26.8 Z :2.0
+Y moving: -1.0mm target pos: 25.8
+X :89.65 Y :25.8 Z :2.0
+Y moving: -1.0mm target pos: 24.8
+X :89.65 Y :24.8 Z :2.0
+Y moving: -1.0mm target pos: 23.8
+X :89.65 Y :23.8 Z :2.0
+Y moving: -1.0mm target pos: 22.8
+X :89.65 Y :22.8 Z :2.0
+Y moving: -1.0mm target pos: 21.8
+X :89.65 Y :21.8 Z :2.0
+cscan X :89.65 Y :21.8 Z :2.0
+594 data received by weaver
+RptBline successfully finished...
+594 Blines displayed
+
+594 FFT actions taken place
+
+cscan X :89.65 Y :21.8 Z :2.0
+17 data received by weaver
+RptBline successfully finished...
+17 Blines displayed
+
+17 FFT actions taken place
+
+cscan X :89.65 Y :21.8 Z :2.0
+23 data received by weaver
+RptBline successfully finished...
+23 Blines displayed
+
+23 FFT actions taken place
+
+Y moving: -1.0mm target pos: 20.8
+X :89.65 Y :20.8 Z :2.0
+Y moving: 1.0mm target pos: 21.8
+X :89.65 Y :21.8 Z :2.0
+Y moving: 1.0mm target pos: 22.8
+X :89.65 Y :22.8 Z :2.0
+Y moving: 1.0mm target pos: 23.8
+X :89.65 Y :23.8 Z :2.0
+Y moving: 1.0mm target pos: 24.8
+X :89.65 Y :24.8 Z :2.0
+Y moving: 1.0mm target pos: 25.8
+X :89.65 Y :25.8 Z :2.0
+X moving: -2.0mm target pos: 87.65
+X :87.65 Y :25.8 Z :2.0
+X moving: 2.0mm target pos: 89.65
+X :89.65 Y :25.8 Z :2.0
+X moving: 2.0mm target pos: 91.65
+X :91.65 Y :25.8 Z :2.0
+X moving: -2.0mm target pos: 89.65
+X :89.65 Y :25.8 Z :2.0
+Y moving: -1.0mm target pos: 24.8
+X :89.65 Y :24.8 Z :2.0
+Y moving: -1.0mm target pos: 23.8
+X :89.65 Y :23.8 Z :2.0
+Y moving: -1.0mm target pos: 22.8
+X :89.65 Y :22.8 Z :2.0
+Y moving: -1.0mm target pos: 21.8
+X :89.65 Y :21.8 Z :2.0
+Y moving: -1.0mm target pos: 20.8
+X :89.65 Y :20.8 Z :2.0
+Y moving: 1.0mm target pos: 21.8
+X :89.65 Y :21.8 Z :2.0
+Y moving: 1.0mm target pos: 22.8
+X :89.65 Y :22.8 Z :2.0
+Y moving: 1.0mm target pos: 23.8
+X :89.65 Y :23.8 Z :2.0
+Y moving: 1.0mm target pos: 24.8
+X :89.65 Y :24.8 Z :2.0
+Y moving: 1.0mm target pos: 25.8
+X :89.65 Y :25.8 Z :2.0
+Y moving: 1.0mm target pos: 26.8
+X :89.65 Y :26.8 Z :2.0
+Y moving: -1.0mm target pos: 25.8
+X :89.65 Y :25.8 Z :2.0
+cscan X :89.65 Y :25.8 Z :2.0
+362 data received by weaver
+RptBline successfully finished...
+362 Blines displayed
+
+362 FFT actions taken place
+
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X moving: -4.0mm target pos: 85.65
+X :85.65 Y :25.8 Z :2.0
+Y moving: 1.2mm target pos: 27.0
+X :85.65 Y :27.0 Z :2.0
+X move2 action aborted
+cscan X :85.65 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 87.55
+X :87.55 Y :21.0 Z :2.0
+cscan X :87.55 Y :27.0 Z :2.0
+X moving: 1.9mm target pos: 89.45
+X :89.45 Y :27.0 Z :2.0
+cscan X :89.45 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 91.35
+X :91.35 Y :21.0 Z :2.0
+cscan X :91.35 Y :27.0 Z :2.0
+tile surf is:13
+
+slice 2 zmax scale is 4
+
+X moving: -5.7mm target pos: 85.65
+X :85.65 Y :27.0 Z :2.0
+Y move2 action aborted
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :85.65 Y :26.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :85.65 Y :26.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.847s
+cscan X :85.65 Y :25.8 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.851s
+cscan X :85.65 Y :25.4 Z :2.0
+Mosaic successfully finished...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is25
+
+
+ fast pre-scan mosaic display scale is4
+
+X move2 action aborted
+Y moving: 1.6mm target pos: 27.0
+X :85.65 Y :27.0 Z :2.0
+X move2 action aborted
+cscan X :85.65 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 87.55
+X :87.55 Y :21.0 Z :2.0
+cscan X :87.55 Y :27.0 Z :2.0
+X moving: 1.9mm target pos: 89.45
+X :89.45 Y :27.0 Z :2.0
+cscan X :89.45 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 91.35
+X :91.35 Y :21.0 Z :2.0
+cscan X :91.35 Y :27.0 Z :2.0
+tile surf is:16
+
+slice 3 zmax scale is 4
+
+X moving: -5.7mm target pos: 85.65
+X :85.65 Y :27.0 Z :2.0
+Y move2 action aborted
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :85.65 Y :26.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :85.65 Y :26.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :85.65 Y :25.8 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.849s
+cscan X :85.65 Y :25.4 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :85.65 Y :25.0 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.852s
+cscan X :85.65 Y :24.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :85.65 Y :24.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :85.65 Y :23.8 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.849s
+cscan X :85.65 Y :23.4 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.847s
+cscan X :85.65 Y :23.0 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :85.65 Y :22.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :85.65 Y :22.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :85.65 Y :21.8 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :85.65 Y :21.4 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.852s
+cscan X :85.65 Y :21.0 Z :2.0
+X moving: 1.9mm target pos: 87.55
+X :87.55 Y :21.0 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.847s
+cscan X :87.55 Y :21.4 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.851s
+cscan X :87.55 Y :21.8 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :87.55 Y :22.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :87.55 Y :22.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :87.55 Y :23.0 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :87.55 Y :23.4 Z :2.0
+Y move2 action aborted
+cscan X :87.55 Y :23.8 Z :2.0
+time to fetch data: 0.859s
+Y move2 action aborted
+time to fetch data: 0.851s
+cscan X :87.55 Y :24.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.848s
+cscan X :87.55 Y :24.6 Z :2.0
+Y move2 action aborted
+cscan X :87.55 Y :25.0 Z :2.0
+time to fetch data: 0.864s
+Y move2 action aborted
+cscan X :87.55 Y :25.4 Z :2.0
+time to fetch data: 0.855s
+Y move2 action aborted
+time to fetch data: 0.852s
+cscan X :87.55 Y :25.8 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.851s
+cscan X :87.55 Y :26.2 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.849s
+cscan X :87.55 Y :26.6 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.85s
+cscan X :87.55 Y :27.0 Z :2.0
+X moving: 1.9mm target pos: 89.45
+X :89.45 Y :27.0 Z :2.0
+Y move2 action aborted
+time to fetch data: 0.847s
+cscan X :89.45 Y :26.6 Z :2.0
+Y move2 action aborted
+cscan X :89.45 Y :26.2 Z :2.0
+time to fetch data: 0.919s

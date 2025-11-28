@@ -1,0 +1,147 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+SingleBline successfully finished...
+cscan X :87.0 Y :35.1 Z :11.0
+491 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+1 Blines displayed
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+cscan X :87.0 Y :35.1 Z :11.0
+29 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+0 Blines displayed
+
+An error occurred, skip the FFT action
+
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+39 data received by weaver
+0 FFT actions taken place
+
+RptAline successfully finished...
+0 Blines displayed
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+344 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+0 Blines displayed
+
+An error occurred, skip the FFT action
+
+An error occurred, skip the FFT action
+
+load disperison compensation success...
+An error occurred, skip the FFT action
+
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+112 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+0 Blines displayed
+
+cscan X :87.0 Y :35.1 Z :11.0
+802 data received by weaver
+RptBline successfully finished...
+801 Blines displayed
+
+802 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :87.0 Y :35.1 Z :11.0
+96 data received by weaver
+RptBline successfully finished...
+96 Blines displayed
+
+96 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+no disperison compensation found...using default
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+86 data received by weaver
+RptBline successfully finished...
+86 Blines displayed
+
+86 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+482 data received by weaver
+RptBline successfully finished...
+482 Blines displayed
+
+482 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+SingleBline successfully finished...
+cscan X :87.0 Y :35.1 Z :11.0
+SingleBline successfully finished...

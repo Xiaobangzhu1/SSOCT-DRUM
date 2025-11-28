@@ -1,0 +1,89 @@
+Stage position updated...
+load disperison compensation success...
+ slicing and imaging depth same, one image per cut...
+Y moving: 6.0mm target pos: 29.0
+X :82.6 Y :29.0 Z :11.5
+X moving: 52.4mm target pos: 135.0
+X :135.0 Y :29.0 Z :11.5
+Z moving: -0.5mm target pos: 11.0
+X :135.0 Y :29.0 Z :11.0
+Y moving: -1.0mm target pos: 28.0
+X :135.0 Y :28.0 Z :11.0
+
+CUT HEIGHT:11.0
+
+X moving: -52.0mm target pos: 83.0
+X :83.0 Y :28.0 Z :11.0
+Y moving: -4.0mm target pos: 24.0
+X :83.0 Y :24.0 Z :11.0
+
+slice 1 zmax scale is 5
+
+X moving: -0.4mm target pos: 82.6
+X :82.6 Y :24.0 Z :11.0
+Y moving: 2.0mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :82.6 Y :25.8 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 1.327 s
+
+time to fetch data: 1.347s
+cscan X :82.6 Y :25.6 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 1.032 s
+
+cscan X :82.6 Y :25.4 Z :11.0
+time to fetch data: 1.489s
+Y move2 action aborted
+time to fetch data: 1.362s
+cscan X :82.6 Y :25.2 Z :11.0
+Y move2 action aborted
+cscan X :82.6 Y :25.0 Z :11.0
+time to fetch data: 1.374s
+user stopped acquisition...
+user stopped acquisition...
+cscan X :82.6 Y :25.0 Z :11.0
+297 data received by weaver
+RptBline successfully finished...
+296 Blines displayed
+
+302 FFT actions taken place
+
+ slicing and imaging depth same, one image per cut...
+Y moving: 4.0mm target pos: 29.0
+X :82.6 Y :29.0 Z :11.0
+X moving: 52.4mm target pos: 135.0
+X :135.0 Y :29.0 Z :11.0
+Z move2 action aborted
+Y moving: -1.0mm target pos: 28.0
+X :135.0 Y :28.0 Z :11.0
+
+CUT HEIGHT:11.0
+
+X moving: -52.0mm target pos: 83.0
+X :83.0 Y :28.0 Z :11.0
+Y moving: -4.0mm target pos: 24.0
+X :83.0 Y :24.0 Z :11.0
+
+slice 2 zmax scale is 5
+
+X moving: -0.4mm target pos: 82.6
+X :82.6 Y :24.0 Z :11.0
+Y moving: 2.0mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 1.347s
+cscan X :82.6 Y :25.8 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 1.046 s
+
+time to fetch data: 1.364s
+cscan X :82.6 Y :25.6 Z :11.0
+Y move2 action aborted

@@ -1,0 +1,27 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :40.0 Y :23.0 Z :1.0
+34 data received by weaver
+RptBline successfully finished...
+0 FFT actions taken place
+
+34 Blines displayed
+
+cscan X :40.0 Y :23.0 Z :1.0
+77 data received by weaver
+RptBline successfully finished...
+77 FFT actions taken place
+
+cscan X :40.0 Y :23.0 Z :1.0
+1167 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+1 Blines displayed
+
+
+An error occurred, skip the AODO action
+
+
+An error occurred, skip the AODO action
+

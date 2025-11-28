@@ -1,0 +1,229 @@
+Stage position updated...
+load disperison compensation success...
+ slicing and imaging depth same, one image per cut...
+X :84.5 Y :29.0 Z :11.0
+X :135.0 Y :29.0 Z :11.0
+Z move2 action aborted
+X :135.0 Y :28.0 Z :11.0
+
+CUT HEIGHT:11.0
+
+X :83.0 Y :28.0 Z :11.0
+X :83.0 Y :23.0 Z :11.0
+X :82.6 Y :23.0 Z :11.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+
+slice 1 zmax scale is 5
+
+time to fetch data: 1.349s
+Y move2 action aborted
+
+ an FFT action took 1.097 s
+
+time to fetch data: 1.555s
+Y move2 action aborted
+
+ an FFT action took 1.011 s
+
+time to fetch data: 1.391s
+Y move2 action aborted
+time to fetch data: 1.38s
+Y move2 action aborted
+time to fetch data: 1.415s
+Y move2 action aborted
+
+ an FFT action took 1.02 s
+
+time to fetch data: 1.504s
+Y move2 action aborted
+
+ an FFT action took 1.124 s
+
+time to fetch data: 1.481s
+Y move2 action aborted
+
+ an FFT action took 1.12 s
+
+time to fetch data: 1.551s
+Y move2 action aborted
+
+ an FFT action took 1.255 s
+
+time to fetch data: 1.432s
+Y move2 action aborted
+
+ an FFT action took 1.048 s
+
+time to fetch data: 1.453s
+Y move2 action aborted
+time to fetch data: 1.434s
+Y move2 action aborted
+
+ an FFT action took 1.113 s
+
+time to fetch data: 1.397s
+Y move2 action aborted
+time to fetch data: 1.402s
+Y move2 action aborted
+
+ an FFT action took 1.077 s
+
+time to fetch data: 1.405s
+Y move2 action aborted
+time to fetch data: 1.416s
+X :84.5 Y :23.0 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 1.056 s
+
+time to fetch data: 1.413s
+Y move2 action aborted
+
+ an FFT action took 1.019 s
+
+time to fetch data: 1.433s
+Y move2 action aborted
+time to fetch data: 1.419s
+Y move2 action aborted
+time to fetch data: 1.383s
+Y move2 action aborted
+
+ an FFT action took 1.026 s
+
+time to fetch data: 1.434s
+Y move2 action aborted
+time to fetch data: 1.4s
+Y move2 action aborted
+time to fetch data: 1.402s
+Y move2 action aborted
+time to fetch data: 1.477s
+Y move2 action aborted
+
+ an FFT action took 1.014 s
+
+time to fetch data: 1.406s
+Y move2 action aborted
+time to fetch data: 1.411s
+Y move2 action aborted
+time to fetch data: 1.369s
+Y move2 action aborted
+time to fetch data: 1.402s
+Y move2 action aborted
+
+ an FFT action took 1.07 s
+
+time to fetch data: 1.449s
+Y move2 action aborted
+time to fetch data: 1.417s
+Y move2 action aborted
+time to fetch data: 1.432s
+X :86.4 Y :26.0 Z :11.0
+Y move2 action aborted
+time to fetch data: 1.483s
+Y move2 action aborted
+time to fetch data: 1.45s
+Y move2 action aborted
+time to fetch data: 1.377s
+Y move2 action aborted
+time to fetch data: 1.433s
+Y move2 action aborted
+time to fetch data: 1.379s
+Y move2 action aborted
+time to fetch data: 1.423s
+Y move2 action aborted
+time to fetch data: 1.402s
+Y move2 action aborted
+time to fetch data: 1.444s
+Y move2 action aborted
+time to fetch data: 1.41s
+Y move2 action aborted
+time to fetch data: 1.438s
+Y move2 action aborted
+time to fetch data: 1.402s
+Y move2 action aborted
+time to fetch data: 1.436s
+Y move2 action aborted
+
+ an FFT action took 1.053 s
+
+time to fetch data: 1.443s
+Y move2 action aborted
+time to fetch data: 1.381s
+Y move2 action aborted
+time to fetch data: 1.432s
+X :86.4 Y :29.0 Z :11.0
+X :135.0 Y :29.0 Z :11.0
+X :135.0 Y :29.0 Z :11.5
+X :135.0 Y :28.0 Z :11.5
+
+CUT HEIGHT:11.5
+
+X :83.0 Y :28.0 Z :11.5
+X :83.0 Y :23.0 Z :11.5
+X :82.6 Y :23.0 Z :11.5
+X :82.6 Y :26.0 Z :11.5
+X move2 action aborted
+Y move2 action aborted
+
+slice 2 zmax scale is 5
+
+time to fetch data: 1.347s
+Y move2 action aborted
+
+ an FFT action took 1.179 s
+
+time to fetch data: 1.414s
+Y move2 action aborted
+
+ an FFT action took 1.032 s
+
+time to fetch data: 1.46s
+Y move2 action aborted
+
+ an FFT action took 1.007 s
+
+time to fetch data: 1.453s
+Y move2 action aborted
+time to fetch data: 1.413s
+Y move2 action aborted
+time to fetch data: 1.423s
+Y move2 action aborted
+
+ an FFT action took 1.062 s
+
+time to fetch data: 1.435s
+Y move2 action aborted
+time to fetch data: 1.433s
+Y move2 action aborted
+time to fetch data: 1.405s
+Y move2 action aborted
+
+ an FFT action took 1.158 s
+
+time to fetch data: 1.371s
+Y move2 action aborted
+time to fetch data: 1.464s
+Y move2 action aborted
+time to fetch data: 1.425s
+Y move2 action aborted
+
+ an FFT action took 1.025 s
+
+time to fetch data: 1.493s
+Y move2 action aborted
+
+ an FFT action took 1.003 s
+
+time to fetch data: 1.404s
+Y move2 action aborted
+time to fetch data: 1.408s
+user stopped acquisition...
+user stopped acquisition...
+79 data received by weaver
+RptBline successfully finished...
+78 Blines displayed
+
+139 FFT actions taken place
+

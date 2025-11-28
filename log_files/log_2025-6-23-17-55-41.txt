@@ -1,0 +1,103 @@
+load disperison compensation success...
+Stage position updated...
+cscan X :87.0 Y :35.1 Z :11.0
+34 data received by weaver
+RptBline successfully finished...
+33 Blines displayed
+
+34 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+281 data received by weaver
+281 Blines displayed
+
+RptBline successfully finished...
+281 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+71 data received by weaver
+71 Blines displayed
+
+inished...
+71 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :87.0 Y :35.1 Z :11.0
+97 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+1 Blines displayed
+
+cscan X :87.0 Y :35.1 Z :11.0
+195 data received by weaver
+RptBline successfully finished...
+194 Blines displayed
+
+195 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :87.0 Y :35.1 Z :11.0
+106 data received by weaver
+RptBline successfully finished...
+106 Blines displayed
+
+106 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+no disperison compensation found...using default
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+133 data received by weaver
+RptBline successfully finished...
+133 Blines displayed
+
+133 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+644 data received by weaver
+RptBline successfully finished...
+644 Blines displayed
+
+644 FFT actions taken place
+
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+X moving: -4.4mm target pos: 82.6
+X :82.6 Y :35.1 Z :11.0
+Y moving: -9.1mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+cscan X :82.6 Y :23.2 Z :11.0
+X moving: 1.9mm target pos: 84.5
+X :84.5 Y :23.2 Z :11.0
+cscan X :84.5 Y :26.0 Z :11.0
+X moving: 1.9mm target pos: 86.4
+X :86.4 Y :26.0 Z :11.0
+cscan X :86.4 Y :23.2 Z :11.0
+tile surf is:33
+
+slice 1 zmax scale is 4
+
+X moving: -3.8mm target pos: 82.6
+X :82.6 Y :23.2 Z :11.0
+Y moving: 2.8mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+Y move2 action aborted
+time to fetch data: 2.647s
+cscan X :82.6 Y :25.6 Z :11.0
+Y move2 action aborted
+time to fetch data: 2.646s
+cscan X :82.6 Y :25.2 Z :11.0
+Y move2 action aborted
+
+ an FFT action took 3.411 s
+

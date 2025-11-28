@@ -1,0 +1,89 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :86.0 Y :35.1 Z :11.0
+324 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+0 Blines displayed
+
+cscan X :86.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :86.0 Y :35.1 Z :11.0
+130 data received by weaver
+RptBline successfully finished...
+130 FFT actions taken place
+
+cscan X :86.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :86.0 Y :35.1 Z :11.0
+2288 data received by weaver
+0 FFT actions taken place
+
+RptAline successfully finished...
+1 Blines displayed
+
+cscan X :86.0 Y :35.1 Z :11.0
+949 data received by weaver
+RptBline successfully finished...
+948 Blines displayed
+
+949 FFT actions taken place
+
+cscan X :86.0 Y :35.1 Z :11.0
+268 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+1 Blines displayed
+
+cscan X :86.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :86.0 Y :35.1 Z :11.0
+147 data received by weaver
+146 Blines displayed
+
+RptBline successfully finished...
+147 FFT actions taken place
+
+cscan X :86.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+cscan X :86.0 Y :35.1 Z :11.0
+68 data received by weaver
+RptBline successfully finished...
+68 Blines displayed
+
+68 FFT actions taken place
+
+cscan X :86.0 Y :35.1 Z :11.0
+SingleAline successfully finished...
+no disperison compensation found...using default
+load disperison compensation success...
+cscan X :86.0 Y :35.1 Z :11.0
+407 data received by weaver
+RptBline successfully finished...
+407 Blines displayed
+
+407 FFT actions taken place
+
+cscan X :86.0 Y :35.1 Z :11.0
+285 data received by weaver
+RptBline successfully finished...
+285 Blines displayed
+
+285 FFT actions taken place
+
+cscan X :86.0 Y :35.1 Z :11.0
+2943 data received by weaver
+0 FFT actions taken place
+
+RptAline successfully finished...
+1 Blines displayed
+
+cscan X :86.0 Y :35.1 Z :11.0
+248 data received by weaver
+RptBline successfully finished...
+247 Blines displayed
+
+248 FFT actions taken place
+

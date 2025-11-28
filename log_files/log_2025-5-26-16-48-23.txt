@@ -1,0 +1,14 @@
+Stage position updated...
+load disperison compensation success...
+X moving: 4.5mm target pos: 128.31
+X :128.31 Y :18.5 Z :2.4
+X moving: -4.5mm target pos: 123.81
+X :123.81 Y :18.5 Z :2.4
+ slicing and imaging depth same, one image per cut...
+Y moving: 10.5mm target pos: 29.0
+X :123.81 Y :29.0 Z :2.4
+X moving: 11.19mm target pos: 135.0
+X :135.0 Y :29.0 Z :2.4
+
+An error occurred, skip the AODO action
+

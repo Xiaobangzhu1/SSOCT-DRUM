@@ -1,0 +1,152 @@
+Stage position updated...
+load disperison compensation success...
+Stage position updated...
+Y moving: 1.0mm target pos: 25.4
+X :0.0 Y :25.4 Z :1.0
+Y moving: -1.0mm target pos: 24.4
+X :0.0 Y :24.4 Z :1.0
+Y moving: -1.0mm target pos: 23.4
+X :0.0 Y :23.4 Z :1.0
+Y moving: -1.0mm target pos: 22.4
+X :0.0 Y :22.4 Z :1.0
+Y moving: -1.0mm target pos: 21.4
+X :0.0 Y :21.4 Z :1.0
+Y moving: -1.0mm target pos: 20.4
+X :0.0 Y :20.4 Z :1.0
+Y moving: -1.0mm target pos: 19.4
+X :0.0 Y :19.4 Z :1.0
+Y moving: -1.0mm target pos: 18.4
+X :0.0 Y :18.4 Z :1.0
+Y moving: -1.0mm target pos: 17.4
+X :0.0 Y :17.4 Z :1.0
+Y moving: -1.0mm target pos: 16.4
+X :0.0 Y :16.4 Z :1.0
+Y moving: -2.0mm target pos: 14.4
+X :0.0 Y :14.4 Z :1.0
+Y moving: -2.0mm target pos: 12.4
+X :0.0 Y :12.4 Z :1.0
+Y moving: -2.0mm target pos: 10.4
+X :0.0 Y :10.4 Z :1.0
+Y moving: -2.0mm target pos: 8.4
+X :0.0 Y :8.4 Z :1.0
+Y moving: -2.0mm target pos: 6.4
+X :0.0 Y :6.4 Z :1.0
+Y moving: -2.0mm target pos: 4.4
+X :0.0 Y :4.4 Z :1.0
+Stage position updated...
+X moving: 130.0mm target pos: 130.0
+X :130.0 Y :0.0 Z :1.0
+X moving: -30.0mm target pos: 100.0
+X :100.0 Y :0.0 Z :1.0
+Y moving: 32.0mm target pos: 32.0
+X :100.0 Y :32.0 Z :1.0
+Y moving: 2.0mm target pos: 34.0
+X :100.0 Y :34.0 Z :1.0
+Y moving: 1.0mm target pos: 35.0
+X :100.0 Y :35.0 Z :1.0
+Y moving: 1.0mm target pos: 36.0
+X :100.0 Y :36.0 Z :1.0
+Y moving: 1.0mm target pos: 37.0
+X :100.0 Y :37.0 Z :1.0
+Y moving: 1.0mm target pos: 38.0
+X :100.0 Y :38.0 Z :1.0
+Y moving: -20.0mm target pos: 18.0
+X :100.0 Y :18.0 Z :1.0
+Y moving: -3.0mm target pos: 15.0
+X :100.0 Y :15.0 Z :1.0
+Y moving: -3.0mm target pos: 12.0
+X :100.0 Y :12.0 Z :1.0
+Y moving: -2.0mm target pos: 10.0
+X :100.0 Y :10.0 Z :1.0
+Y moving: -1.0mm target pos: 9.0
+X :100.0 Y :9.0 Z :1.0
+Y moving: -1.0mm target pos: 8.0
+X :100.0 Y :8.0 Z :1.0
+Y moving: 30.0mm target pos: 38.0
+X :100.0 Y :38.0 Z :1.0
+X moving: 30.0mm target pos: 130.0
+X :130.0 Y :38.0 Z :1.0
+Z move2 action aborted
+Y moving: -30.0mm target pos: 8.0
+X :130.0 Y :8.0 Z :1.0
+Slice success
+Y moving: 30.0mm target pos: 38.0
+X :130.0 Y :38.0 Z :1.0
+X move2 action aborted
+Z move2 action aborted
+Y moving: -30.0mm target pos: 8.0
+X :130.0 Y :8.0 Z :1.0
+Slice success
+Y moving: 30.0mm target pos: 38.0
+X :130.0 Y :38.0 Z :1.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 1.5
+X :130.0 Y :38.0 Z :1.5
+Y moving: -30.0mm target pos: 8.0
+X :130.0 Y :8.0 Z :1.5
+Slice success
+Y moving: 30.0mm target pos: 38.0
+X :130.0 Y :38.0 Z :1.5
+X move2 action aborted
+Z moving: 0.5mm target pos: 2.0
+X :130.0 Y :38.0 Z :2.0
+Y moving: -30.0mm target pos: 8.0
+X :130.0 Y :8.0 Z :2.0
+Slice success
+Y moving: 27.0mm target pos: 35.0
+X :130.0 Y :35.0 Z :2.0
+X move2 action aborted
+Z moving: 1.0mm target pos: 3.0
+X :130.0 Y :35.0 Z :3.0
+Y moving: -24.0mm target pos: 11.0
+X :130.0 Y :11.0 Z :3.0
+Slice success
+Y moving: 24.0mm target pos: 35.0
+X :130.0 Y :35.0 Z :3.0
+X move2 action aborted
+Z moving: 0.5mm target pos: 3.5
+X :130.0 Y :35.0 Z :3.5
+Y moving: -24.0mm target pos: 11.0
+X :130.0 Y :11.0 Z :3.5
+Slice success
+Y moving: 23.0mm target pos: 34.0
+X :130.0 Y :34.0 Z :3.5
+Z moving: 0.5mm target pos: 4.0
+X :130.0 Y :34.0 Z :4.0
+Z moving: 0.5mm target pos: 4.5
+X :130.0 Y :34.0 Z :4.5
+Z moving: 0.5mm target pos: 5.0
+X :130.0 Y :34.0 Z :5.0
+Z moving: 0.5mm target pos: 5.5
+X :130.0 Y :34.0 Z :5.5
+Y moving: 1.0mm target pos: 35.0
+X :130.0 Y :35.0 Z :5.5
+X move2 action aborted
+Z move2 action aborted
+Y moving: -24.0mm target pos: 11.0
+X :130.0 Y :11.0 Z :5.5
+Slice success
+Y moving: 24.0mm target pos: 35.0
+X :130.0 Y :35.0 Z :5.5
+X move2 action aborted
+Z moving: 0.5mm target pos: 6.0
+X :130.0 Y :35.0 Z :6.0
+Y moving: -24.0mm target pos: 11.0
+X :130.0 Y :11.0 Z :6.0
+Slice success
+Y moving: 22.0mm target pos: 33.0
+X :130.0 Y :33.0 Z :6.0
+X move2 action aborted
+Z moving: 0.2mm target pos: 6.2
+X :130.0 Y :33.0 Z :6.2
+Y moving: -20.0mm target pos: 13.0
+X :130.0 Y :13.0 Z :6.2
+Slice success
+Y moving: 20.0mm target pos: 33.0
+X :130.0 Y :33.0 Z :6.2
+X move2 action aborted
+Z moving: 0.1mm target pos: 6.3
+X :130.0 Y :33.0 Z :6.3
+Y moving: -20.0mm target pos: 13.0
+X :130.0 Y :13.0 Z :6.3
+Slice success

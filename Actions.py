@@ -11,10 +11,8 @@ import numpy as np
 class AODOAction():
     def __init__(self, action, direction = 1):
         super().__init__()
-        self.action=action
+        self.action = action
         self.direction = direction
-
-        
 
 class WeaverAction():
     def __init__(self, action):
@@ -36,6 +34,20 @@ class GPUAction():
         self.mode = mode
         self.memoryLoc = memoryLoc
         self.args = args
+
+class UVCameraAction():
+    def __init__(self, action, args = [], selection = {}):
+        super().__init__()
+        self.action = action
+        self.args = args
+        self.selection = selection
+
+class UVLightAction():
+    def __init__(self, action, args = [], selection = {}):
+        super().__init__()
+        self.action = action
+        self.args = args
+        self.selection = selection
         
 class DAction():
     def __init__(self, action):

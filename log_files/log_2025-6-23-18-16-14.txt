@@ -1,0 +1,139 @@
+Stage position updated...
+load disperison compensation success...
+X move2 action aborted
+Y move2 action aborted
+X move2 action aborted
+Y move2 action aborted
+
+slice 1 zmax scale is 5
+
+time to fetch data: 1.349s
+Y move2 action aborted
+
+ an FFT action took 1.279 s
+
+time to fetch data: 1.418s
+Y move2 action aborted
+
+ an FFT action took 1.049 s
+
+time to fetch data: 1.418s
+Y move2 action aborted
+time to fetch data: 1.477s
+Y move2 action aborted
+time to fetch data: 1.577s
+Y move2 action aborted
+time to fetch data: 1.481s
+Y move2 action aborted
+time to fetch data: 1.403s
+Y move2 action aborted
+time to fetch data: 1.442s
+Y move2 action aborted
+
+ an FFT action took 1.013 s
+
+time to fetch data: 1.447s
+Y move2 action aborted
+time to fetch data: 1.364s
+Y move2 action aborted
+time to fetch data: 1.415s
+Y move2 action aborted
+time to fetch data: 1.442s
+Y move2 action aborted
+time to fetch data: 1.367s
+Y move2 action aborted
+
+ an FFT action took 1.028 s
+
+time to fetch data: 1.417s
+Y move2 action aborted
+time to fetch data: 1.387s
+X :84.5 Y :23.0 Z :11.0
+Y move2 action aborted
+time to fetch data: 1.447s
+Y move2 action aborted
+time to fetch data: 1.413s
+Y move2 action aborted
+time to fetch data: 1.401s
+Y move2 action aborted
+time to fetch data: 1.41s
+Y move2 action aborted
+time to fetch data: 1.398s
+Y move2 action aborted
+time to fetch data: 1.419s
+Y move2 action aborted
+time to fetch data: 1.47s
+Y move2 action aborted
+time to fetch data: 1.377s
+Y move2 action aborted
+time to fetch data: 1.395s
+Y move2 action aborted
+time to fetch data: 1.359s
+Y move2 action aborted
+time to fetch data: 1.444s
+Y move2 action aborted
+time to fetch data: 1.386s
+Y move2 action aborted
+time to fetch data: 1.501s
+Y move2 action aborted
+time to fetch data: 1.427s
+Y move2 action aborted
+time to fetch data: 1.484s
+X :86.4 Y :26.0 Z :11.0
+Y move2 action aborted
+time to fetch data: 1.41s
+Y move2 action aborted
+
+ an FFT action took 1.004 s
+
+time to fetch data: 1.394s
+Y move2 action aborted
+time to fetch data: 1.435s
+Y move2 action aborted
+time to fetch data: 1.385s
+Y move2 action aborted
+time to fetch data: 1.364s
+Y move2 action aborted
+time to fetch data: 1.375s
+Y move2 action aborted
+time to fetch data: 1.429s
+Y move2 action aborted
+time to fetch data: 1.375s
+Y move2 action aborted
+time to fetch data: 1.442s
+Y move2 action aborted
+time to fetch data: 1.388s
+Y move2 action aborted
+time to fetch data: 1.419s
+Y move2 action aborted
+time to fetch data: 1.393s
+Y move2 action aborted
+time to fetch data: 1.437s
+Y move2 action aborted
+time to fetch data: 1.415s
+Y move2 action aborted
+time to fetch data: 1.429s
+Mosaic successfully finished...
+ slicing and imaging depth same, one image per cut...
+X :86.4 Y :29.0 Z :11.0
+X :135.0 Y :29.0 Z :11.0
+Z move2 action aborted
+X :135.0 Y :28.0 Z :11.0
+
+CUT HEIGHT:11.0
+
+X :83.0 Y :28.0 Z :11.0
+X :83.0 Y :23.0 Z :11.0
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+X :82.6 Y :23.0 Z :11.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+X :84.5 Y :23.0 Z :11.0
+tile surf is:107
+PreMosaic stopped by user...
+PreMosaic stopped by user...

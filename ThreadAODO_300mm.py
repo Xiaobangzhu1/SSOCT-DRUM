@@ -138,8 +138,8 @@ class AODOThread(QThread):
                     print(message)
                     # self.ui.PrintOut.append(message)
                     self.log.write(message)
-            except Exception:
-                message = "\nAn error occurred,"+" skip the AODO action\n"
+            except Exception as error:
+                message = "\nAn error occurred in AODO action, skiping: " +str(error)
                 print(message)
                 self.ui.statusbar.showMessage(message)
                 # self.ui.PrintOut.append(message)

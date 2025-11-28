@@ -1,0 +1,72 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+797 data received by weaver
+RptBline successfully finished...
+796 Blines displayed
+
+797 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+1720 data received by weaver
+RptBline successfully finished...
+1720 Blines displayed
+
+1720 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+219 data received by weaver
+RptBline successfully finished...
+219 Blines displayed
+
+219 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+13 data received by weaver
+RptBline successfully finished...
+13 Blines displayed
+
+13 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+26 data received by weaver
+RptBline successfully finished...
+26 Blines displayed
+
+26 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+371 data received by weaver
+RptAline successfully finished...
+0 FFT actions taken place
+
+1 Blines displayed
+
+cscan X :87.0 Y :35.1 Z :11.0
+56 data received by weaver
+RptBline successfully finished...
+55 Blines displayed
+
+56 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+164 data received by weaver
+RptBline successfully finished...
+164 Blines displayed
+
+164 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+15 data received by weaver
+RptBline successfully finished...
+15 Blines displayed
+
+15 FFT actions taken place
+
+cscan X :87.0 Y :35.1 Z :11.0
+306 data received by weaver
+RptBline successfully finished...
+306 Blines displayed
+
+306 FFT actions taken place
+

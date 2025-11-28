@@ -1,0 +1,29 @@
+Stage position updated...
+load disperison compensation success...
+cscan X :87.0 Y :35.1 Z :11.0
+SingleBline successfully finished...
+cscan X :87.0 Y :35.1 Z :11.0
+SingleBline successfully finished...
+
+ Y dimension scan speed accellaration scale for fast pre-scan is10
+
+
+ fast pre-scan mosaic display scale is5
+
+
+An error occurred: skip the display and save action
+
+X moving: -4.4mm target pos: 82.6
+X :82.6 Y :35.1 Z :11.0
+Y moving: -9.1mm target pos: 26.0
+X :82.6 Y :26.0 Z :11.0
+X move2 action aborted
+
+An error occurred, skip the AODO action
+
+
+An error occurred: skip the display and save action
+
+
+An error occurred, skip the AODO action
+

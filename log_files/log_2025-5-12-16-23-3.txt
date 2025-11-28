@@ -1,0 +1,29 @@
+no disperison compensation found...using default
+cscan X :90.0 Y :25.0 Z :2.0
+13 data received by weaver
+RptBline successfully finished...
+12 Blines displayed
+
+13 FFT actions taken place
+
+cscan X :90.0 Y :25.0 Z :2.0
+21 data received by weaver
+RptBline successfully finished...
+21 Blines displayed
+
+21 FFT actions taken place
+
+cscan X :90.0 Y :25.0 Z :2.0
+88 data received by weaver
+RptBline successfully finished...
+88 Blines displayed
+
+88 FFT actions taken place
+
+cscan X :90.0 Y :25.0 Z :2.0
+27 data received by weaver
+RptBline successfully finished...
+27 Blines displayed
+
+27 FFT actions taken place
+
